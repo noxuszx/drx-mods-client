@@ -1786,6 +1786,11 @@ hash = "5a21b57951f08465ee9a49e5a7650655291dd441e8ee114c6a7c7caf0a180527"
 metafile = true
 
 [[files]]
+file = "mods/athena-ctm.pw.toml"
+hash = "f54cf71372645810ce22b0ba68e706139565437150e4cfd22bde4c14606099c4"
+metafile = true
+
+[[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "e8650a690b56921039a7f984c71ebffc8a4e47d0c74e836eee64d964d76538fd"
 metafile = true
@@ -1828,6 +1833,11 @@ metafile = true
 [[files]]
 file = "mods/champions-unofficial.pw.toml"
 hash = "628be987e60028bc366b044a1f37eca3e12e58a9af234bf78bd59785ef9b4d41"
+metafile = true
+
+[[files]]
+file = "mods/chipped.pw.toml"
+hash = "24c6c3fe917ffbcef04e788dec3e003d0ed03433bc00f9cf4f23fe9b85636aa7"
 metafile = true
 
 [[files]]
@@ -2253,6 +2263,11 @@ metafile = true
 [[files]]
 file = "mods/registry-dumper-3000.pw.toml"
 hash = "bddad9ef0462154cd1e5d95105d155a8128571df325d6bbaf92bb50b51c8ac12"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "c0b066684294c33972d562e0cb08ea17b2d31bcf86cd1d6c63b8e968f0eac7a2"
 metafile = true
 
 [[files]]
