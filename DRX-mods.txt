@@ -1,0 +1,120 @@
+name	version	stem
+Alex's Delight	7612806	alexs-delight
+Alex's Mobs (Unofficial Port)	KSgki4uc	alexs-mobs(1.21.1)
+Amber	r2iUUln6	amber
+Amendments	q4ONMoPa	amendments
+Aquaculture Delight	VFpyJiVp	aquaculture-delight
+Aquaculture 2	5pbz0ETj	aquaculture
+Architectury API	5786327	architectury-api
+Ars Nouveau	lEeNuwlW	ars-nouveau
+Artifacts	rGPw090r	artifacts
+BadOptimizations	S2qthD5S	badoptimizations
+Create: Bells & Whistles	w0mifib8	bellsandwhistles
+Better Combat	2NyTus6V	better-combat
+Better Than Mending	xv5fSPWX	better-than-mending
+Bosses'Rise	lE9PF6Wp	bossesrise
+Butchery	CVh30q4F	butchery
+Carry On	cgZi7nC7	carry-on
+Carry On + Create Aeronautics Compat	z7xbAdje	carryon-aeronautics-compat
+Champions-Unofficial	uYqygr0K	champions-unofficial
+Chunky	LuFhm4eU	chunky
+Citadel (Unofficial Port)	mIylVpkN	citadel-(1.21.1-port)
+Cloth Config API	izKINKFg	cloth-config
+Compat Delight	lBjjKnwQ	compat-delight
+Create: Copycats+	kecZ0sl7	copycats
+Create Aeronautics	w7zlLnea	create-aeronautics
+Create: Aquatic Ambitions	cgOQIktB	create-aquatic-ambitions
+Create: Central Kitchen	kmHFmmpV	create-central-kitchen
+Create Deco	qrcMVoBD	create-deco
+Create: Diesel Generators	Kijd1iDy	create-diesel-generators
+Create: Dragons Plus	lSnZyFnZ	create-dragons-plus
+Create: Easy Structures	ECkmsrG4	create-easy-structures
+Create Jetpack	4Ndp4d21	create-jetpack
+Create: Let The Adventure Begin	hQILBaAG	create-let-the-adventure-begin
+Create: Misc and Things	zfExofVB	create-misc-and-things
+Create: Pillager Arise	dSpuz2DS	create-pillager-arise
+Create: Rustic Structures	d0sTQvqS	create-rustic-structures
+Create: Structures Arise	ZFrDlvkl	create-structures-arise
+Create Stuff 'N Additions	5xWzE6Yk	create-stuff-additions
+Create	UjX6dr61	create
+Create Crafts & Additions	qPr8V4G2	createaddition
+Cryonic Config	GW2YX76Y	cryonicconfig
+Cull Leaves	V7PU4g8I	cull-leaves
+Cupboard	8260590	cupboard
+Curios API	yohfFbgD	curios
+Decocraft	Z8xm2POI	decocraft
+Display Delight	LhcOrDyJ	display-delight
+Dungeon Crawl	D7lKpb69	dungeoncrawl
+Dungeons and Taverns	BYUUUeZA	dungeons-and-taverns
+Dynamic FPS	T238FZpQ	dynamic-fps
+Easy Diet	W4IYzGso	easy-diet
+Enchanting Infuser	AoOYPAOZ	enchanting-infuser
+End Remastered	aqYxfNAS	endrem
+Enhanced Block Entities NEOFORGED	Qt6IBri6	enhanced-block-entities-neoforged
+Enhanced Enchanting & Enchantments	8323222	enhanced-enchanting
+Entity Culling	5zRIon6w	entityculling
+Farmer's Delight	8083481	farmers-delight
+FastFurnace	pqj92Yco	fastfurnace
+FastWorkbench	IwciHwPN	fastworkbench
+FerriteCore	x7kQWVju	ferrite-core
+Forge Config API Port	tWlsPKJI	forge-config-api-port
+Framework	7530361	framework
+FTB Library (NeoForge)	8226923	ftb-library-forge
+FTB Ultimine (NeoForge)	8231400	ftb-ultimine-forge
+Fzzy Config	MAPG6cXE	fzzy-config
+Geckolib	hv8CwiCV	geckolib
+GlitchCore	S2TfWrZR	glitchcore
+IceAndFire Community Edition	kdvvFM7V	iceandfire-ce
+ Integrated Dungeons and Structures	bpMwZSKf	idas
+ImmediatelyFast	PhxY0iHw	immediatelyfast
+Integrated API	X16u6myK	integrated-api
+Integrated Catalcysm	rpOm77o6	integrated-catalcysm
+Integrated Dungeons Arise	mUchb4lO	integrated-dungeons-arise
+Integrated Simply Swords	3n9GNXGh	integrated-simply-swords
+Integrated Villages	B5BcNY1z	integrated-villages
+Create: Interiors	gBrfZy6S	interiors
+Inventory Tweaks: ReFoxed	tcTciTmQ	inventory-tweaks-refoxed
+Just Enough Items (JEI)	iiCpE7cU	jei
+Jupiter	Jpcw76rq	jupiter
+Kotlin for Forge	NrSebcsG	kotlin-for-forge
+KubeJS	F2nzeC19	kubejs
+L_Ender 's Cataclysm Delight	cl5zVy2S	l_enders-cataclysm-delight
+L_Ender's Cataclysm	uvjXrHuz	l_enders-cataclysm
+Legendary Survival Overhaul	qVabfOA6	legendary-survival-overhaul
+[Let's Do] Vinery	ZywXpLC6	lets-do-vinery
+Lionfish-API	mWkKVbyd	lionfish-api
+Lithium	DDUrRVCA	lithium
+Lithostitched	vioNV2Gt	lithostitched
+Loot Integrations: Dungeons and Taverns	8325435	loot-integrations-dungeons-and-taverns
+Loot Integrations: Integrated Dungeons, Villages & Strongholds & Cataclysm	7920258	loot-integrations-integrated-dungeons-villages
+Loot Integrations	6640970	loot-integrations
+MidnightLib	6Gv5jvTB	midnightlib
+ModernFix	KcU1Mn0I	modernfix
+Moonlight Lib	GIPutI3U	moonlight
+More Culling	tFPgktUw	moreculling
+Noisium	nJBE6tif	noisium
+Pipez	z20ZR1YE	pipez
+Placebo	nU7CXkMr	placebo
+playerAnimator	HJZB6bmA	playeranimator
+Polymorph	VEburL70	polymorph
+Puzzles Lib	5A6wiMVf	puzzles-lib
+Quark	hMLnxKZx	quark
+MrCrayfish's Furniture Mod: Refurbished	7473565	refurbished-furniture
+Regions Unexplored	UDU1ASon	regions-unexplored
+Registry Dumper 3000	n7r6EVFv	registry-dumper-3000
+Rhino	cQ4POTah	rhino
+Sable	1L6XJqnY	sable
+Serene Seasons	SPj5bJoM	serene-seasons
+ServerCore	6N9hXiRa	servercore
+Simply Swords	eREhvVpQ	simply-swords
+Simply Tooltips	Ic73EcJ6	simply-tooltips
+Create Slice & Dice	cV2GZBSJ	slice-and-dice
+Server Performance - Smooth Chunk Save	6296628	smooth-chunk-save
+Sodium	7XOIgnrf	sodium
+Sophisticated Backpacks	6Weuw6cc	sophisticated-backpacks
+Sophisticated Core	dODtaURi	sophisticated-core
+spark	v5qtqRQi	spark
+Structure Essentials	7962596	structure-essentials-forge-fabric
+Supplementaries	53oYzPfG	supplementaries
+Uranus	1YdU56pR	uranus
+Zeta	9GjNW2Gf	zeta
