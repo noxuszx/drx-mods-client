@@ -1,0 +1,16 @@
+{
+	"mod": "legendarysurvivaloverhaul",
+	"total_chest_tables": 10,
+	"loot_tables": [
+		"legendarysurvivaloverhaul:inject/chests/nether_bridge",
+		"legendarysurvivaloverhaul:inject/chests/abandoned_mineshaft",
+		"legendarysurvivaloverhaul:inject/chests/bastion_other",
+		"legendarysurvivaloverhaul:inject/chests/bastion_hoglin_stable",
+		"legendarysurvivaloverhaul:inject/chests/buried_treasure",
+		"legendarysurvivaloverhaul:inject/chests/desert_pyramid",
+		"legendarysurvivaloverhaul:inject/chests/jungle_temple",
+		"legendarysurvivaloverhaul:inject/chests/bastion_treasure",
+		"legendarysurvivaloverhaul:inject/chests/pillager_outpost",
+		"legendarysurvivaloverhaul:inject/chests/bastion_bridge"
+	]
+}

@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "regions_unexplored:joshua_desert",
+    "regions_unexplored:saguaro_desert",
+    "regions_unexplored:outback",
+    "regions_unexplored:baobab_savanna",
+    "regions_unexplored:dry_bushland"
+  ]
+}

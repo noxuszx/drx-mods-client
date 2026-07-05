@@ -1,0 +1,13 @@
+name = "Integrated Simply Swords"
+filename = "integrated_simply_swords-1.4.0+1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/X6XpwjH5/versions/3n9GNXGh/integrated_simply_swords-1.4.0%2B1.21.1-neoforge.jar"
+hash-format = "sha512"
+hash = "b4963a1e7327792b991283673fc1a7015473d7d23aa1c7ea53e8da59ab534b0364a2a0dac1d1b10a57ace8e286f8385940f3aa4451b16d1a310b0e2b849bdf7f"
+
+[update]
+[update.modrinth]
+mod-id = "X6XpwjH5"
+version = "3n9GNXGh"

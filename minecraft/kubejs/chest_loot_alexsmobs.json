@@ -1,0 +1,7 @@
+{
+	"mod": "alexsmobs",
+	"total_chest_tables": 1,
+	"loot_tables": [
+		"alexsmobs:gameplay/trader_elephant_chest"
+	]
+}

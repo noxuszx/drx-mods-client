@@ -1,0 +1,7 @@
+{
+	"mod": "ars_nouveau",
+	"total_chest_tables": 1,
+	"loot_tables": [
+		"ars_nouveau:blocks/archwood_chest"
+	]
+}

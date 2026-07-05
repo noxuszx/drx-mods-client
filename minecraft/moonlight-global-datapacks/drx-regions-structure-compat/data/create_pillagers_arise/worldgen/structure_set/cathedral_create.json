@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "create_pillagers_arise:cathedral_create",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 300,
+    "separation": 6,
+    "salt": 647315576
+  }
+}

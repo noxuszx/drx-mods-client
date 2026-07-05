@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "create_pillagers_arise:createpillagerfortgate",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 70,
+    "separation": 10,
+    "salt": 1379539121
+  }
+}

@@ -1,0 +1,15 @@
+{
+	"mod": "dungeoncrawl",
+	"total_chest_tables": 9,
+	"loot_tables": [
+		"dungeoncrawl:chests/secret_room",
+		"dungeoncrawl:chests/stage_3",
+		"dungeoncrawl:chests/stage_4",
+		"dungeoncrawl:chests/stage_5",
+		"dungeoncrawl:chests/stage_1",
+		"dungeoncrawl:chests/stage_2",
+		"dungeoncrawl:chests/treasure",
+		"dungeoncrawl:chests/supply",
+		"dungeoncrawl:chests/food"
+	]
+}

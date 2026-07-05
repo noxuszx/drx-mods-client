@@ -1,0 +1,15 @@
+{
+	"mod": "sophisticatedbackpacks",
+	"total_chest_tables": 9,
+	"loot_tables": [
+		"sophisticatedbackpacks:inject/chests/bastion_treasure",
+		"sophisticatedbackpacks:inject/chests/woodland_mansion",
+		"sophisticatedbackpacks:inject/chests/spawn_bonus_chest",
+		"sophisticatedbackpacks:inject/chests/nether_bridge",
+		"sophisticatedbackpacks:inject/chests/abandoned_mineshaft",
+		"sophisticatedbackpacks:inject/chests/simple_dungeon",
+		"sophisticatedbackpacks:inject/chests/shipwreck_treasure",
+		"sophisticatedbackpacks:inject/chests/end_city_treasure",
+		"sophisticatedbackpacks:inject/chests/desert_pyramid"
+	]
+}

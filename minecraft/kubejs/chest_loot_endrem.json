@@ -1,0 +1,17 @@
+{
+	"mod": "endrem",
+	"total_chest_tables": 11,
+	"loot_tables": [
+		"endrem:minecraft/chests/pillager_outpost",
+		"endrem:minecraft/chests/nether_bridge",
+		"endrem:minecraft/chests/abandoned_mineshaft",
+		"endrem:minecraft/chests/woodland_mansion",
+		"endrem:minecraft/chests/igloo_chest",
+		"endrem:minecraft/chests/shipwreck_treasure",
+		"endrem:minecraft/chests/jungle_temple",
+		"endrem:minecraft/chests/buried_treasure",
+		"endrem:minecraft/chests/desert_pyramid",
+		"endrem:minecraft/chests/bastion_treasure",
+		"endrem:minecraft/chests/simple_dungeon"
+	]
+}

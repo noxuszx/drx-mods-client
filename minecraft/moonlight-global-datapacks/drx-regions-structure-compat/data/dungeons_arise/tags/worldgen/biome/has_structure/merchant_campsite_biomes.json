@@ -1,0 +1,33 @@
+{
+  "replace": false,
+  "values": [
+    "regions_unexplored:barley_fields",
+    "regions_unexplored:clover_plains",
+    "regions_unexplored:flower_fields",
+    "regions_unexplored:glistering_meadow",
+    "regions_unexplored:grassland",
+    "regions_unexplored:highland_fields",
+    "regions_unexplored:poppy_fields",
+    "regions_unexplored:prairie",
+    "regions_unexplored:pumpkin_fields",
+    "regions_unexplored:rocky_meadow",
+    "regions_unexplored:shrubland",
+    "regions_unexplored:steppe",
+    "regions_unexplored:baobab_savanna",
+    "regions_unexplored:dry_bushland",
+    "regions_unexplored:outback",
+    "regions_unexplored:steppe",
+    "regions_unexplored:ashen_woodland",
+    "regions_unexplored:autumnal_maple_forest",
+    "regions_unexplored:cold_deciduous_forest",
+    "regions_unexplored:deciduous_forest",
+    "regions_unexplored:magnolia_woodland",
+    "regions_unexplored:maple_forest",
+    "regions_unexplored:old_growth_forest",
+    "regions_unexplored:orchard",
+    "regions_unexplored:temperate_grove",
+    "regions_unexplored:willow_forest",
+    "regions_unexplored:windswept_maple_forest",
+    "regions_unexplored:wisteria_grove"
+  ]
+}

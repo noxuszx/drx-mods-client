@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "regions_unexplored:icy_heights",
+    "regions_unexplored:mountains",
+    "regions_unexplored:spires"
+  ]
+}

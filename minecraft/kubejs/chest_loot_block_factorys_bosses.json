@@ -1,0 +1,12 @@
+{
+	"mod": "block_factorys_bosses",
+	"total_chest_tables": 6,
+	"loot_tables": [
+		"block_factorys_bosses:chests/dragon_tower_common",
+		"block_factorys_bosses:chests/underworld_arena_common",
+		"block_factorys_bosses:chests/underworld_arena_vault",
+		"block_factorys_bosses:chests/underworld_arena_rare",
+		"block_factorys_bosses:chests/dragon_tower",
+		"block_factorys_bosses:chests/underworld_arena_trash"
+	]
+}

@@ -1,0 +1,21 @@
+{
+	"mod": "iceandfire",
+	"total_chest_tables": 15,
+	"loot_tables": [
+		"iceandfire:chest/lightning_dragon_female_cave",
+		"iceandfire:chest/fire_dragon_roost",
+		"iceandfire:chest/ice_dragon_male_cave",
+		"iceandfire:chest/village_scribe",
+		"iceandfire:chest/fire_dragon_male_cave",
+		"iceandfire:chest/lightning_dragon_roost",
+		"iceandfire:chest/fire_dragon_female_cave",
+		"iceandfire:blocks/ghost_chest",
+		"iceandfire:chest/hydra_cave",
+		"iceandfire:chest/ice_dragon_female_cave",
+		"iceandfire:chest/lightning_dragon_male_cave",
+		"iceandfire:chest/graveyard",
+		"iceandfire:chest/cyclops_cave",
+		"iceandfire:chest/mausoleum_chest",
+		"iceandfire:chest/ice_dragon_roost"
+	]
+}

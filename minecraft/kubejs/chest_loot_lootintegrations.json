@@ -1,0 +1,13 @@
+{
+	"mod": "lootintegrations",
+	"total_chest_tables": 7,
+	"loot_tables": [
+		"lootintegrations:chests/empty",
+		"lootintegrations:chests/medium",
+		"lootintegrations:chests/easy",
+		"lootintegrations:chests/nether",
+		"lootintegrations:chests/water",
+		"lootintegrations:chests/village",
+		"lootintegrations:chests/hard"
+	]
+}

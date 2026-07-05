@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "create_pillagers_arise:createchinatower",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 85,
+    "separation": 2,
+    "salt": 993149696
+  }
+}

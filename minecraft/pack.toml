@@ -1,0 +1,12 @@
+name = "DRX - Reforged"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "19f551a7f954ff354bad999f66cb740c0ce16d1a5cb05f716ce1698bfd4de741"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.234"

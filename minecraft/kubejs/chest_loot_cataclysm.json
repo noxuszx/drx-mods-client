@@ -1,0 +1,22 @@
+{
+	"mod": "cataclysm",
+	"total_chest_tables": 16,
+	"loot_tables": [
+		"cataclysm:chests/sunken_city/sunken_city_tools",
+		"cataclysm:chests/cursed_pyramid/cursed_pyramid",
+		"cataclysm:chests/soul_black_smith/soul_black_smith",
+		"cataclysm:chests/abandoned_treasure",
+		"cataclysm:chests/cursed_pyramid/cursed_pyramid_library",
+		"cataclysm:chests/acropolis_treasure",
+		"cataclysm:chests/cursed_pyramid/cursed_pyramid_tomb",
+		"cataclysm:chests/ancient_factory/ancient_factory",
+		"cataclysm:chests/cursed_pyramid/cursed_pyramid_treasure",
+		"cataclysm:chests/sunken_city/sunken_city_library",
+		"cataclysm:chests/sunken_city/sunken_city_treasure",
+		"cataclysm:chests/desert_treasure",
+		"cataclysm:chests/burning_arena/burning_arena",
+		"cataclysm:chests/abandoned",
+		"cataclysm:chests/frosted_prison_treasure",
+		"cataclysm:chests/amethyst_nest_chest"
+	]
+}

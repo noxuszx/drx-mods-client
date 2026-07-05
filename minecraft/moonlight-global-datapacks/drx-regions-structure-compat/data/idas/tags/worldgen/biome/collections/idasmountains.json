@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "regions_unexplored:arid_mountains",
+    "regions_unexplored:chalk_cliffs",
+    "regions_unexplored:icy_heights",
+    "regions_unexplored:mauve_hills",
+    "regions_unexplored:mountains",
+    "regions_unexplored:pine_slopes",
+    "regions_unexplored:spires",
+    "regions_unexplored:towering_cliffs"
+  ]
+}

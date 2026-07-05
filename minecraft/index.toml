@@ -1,0 +1,3785 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/Butchery.toml"
+hash = "c5343e555957f67e78aa18d0b5ab803d9927c09807bc0ef9f04eab94e18de30e"
+
+[[files]]
+file = "config/EndRemastered-NeoForge/Eyes/black_eye.json"
+hash = "0ce694b7842011f30705cbadc1140a105e15eabe5983dd62605d82e57fefd201"
+
+[[files]]
+file = "config/EndRemastered-NeoForge/Eyes/cold_eye.json"
+hash = "c4c4ab0d7606039bd261d43dd2f1800ba846e61dc8e9961b8ac4358cfabea768"
+
+[[files]]
+file = "config/EndRemastered-NeoForge/Eyes/corrupted_eye.json"
+hash = "121aeee0689da901f5f79589ef7382b94c04bdefc0a87ea0ffebeac467dfbdf2"
+
+[[files]]
+file = "config/EndRemastered-NeoForge/Eyes/cryptic_eye.json"
+hash = "ef23863e4d876d0aa07af8d57f5d561b90ca72ef47441321fee2afdcf6202624"
+
+[[files]]
+file = "config/EndRemastered-NeoForge/Eyes/cursed_eye.json"
+hash = "25b39227a4ef5f485544a0824baa72a8f676bd7ded445769bb538c6adc901ebd"
+
+[[files]]
+file = "config/EndRemastered-NeoForge/Eyes/evil_eye.json"
+hash = "f5c592ff7652da20f93acc2137675a1cee29b4ecb905f56e9b35dadebd396e65"
+
+[[files]]
+file = "config/EndRemastered-NeoForge/Eyes/exotic_eye.json"
+hash = "b2bc84a480810af68e8c555b366fff36ecb67e6eeda2782210eb38d15c957353"
+
+[[files]]
+file = "config/EndRemastered-NeoForge/Eyes/guardian_eye.json"
+hash = "a1c9380a91f328df917aad9bb1e4e605f2ca5695be7b8207cf581b8e03d63a63"
+
+[[files]]
+file = "config/EndRemastered-NeoForge/Eyes/lost_eye.json"
+hash = "791e725cce8319f03a71d7f6e534145dd698c4c0faea56a80d6be8090b1c7d76"
+
+[[files]]
+file = "config/EndRemastered-NeoForge/Eyes/magical_eye.json"
+hash = "1249d8322568693f552dc08271969dd24a357f53368820bc620f49abdc22dcf0"
+
+[[files]]
+file = "config/EndRemastered-NeoForge/Eyes/nether_eye.json"
+hash = "87e971a20021e5d64bc210f452979d6a0b61475b3304d327a2a6f1410d3d8aaf"
+
+[[files]]
+file = "config/EndRemastered-NeoForge/Eyes/old_eye.json"
+hash = "9a8869b45d8c8ad5bd39de49351dee6b035670e3bf09ddf2573d6960d449b05e"
+
+[[files]]
+file = "config/EndRemastered-NeoForge/Eyes/rogue_eye.json"
+hash = "9bee3caeca1603cf33a8e1cbaee2ea9f0b422e1ce7ac0a3126c8647b2a8e24e8"
+
+[[files]]
+file = "config/EndRemastered-NeoForge/Eyes/undead_eye.json"
+hash = "a9a571a279c7c20672d48aa7fb2546c461868cf1b80962e1367409f104c63ee8"
+
+[[files]]
+file = "config/EndRemastered-NeoForge/Eyes/witch_eye.json"
+hash = "41de53ad16ce01009a92b3d9f96e35aeac8a68a3de588d8fd9374b33f343a088"
+
+[[files]]
+file = "config/EndRemastered-NeoForge/Eyes/wither_eye.json"
+hash = "86499d5affe90f36aac3df626303ac797e44fd1f08719d3041f5be4174e458c7"
+
+[[files]]
+file = "config/EndRemastered-NeoForge/endrem.json"
+hash = "5a8e5f5fa575402b8c9d415833a7acc1858e124729ae81fdfa305a602cb4c180"
+
+[[files]]
+file = "config/aeronautics-server.toml"
+hash = "a9302b0253e494e7d80f0a2785bf4514b0b67da85796437ca032482db62be514"
+
+[[files]]
+file = "config/alexscaves.json5"
+hash = "0c6ed70688fad24ca2396a3eb3d90715c21d4d24788420b9a98b6d1301fee0ef"
+
+[[files]]
+file = "config/alexsmobs-common.toml"
+hash = "d0a4f5d703e0e9756314bc97e7be72e8066702bd5294bd7e599a253def5f9023"
+
+[[files]]
+file = "config/alexsmobs/alligator_snapping_turtle_spawns.json"
+hash = "b2c962e1ec2f65014b97c16621dc6cb8820caac55e993f2db5f826fa87e7dbe0"
+
+[[files]]
+file = "config/alexsmobs/anaconda_spawns.json"
+hash = "8e15d68e53a141d14643fba55f3cc63448dee4c94550d825d0da59b51f995ea0"
+
+[[files]]
+file = "config/alexsmobs/anteater_spawns.json"
+hash = "f65e31155b2f2e033bed66dc5ec2ce7f6962be3389369ff800b69dfdecb5d990"
+
+[[files]]
+file = "config/alexsmobs/bald_eagle_spawns.json"
+hash = "f0f1a3d700fac98d9e477b1f110ca56523d1850c0640918a1e5d9f9da15bf211"
+
+[[files]]
+file = "config/alexsmobs/banana_slug_spawns.json"
+hash = "ef4ea5b1a4900421e985933a4dcc81ac0cfd1e40249d87475524fea60642e477"
+
+[[files]]
+file = "config/alexsmobs/bison_spawns.json"
+hash = "b95a9b0b1b80ebbf3d7ea6027aa6265e07c1914c068dd18f8bebb0786b1a237c"
+
+[[files]]
+file = "config/alexsmobs/blobfish_spawns.json"
+hash = "7e7b175c33aed22c3d2cd31e215c6243e3790b07a3664b42d130a8f3b897489f"
+
+[[files]]
+file = "config/alexsmobs/blue_jay_spawns.json"
+hash = "7d1f784ab378e1e851e73dbb6f81866420c1328d25f754546d82c417bf304644"
+
+[[files]]
+file = "config/alexsmobs/bone_serpent_spawns.json"
+hash = "652c2a676464495dff29204b33fee2b1db081c94f841f3e368b06f9f416ef231"
+
+[[files]]
+file = "config/alexsmobs/bunfungus_spawns.json"
+hash = "27e113507e31a182ed76fa02064ae58452536fbd2d8e26853cdd66cbafa28157"
+
+[[files]]
+file = "config/alexsmobs/cachalot_whale_beached_spawns.json"
+hash = "73b8f83ddfa936642b38af1003e3c47eab6f089ad61612ee5181137409038f57"
+
+[[files]]
+file = "config/alexsmobs/cachalot_whale_spawns.json"
+hash = "5a5927a66e1c24d8b386cb13d4415df2d1dd3522c88ef758137d9150b8787857"
+
+[[files]]
+file = "config/alexsmobs/caiman_spawns.json"
+hash = "542cca079ae671a6d928737b622b205deebfe2aed5864a01b5048f501aec2753"
+
+[[files]]
+file = "config/alexsmobs/capuchin_monkey_spawns.json"
+hash = "83b68d395236771ae9276f48b2988cfa9eb65e14dc41531b37a6b4e77c64859a"
+
+[[files]]
+file = "config/alexsmobs/catfish_spawns.json"
+hash = "f6d84836c75f15c7e6e675409790dfd332a1374c86ac29a9c21f75cf0df7403c"
+
+[[files]]
+file = "config/alexsmobs/cave_centipede_spawns.json"
+hash = "36b830b73b5ffe68683fa71398f9493c21253bfbd3b513f913d88a9c7e31eb2f"
+
+[[files]]
+file = "config/alexsmobs/cockroach_spawns.json"
+hash = "2d0c8e8200bbb68914c6946da08086cab49daaaeec7ecc9b8c8eba47d2c3c4a1"
+
+[[files]]
+file = "config/alexsmobs/comb_jelly_spawns.json"
+hash = "cf9ba87b0d2001543fe09d8f6a4c602c03644643a9bd49d1e9ca0b041ab4dc02"
+
+[[files]]
+file = "config/alexsmobs/cosmaw_spawns.json"
+hash = "8e1d05a9b4ab8b923ff4951ef391665f3bdd218d943152f6f1f57509786bc0f7"
+
+[[files]]
+file = "config/alexsmobs/cosmic_cod_spawns.json"
+hash = "aed14e990ed38ee78214b1ea4a15e06bca1b8d098e1e440596be9ab14e4403b8"
+
+[[files]]
+file = "config/alexsmobs/crimson_mosquito_spawns.json"
+hash = "ee39667e0f728cb0bbca43e4502e5e1d267979ddc95681bb8010a01fa3fd2362"
+
+[[files]]
+file = "config/alexsmobs/crocodile_spawns.json"
+hash = "672e06a2a1c5956c40e339ecf6a3f3e33d3a653357abb3a2b86c38e763812a44"
+
+[[files]]
+file = "config/alexsmobs/crow_spawns.json"
+hash = "c05de2f6e7bb44fcc65dfe79a84dadabad92302a284765dfefa83021f2a17cd3"
+
+[[files]]
+file = "config/alexsmobs/devils_hole_pupfish_spawns.json"
+hash = "e7855fa7d73f4d3af77f47ddd70b4fcbab7862302d004b4ddae9dddc75c4e402"
+
+[[files]]
+file = "config/alexsmobs/dropbear_spawns.json"
+hash = "ba40881477ddf8b05cd029b0e72e40c6926bec009b99d7dadf08a9abcb10d978"
+
+[[files]]
+file = "config/alexsmobs/elephant_spawns.json"
+hash = "cac271d780a6ed65db7b22e6944b6d456805d72b309865d6293ad6aa4f60c3e2"
+
+[[files]]
+file = "config/alexsmobs/emu_spawns.json"
+hash = "70e30e058709266e665eb6642df126eeee744d05e63d77344501e78cb4a37851"
+
+[[files]]
+file = "config/alexsmobs/endergrade_spawns.json"
+hash = "ca6e68bd3e74eb9cedcdbae4c82f594c4e85bdd54e1d0e35344a3febb9672980"
+
+[[files]]
+file = "config/alexsmobs/enderiophage_spawns.json"
+hash = "846748f4f352dead7fae39221d653713b7cbd775eaf10f80e0dea86f4e9ccb9a"
+
+[[files]]
+file = "config/alexsmobs/farseer.json"
+hash = "d409ed44fc328b64361ed982c8c5612df84c54d08b8a36804f1ec492c1b24d93"
+
+[[files]]
+file = "config/alexsmobs/flutter_spawns.json"
+hash = "f729be2a0bc7bccc88cde40464f990d6074bfcf52a0d1d6719d8ebcd63c496ff"
+
+[[files]]
+file = "config/alexsmobs/fly_spawns.json"
+hash = "e7855fa7d73f4d3af77f47ddd70b4fcbab7862302d004b4ddae9dddc75c4e402"
+
+[[files]]
+file = "config/alexsmobs/flying_fish_spawns.json"
+hash = "5284c91ec65d12ee5849aa286d1973a488db3a95fdf1c1f3f19e883233511771"
+
+[[files]]
+file = "config/alexsmobs/frilled_shark_spawns.json"
+hash = "7e7b175c33aed22c3d2cd31e215c6243e3790b07a3664b42d130a8f3b897489f"
+
+[[files]]
+file = "config/alexsmobs/froststalker_spawns.json"
+hash = "2cc43cdc9df3b20cc2eeb75a3c11736558f544571640607d08dec5c0a939c02d"
+
+[[files]]
+file = "config/alexsmobs/gazelle_spawns.json"
+hash = "17a5c3263942410596f91fb0aece138e5115bfabfa2a5913a63406fcb64b42d0"
+
+[[files]]
+file = "config/alexsmobs/gelada_monkey_spawns.json"
+hash = "bc8333dbc284015ef6382e7b86ef4e65d0c0a3020a3c3749d8c6835a0609ca0f"
+
+[[files]]
+file = "config/alexsmobs/giant_squid_spawns.json"
+hash = "7e7b175c33aed22c3d2cd31e215c6243e3790b07a3664b42d130a8f3b897489f"
+
+[[files]]
+file = "config/alexsmobs/gorilla_spawns.json"
+hash = "8c90151f66a632b01e7b8f6998f72618720aae5362c1df0bdd7fefdb13cc20c8"
+
+[[files]]
+file = "config/alexsmobs/grizzly_bear_spawns.json"
+hash = "7d1f784ab378e1e851e73dbb6f81866420c1328d25f754546d82c417bf304644"
+
+[[files]]
+file = "config/alexsmobs/guster_spawns.json"
+hash = "e7f7b29482e6a7159cde6cac5ee881ce21006c3af8afbac0f8862380ee890d2d"
+
+[[files]]
+file = "config/alexsmobs/hammerhead_shark_spawns.json"
+hash = "b327b0296c63cad3aba49394539ec75ed74804fa23742ecb44151da0c2cb6262"
+
+[[files]]
+file = "config/alexsmobs/hummingbird_spawns.json"
+hash = "6aa305d47ca32364d445c04c8a20da36a7ccef97955c27e834d4114604d2785d"
+
+[[files]]
+file = "config/alexsmobs/jerboa_spawns.json"
+hash = "486bdc6b7998cefb468dd4334d5cd862f799c5bb125dab7bfdf9ca799c546b05"
+
+[[files]]
+file = "config/alexsmobs/kangaroo_spawns.json"
+hash = "70e30e058709266e665eb6642df126eeee744d05e63d77344501e78cb4a37851"
+
+[[files]]
+file = "config/alexsmobs/komodo_dragon_spawns.json"
+hash = "15ec4df7835e1b537c5c17e868fad1989afa121f40b025b4532470284e42838b"
+
+[[files]]
+file = "config/alexsmobs/laviathan_spawns.json"
+hash = "07d0215377f12f1299ec46b6277426c3cf957aa1d310c97fa943cdf5ace8d260"
+
+[[files]]
+file = "config/alexsmobs/leafcutter_anthill_spawns.json"
+hash = "f65e31155b2f2e033bed66dc5ec2ce7f6962be3389369ff800b69dfdecb5d990"
+
+[[files]]
+file = "config/alexsmobs/lobster_spawns.json"
+hash = "bb0c918e8dbd4d003417a1bcabb38b8433d1f9be95fe6f8feef95d30616b49a7"
+
+[[files]]
+file = "config/alexsmobs/maned_wolf_spawns.json"
+hash = "8483d96341369b430ff2ebfebd7562b0c58c40b96be541cc88189fc696606a0d"
+
+[[files]]
+file = "config/alexsmobs/mantis_shrimp_spawns.json"
+hash = "fdeec28104444939401b76a5ef855e045a65ac017a6cb5a95c4fe2b1efd34f41"
+
+[[files]]
+file = "config/alexsmobs/mimic_octopus_spawns.json"
+hash = "b1d2212502e10784f9570d8532760ac633ba92b1ca5582cb82262cca1b309aa5"
+
+[[files]]
+file = "config/alexsmobs/mimicube_spawns.json"
+hash = "f56695c60bf45ccd06c91a7efc6d0cc4d364aee4d0ba93d69d6de7a89e772fe1"
+
+[[files]]
+file = "config/alexsmobs/moose_spawns.json"
+hash = "e32817696a069841bdafd69ba3e395b7bd72602ccc4df8468279b0ee7e8ac236"
+
+[[files]]
+file = "config/alexsmobs/mudskipper_spawns.json"
+hash = "542cca079ae671a6d928737b622b205deebfe2aed5864a01b5048f501aec2753"
+
+[[files]]
+file = "config/alexsmobs/mungus_spawns.json"
+hash = "27e113507e31a182ed76fa02064ae58452536fbd2d8e26853cdd66cbafa28157"
+
+[[files]]
+file = "config/alexsmobs/murmur.json"
+hash = "36b830b73b5ffe68683fa71398f9493c21253bfbd3b513f913d88a9c7e31eb2f"
+
+[[files]]
+file = "config/alexsmobs/orca_spawns.json"
+hash = "42a7171b73061d1fb46f88e26dc47cdab4ab4a81b7c145e21ac00dd6692e9439"
+
+[[files]]
+file = "config/alexsmobs/platypus_spawns.json"
+hash = "2c6fb5fda7290ea523340da5c43379f832deb3b05a4787fcc2a1875c6c372b41"
+
+[[files]]
+file = "config/alexsmobs/potoo_spawns.json"
+hash = "59c5832a40ef0e7212a4d499862f931a5dfcd3ff6d68598153f1274191b0939d"
+
+[[files]]
+file = "config/alexsmobs/raccoon_spawns.json"
+hash = "041ae6f0d8066aa98ecc3a25dfd16cbd044d201a9fa5c75f132dd357eef7e901"
+
+[[files]]
+file = "config/alexsmobs/rain_frog_spawns.json"
+hash = "486bdc6b7998cefb468dd4334d5cd862f799c5bb125dab7bfdf9ca799c546b05"
+
+[[files]]
+file = "config/alexsmobs/rattlesnake_spawns.json"
+hash = "cc788f89838e3922dd1d01d0c304559b1312d9e858f423f8093ef7d4053c6c28"
+
+[[files]]
+file = "config/alexsmobs/rhinoceros_spawns.json"
+hash = "17a5c3263942410596f91fb0aece138e5115bfabfa2a5913a63406fcb64b42d0"
+
+[[files]]
+file = "config/alexsmobs/roadrunner_spawns.json"
+hash = "cc788f89838e3922dd1d01d0c304559b1312d9e858f423f8093ef7d4053c6c28"
+
+[[files]]
+file = "config/alexsmobs/rocky_roller_spawns.json"
+hash = "a8b7d484adc606e3642d18ed3d8a7b23e60f83c46a17fa142d135d67b3393806"
+
+[[files]]
+file = "config/alexsmobs/seagull_spawns.json"
+hash = "4dca182ebef46ea0076b8e8066add18f69527cf2f81da83e77e0409127c92dc4"
+
+[[files]]
+file = "config/alexsmobs/seal_spawns.json"
+hash = "e3e339f2e42cac6d94ba7e3c270a5015e6eb0c5bd5cd8da43744233e71716723"
+
+[[files]]
+file = "config/alexsmobs/shoebill_spawns.json"
+hash = "56e9173a4dd8c19b42884157a155589cb43f7fb12ea8973f045f4c6d2b601f56"
+
+[[files]]
+file = "config/alexsmobs/skelewag_spawns.json"
+hash = "353fb24ad5592af296807a73bf7af8d3520521ab98f52967d03506ba72a4847c"
+
+[[files]]
+file = "config/alexsmobs/skreecher.json"
+hash = "82e2559c68421a60e33ec27a5e7b6ed6d532b035eb33619f1485ad7f61704a1c"
+
+[[files]]
+file = "config/alexsmobs/skunk_spawns.json"
+hash = "8454cdf8d7ceed92e8f7bf6a26074190646199d382852b88cf59309cbc0dc5f9"
+
+[[files]]
+file = "config/alexsmobs/snow_leopard_spawns.json"
+hash = "062dfadb1d57364c8a45170f5cd6c6a89797ff48f52f51865b5bb06533c1ad63"
+
+[[files]]
+file = "config/alexsmobs/soul_vulture_spawns.json"
+hash = "c48bd28103b5a6983a8035fefc0fe0ae5d18e8ce1949f54f4aa7d8fec50c514c"
+
+[[files]]
+file = "config/alexsmobs/spectre_spawns.json"
+hash = "ca6e68bd3e74eb9cedcdbae4c82f594c4e85bdd54e1d0e35344a3febb9672980"
+
+[[files]]
+file = "config/alexsmobs/straddler_spawns.json"
+hash = "63afa20424aad66f25af4dcaa09a4f8b94055968e07b1d16d6cf6e37ac57df1c"
+
+[[files]]
+file = "config/alexsmobs/stradpole_spawns.json"
+hash = "63afa20424aad66f25af4dcaa09a4f8b94055968e07b1d16d6cf6e37ac57df1c"
+
+[[files]]
+file = "config/alexsmobs/sugar_glider_spawns.json"
+hash = "cec5208e2e9f12aa8ce13d0f6d34a18500a77d143441c9b511df21c623fe368f"
+
+[[files]]
+file = "config/alexsmobs/sunbird_spawns.json"
+hash = "7b82ff39e191bd213cd8ecf06ff9a78c4658e6f6b9d8b48a4fcc4017e7268cb5"
+
+[[files]]
+file = "config/alexsmobs/tarantula_hawk_spawns.json"
+hash = "486bdc6b7998cefb468dd4334d5cd862f799c5bb125dab7bfdf9ca799c546b05"
+
+[[files]]
+file = "config/alexsmobs/tasmanian_devil_spawns.json"
+hash = "a96fdeb86ba5974cbde7d8ed5f36883b21567209890f077e5d2f967f6e71c558"
+
+[[files]]
+file = "config/alexsmobs/terrapin_spawns.json"
+hash = "2c6fb5fda7290ea523340da5c43379f832deb3b05a4787fcc2a1875c6c372b41"
+
+[[files]]
+file = "config/alexsmobs/tiger_spawns.json"
+hash = "f88fc1b519759fe41347afca59030619365e173c577e8c1adfcb88777078d066"
+
+[[files]]
+file = "config/alexsmobs/toucan_spawns.json"
+hash = "f65e31155b2f2e033bed66dc5ec2ce7f6962be3389369ff800b69dfdecb5d990"
+
+[[files]]
+file = "config/alexsmobs/triops_spawns.json"
+hash = "486bdc6b7998cefb468dd4334d5cd862f799c5bb125dab7bfdf9ca799c546b05"
+
+[[files]]
+file = "config/alexsmobs/tusklin_spawns.json"
+hash = "f77be9f2dd0db0b9a0861b122ba11bee27434cddf7b2f25c2235685051630e45"
+
+[[files]]
+file = "config/alexsmobs/underminer.json"
+hash = "2d0c8e8200bbb68914c6946da08086cab49daaaeec7ecc9b8c8eba47d2c3c4a1"
+
+[[files]]
+file = "config/alexsmobs/void_worm_spawns.json"
+hash = "6712a2d6165ed52b7d251a8fc4cbfb6c1f834210a8bda82b55440402fd2d3273"
+
+[[files]]
+file = "config/alexsmobs/warped_mosco_spawns.json"
+hash = "6712a2d6165ed52b7d251a8fc4cbfb6c1f834210a8bda82b55440402fd2d3273"
+
+[[files]]
+file = "config/alexsmobs/warped_toad_spawns.json"
+hash = "1c5d9cf22c8c7a5e75e98062f55d3f9249c143d60576c6cb5b52fd735c9aa1d0"
+
+[[files]]
+file = "config/amendments-client.toml"
+hash = "1dda63f8aa5d7582cb91612b70b4cffca2fccb93b8c1eb1384c90e12163f883c"
+
+[[files]]
+file = "config/amendments-common.toml"
+hash = "88a7589f5f621ab65ccf7445b1553206390ae7e89a99d04e129fdd195bb40feb"
+
+[[files]]
+file = "config/antiqueatlas-common.toml"
+hash = "cbdd2f3c3f30ba2c6d2326ec755caab31da14882127b553a101e15c9d505a5fd"
+
+[[files]]
+file = "config/aquaculture-common.toml"
+hash = "e8d9fdd5fe9b62b1dc3019fdb9489406654f0336d05bc23f217a1152ad0efe24"
+
+[[files]]
+file = "config/armoroftheages.json"
+hash = "f758ec6827ac146a43aa857c490017ae62816d31f4b5a37ba6aed5afa9d7a041"
+
+[[files]]
+file = "config/armoroftheages_patrons_cache.json"
+hash = "58688db080dff30140788e77702f17f1cb0bd1fa1dde1c289df5b6678c0849b2"
+
+[[files]]
+file = "config/ars_nouveau-client.toml"
+hash = "442e7d4aa8f85dc37e8bfa29a71126b1757056a82cb825e606fae4470a814a56"
+
+[[files]]
+file = "config/ars_nouveau-common.toml"
+hash = "027bdab2329e2e71cc2546871f3eca724cd97a0667a623c9de7fc7c4e9dfd9b4"
+
+[[files]]
+file = "config/ars_nouveau-server.toml"
+hash = "50d87126cc3863dba54f9cbf1fa7161c4293ce4dc056275a23510a4a846df9e1"
+
+[[files]]
+file = "config/ars_nouveau-startup.toml"
+hash = "0d44fbcf1c1b361b833e1e0da847d5c5d1ca38f927a55b057e14e13e30ae85fb"
+
+[[files]]
+file = "config/ars_nouveau/doc_data.json"
+hash = "081b1b98b191d81c4ff5b49760b51f491bb330a6ac45dfac831a3a6313cb072f"
+
+[[files]]
+file = "config/ars_nouveau/glyph_accelerate.toml"
+hash = "a31f5889f63fe0dbf691ee7dd7206899a57deef186b3b2b46d7efa628c4c9d80"
+
+[[files]]
+file = "config/ars_nouveau/glyph_amplify.toml"
+hash = "1f08cedc144ec201d890842b5073d9c5f7a9b061274a472b29ca564b4ba819cf"
+
+[[files]]
+file = "config/ars_nouveau/glyph_animate_block.toml"
+hash = "0fb48deefa414eb5b2df9f519ae8e8df8253f8d26565a41c275b9b8a54254fc4"
+
+[[files]]
+file = "config/ars_nouveau/glyph_aoe.toml"
+hash = "6067cc16ce094c79c33841a718a5b9af9ecfaddb56f186b0901df50e76b7c0ab"
+
+[[files]]
+file = "config/ars_nouveau/glyph_blink.toml"
+hash = "b1be9bd915365b3abbe81b327dab17f7f26bb43f3ad11ea6bb4bfea35d091b28"
+
+[[files]]
+file = "config/ars_nouveau/glyph_bounce.toml"
+hash = "62447efc5276f8069a2ea44a1627c59a92e260fea86cf3ba8b617cca3509e1d2"
+
+[[files]]
+file = "config/ars_nouveau/glyph_break.toml"
+hash = "ad9edccc148cb07d3134acb4a4ece9a77c38cad6e5ef2ca9bb11ca25ae5ef05e"
+
+[[files]]
+file = "config/ars_nouveau/glyph_bubble.toml"
+hash = "92fc53b20e893fcf59264d4804f875936ba78e4e593591fef16e095e094fb70a"
+
+[[files]]
+file = "config/ars_nouveau/glyph_burst.toml"
+hash = "78ab4ac2f8e4b1509226075249774feb048851007aa5b6bd1dde6132f68bfed1"
+
+[[files]]
+file = "config/ars_nouveau/glyph_cold_snap.toml"
+hash = "228b1ac24a26b16c65ea1e40d7cb6adc912e17e319f741ceb6fe025cbcd988c6"
+
+[[files]]
+file = "config/ars_nouveau/glyph_conjure_water.toml"
+hash = "8c09b754d12127b13e3b5c4b1ca02f833480e5b17ea5c30407fff2bf2437bbc6"
+
+[[files]]
+file = "config/ars_nouveau/glyph_craft.toml"
+hash = "a816b622f7f5f854eab26acc5482df2b3899ac5347552bbfa4fd9d9c0463c85c"
+
+[[files]]
+file = "config/ars_nouveau/glyph_crush.toml"
+hash = "14eb1329449f03ac7941a6eea6e74fd1fea8b47e42a250ce2099e00e3ee4988d"
+
+[[files]]
+file = "config/ars_nouveau/glyph_cut.toml"
+hash = "b8415cea74a8a393207ff5246ddb8e1834eff5f6bd23c7bc410c60c1611e9d83"
+
+[[files]]
+file = "config/ars_nouveau/glyph_dampen.toml"
+hash = "dd21ec3899d06bff70793eeefbdc372e0b93b3842bf1e1c8a15f7e0b0f8e5f7f"
+
+[[files]]
+file = "config/ars_nouveau/glyph_decelerate.toml"
+hash = "b5990e67e62d60837508ef900955ba274ed580aa865cd377379ddf69762cdc85"
+
+[[files]]
+file = "config/ars_nouveau/glyph_delay.toml"
+hash = "64b39a22cd33e19c245dbec70e14da76da09368a16e346e42bd95cce5fd91e54"
+
+[[files]]
+file = "config/ars_nouveau/glyph_dispel.toml"
+hash = "0526dbfce1d8351539200857e343455871cc811a025f43568217d360e335413a"
+
+[[files]]
+file = "config/ars_nouveau/glyph_duration_down.toml"
+hash = "102d57868ed836487c5e9d1060027211f86eea12cc95db7c8650fe8c4bf1239b"
+
+[[files]]
+file = "config/ars_nouveau/glyph_ender_inventory.toml"
+hash = "2a1fcb27cfcdf2ae95bafe7b485977cd22b64ff593a9a0034827858e47bd935b"
+
+[[files]]
+file = "config/ars_nouveau/glyph_evaporate.toml"
+hash = "a816b622f7f5f854eab26acc5482df2b3899ac5347552bbfa4fd9d9c0463c85c"
+
+[[files]]
+file = "config/ars_nouveau/glyph_exchange.toml"
+hash = "2a1fcb27cfcdf2ae95bafe7b485977cd22b64ff593a9a0034827858e47bd935b"
+
+[[files]]
+file = "config/ars_nouveau/glyph_explosion.toml"
+hash = "beacf60540f77b97b4bc12e4aa722c425893bf6d22745c8e6c935b8d85d90aba"
+
+[[files]]
+file = "config/ars_nouveau/glyph_extend_time.toml"
+hash = "a31f5889f63fe0dbf691ee7dd7206899a57deef186b3b2b46d7efa628c4c9d80"
+
+[[files]]
+file = "config/ars_nouveau/glyph_extract.toml"
+hash = "558434e11f6a82855a8e43c6bf4896bcc86677aed0f6a06827295c0c1d33fbe7"
+
+[[files]]
+file = "config/ars_nouveau/glyph_fangs.toml"
+hash = "4cc4c94639da07abb843d2f0e213c7e00e6f97ac25f4d9bd47ec592f25f4a022"
+
+[[files]]
+file = "config/ars_nouveau/glyph_fell.toml"
+hash = "2d63e4dab44c445888035153f016535a471b45a5b63cb5060727dbcdd4eb4e41"
+
+[[files]]
+file = "config/ars_nouveau/glyph_firework.toml"
+hash = "8e7fbe8d06d9e7fdfe4e191f9a1ad699813eee2e41e1ba3ecec22392925591e7"
+
+[[files]]
+file = "config/ars_nouveau/glyph_flare.toml"
+hash = "61e5c27ed697fb87fb693aaf0f1dd0e7d40081a589c59c00bb2b004aa2a743ea"
+
+[[files]]
+file = "config/ars_nouveau/glyph_fortune.toml"
+hash = "a1b14281c77dc0588771af4e235d03912b17b73090d68a2f4106b6a0d3ff4fd5"
+
+[[files]]
+file = "config/ars_nouveau/glyph_freeze.toml"
+hash = "cd7351df30eadfd4a5583dee4882fac2f76fef2e0d1f7e3cd7a9b9a354d61e65"
+
+[[files]]
+file = "config/ars_nouveau/glyph_glide.toml"
+hash = "ea07f2419ded616ff01c33cb04c81cdc1eff77ca681eb16b2351e0a7aa41fbb1"
+
+[[files]]
+file = "config/ars_nouveau/glyph_gravity.toml"
+hash = "db83e5fb8ce9e8fb19e25655a233c3a6800f8437f8e776c9e3cca78875cda12c"
+
+[[files]]
+file = "config/ars_nouveau/glyph_grow.toml"
+hash = "8cb26465bdad2ecee54319f83445a41ba2bbf26a7071eac93131812ea0af3e53"
+
+[[files]]
+file = "config/ars_nouveau/glyph_gust.toml"
+hash = "9f60447a11660f62afafcf56c295faa78208fc83df991a4ccde07ce9cd9f28d0"
+
+[[files]]
+file = "config/ars_nouveau/glyph_harm.toml"
+hash = "e132dad7db10594ae4c4f421300194e66d242b3c12017b5bd878cc6d17c0c781"
+
+[[files]]
+file = "config/ars_nouveau/glyph_harvest.toml"
+hash = "63274ce775cae15a45124a0e8cb84021aa4e3f228a48cc3e88157c90f3aaf84b"
+
+[[files]]
+file = "config/ars_nouveau/glyph_heal.toml"
+hash = "8973781972472014a1b81e4107734c482ef9cc268ddb08d73901838503b776a7"
+
+[[files]]
+file = "config/ars_nouveau/glyph_hex.toml"
+hash = "4169a17c968a70aed11b64fab82f61c19d9d07f0fcc569365ff212008da64c12"
+
+[[files]]
+file = "config/ars_nouveau/glyph_ignite.toml"
+hash = "a8063898d4c718297aa4862f68d4174a6f0d384e05e7b7b55f48fbc01de4c8e2"
+
+[[files]]
+file = "config/ars_nouveau/glyph_infuse.toml"
+hash = "06aa8cd35dea1dd11468c882d121365ef4f786eba6a3cd3eb6687e7715fc1449"
+
+[[files]]
+file = "config/ars_nouveau/glyph_intangible.toml"
+hash = "be5aca1382603d2de080205417d063e09602018ce910ec789cdb47da87f8e46f"
+
+[[files]]
+file = "config/ars_nouveau/glyph_interact.toml"
+hash = "07b250690cc61289a015440fd7b3e97764157b12625ce69f857bc57bc131373f"
+
+[[files]]
+file = "config/ars_nouveau/glyph_invisibility.toml"
+hash = "cad5a54db1c8515614c12f0aae81de81db83a52d4803463f46a998adaaf1c533"
+
+[[files]]
+file = "config/ars_nouveau/glyph_launch.toml"
+hash = "3982b1d34b2ca9665699e3c14bf9919c9e82da79e27cbe0b084b9b578f7ab125"
+
+[[files]]
+file = "config/ars_nouveau/glyph_leap.toml"
+hash = "3f2a6124981a7a360867e319cfd3731c493d449083239a02560ae8ffaa3d284f"
+
+[[files]]
+file = "config/ars_nouveau/glyph_light.toml"
+hash = "bd0bc89ccb0ba38c181596a4378a323e578805bd89e1ba980b2fb3781e2d1d64"
+
+[[files]]
+file = "config/ars_nouveau/glyph_lightning.toml"
+hash = "0177b63a5fcb9e0b50523bb39c5babfd8a6fdf1c6d11b736d337254d5fa4e57a"
+
+[[files]]
+file = "config/ars_nouveau/glyph_linger.toml"
+hash = "a7c281c535969659ba1578598eeaa0d7751c94081acf09f6953bff5b76cf4756"
+
+[[files]]
+file = "config/ars_nouveau/glyph_name.toml"
+hash = "bb76094a2602e94a1b04703879c154b9c7e785e028c06bc48f3c5c377d664070"
+
+[[files]]
+file = "config/ars_nouveau/glyph_orbit.toml"
+hash = "2c62e6e7d96d7bbe5cb9e67af0d0f2003c6021c0a18bfff0de65e2371cf8fae2"
+
+[[files]]
+file = "config/ars_nouveau/glyph_pantomime.toml"
+hash = "59279368035dd965e62431da2d189d417ae78371668b49f8bd6b1c1e325047bd"
+
+[[files]]
+file = "config/ars_nouveau/glyph_phantom_block.toml"
+hash = "595b43d01cdd6aa3b878f032f3e4c240559fba498f0c135ea6e2bdb2e05349cc"
+
+[[files]]
+file = "config/ars_nouveau/glyph_pickup.toml"
+hash = "63274ce775cae15a45124a0e8cb84021aa4e3f228a48cc3e88157c90f3aaf84b"
+
+[[files]]
+file = "config/ars_nouveau/glyph_pierce.toml"
+hash = "a514cd3b7a903a483ae2dacc7ed00cfeb9b2e0663997d4821acb6343a2a19958"
+
+[[files]]
+file = "config/ars_nouveau/glyph_place_block.toml"
+hash = "53883e24d2ec0a7a86d0246ec373e74b252476d3a8aed44a9697b5d61eeb9b62"
+
+[[files]]
+file = "config/ars_nouveau/glyph_prestidigitation.toml"
+hash = "dce9b819f6078583fe575c1f465b0c1bcda44e64edb02d367728512adf65fafe"
+
+[[files]]
+file = "config/ars_nouveau/glyph_projectile.toml"
+hash = "75e67c910beb7a4ac4a20d929fa0075ff3430642b337bd0e59a472b6921e0424"
+
+[[files]]
+file = "config/ars_nouveau/glyph_pull.toml"
+hash = "94f4318b159b004eb17817aa60a0d25fa38e6994e48704ec4e82582010480de9"
+
+[[files]]
+file = "config/ars_nouveau/glyph_randomize.toml"
+hash = "1fbef113921700cb95768f8c25cd28c03ef3814c146592cac08567319169cc4c"
+
+[[files]]
+file = "config/ars_nouveau/glyph_redstone_signal.toml"
+hash = "fcc34d8f285896bb7bdacbd05a7ead8f70ce95b0b11834ac75eb9d267c526b63"
+
+[[files]]
+file = "config/ars_nouveau/glyph_rotate.toml"
+hash = "ab29558b612a2aae5770be84688c7a363874fe3a97662fda1558328b72afd595"
+
+[[files]]
+file = "config/ars_nouveau/glyph_rune.toml"
+hash = "d97f22e6a2dda9ad91f1dab25b2a700ed87a4d91a9420e576e9516c8476603f4"
+
+[[files]]
+file = "config/ars_nouveau/glyph_self.toml"
+hash = "1e88e21e1251b0ec88e73df02fa317ce62b744eaaebc42b1d17349e2b716df73"
+
+[[files]]
+file = "config/ars_nouveau/glyph_sense_magic.toml"
+hash = "944f91fb6ea9d469f2ab8ec81d908af0ff86a2d1d93098d3bcd3fd517046cab7"
+
+[[files]]
+file = "config/ars_nouveau/glyph_sensitive.toml"
+hash = "3bfc7fe9767892cf8d9e8d9622eaa0885e19813bb286c8ce65c18be244a7755a"
+
+[[files]]
+file = "config/ars_nouveau/glyph_slowfall.toml"
+hash = "cad5a54db1c8515614c12f0aae81de81db83a52d4803463f46a998adaaf1c533"
+
+[[files]]
+file = "config/ars_nouveau/glyph_smelt.toml"
+hash = "b3319285867d0e5cf609e171e9d0d1c8a2b3a8706bb26c798ca8a10cbe273cea"
+
+[[files]]
+file = "config/ars_nouveau/glyph_snare.toml"
+hash = "bcc530d2c08046256cd0ceadca6369826157b6dd9d571f7661e60e5e16ce3a79"
+
+[[files]]
+file = "config/ars_nouveau/glyph_split.toml"
+hash = "084c274c075eca508a74685b21c066eea0b14d816652152cd3cc75e6b4f692e8"
+
+[[files]]
+file = "config/ars_nouveau/glyph_summon_decoy.toml"
+hash = "1bdadb76d582d01fb61ece1415abcc684cd37502c759e153c39af3768536a014"
+
+[[files]]
+file = "config/ars_nouveau/glyph_summon_steed.toml"
+hash = "14d04da5fa4e1230b4a0ec76bb55cc5d39d1d7d6ecfbec806add2b5eef2b1d7d"
+
+[[files]]
+file = "config/ars_nouveau/glyph_summon_undead.toml"
+hash = "15786295b7aa1295bff15d52139baefbb0ba532ffa67a9b5a265e664ad7c4d98"
+
+[[files]]
+file = "config/ars_nouveau/glyph_summon_vex.toml"
+hash = "15786295b7aa1295bff15d52139baefbb0ba532ffa67a9b5a265e664ad7c4d98"
+
+[[files]]
+file = "config/ars_nouveau/glyph_summon_wolves.toml"
+hash = "afc91de685aa8e4a619443ff158a55392fc6f300c45aaa83c46cf097c26cd6fa"
+
+[[files]]
+file = "config/ars_nouveau/glyph_toss.toml"
+hash = "63274ce775cae15a45124a0e8cb84021aa4e3f228a48cc3e88157c90f3aaf84b"
+
+[[files]]
+file = "config/ars_nouveau/glyph_touch.toml"
+hash = "a1f827f53981ec72d2f356b6e92ef32d40caf0aeb26c8ee5130d20f51b6c3ca4"
+
+[[files]]
+file = "config/ars_nouveau/glyph_underfoot.toml"
+hash = "6a92f02f8b006e0053d10f27dbc80da9bfa36d0203f52d364b736033c0eaad14"
+
+[[files]]
+file = "config/ars_nouveau/glyph_wall.toml"
+hash = "da7512f154f9718e3c431a095b10bc87da01196897e4c70d85988794e680f2aa"
+
+[[files]]
+file = "config/ars_nouveau/glyph_wind_burst.toml"
+hash = "bba5f0fcca3ed14efcc274b040d300419c6055f0773ead64ef2e56a3b536dc5f"
+
+[[files]]
+file = "config/ars_nouveau/glyph_wind_shear.toml"
+hash = "7aa97b266a9a8af07db4803bd61aeba15e8f6e3e059b562faa3c40bc8da31dd4"
+
+[[files]]
+file = "config/ars_nouveau/glyph_wither.toml"
+hash = "4169a17c968a70aed11b64fab82f61c19d9d07f0fcc569365ff212008da64c12"
+
+[[files]]
+file = "config/ars_nouveau/reset.toml"
+hash = "dce9b819f6078583fe575c1f465b0c1bcda44e64edb02d367728512adf65fafe"
+
+[[files]]
+file = "config/ars_nouveau/rewind.toml"
+hash = "927983e00266b0b3af2d78c1d5c10e791ed052e3cd8e525cc1bdb773845e921e"
+
+[[files]]
+file = "config/ars_nouveau/wololo.toml"
+hash = "d97f22e6a2dda9ad91f1dab25b2a700ed87a4d91a9420e576e9516c8476603f4"
+
+[[files]]
+file = "config/artifacts/client.toml"
+hash = "3921700655db2af439702410ce0f4771955fa426b8b184ccb569721063da2a70"
+
+[[files]]
+file = "config/artifacts/general.toml"
+hash = "b73793e634d1a441c12ed1c3d02ec074b2f19a24766512f78ff0b9d83cf9768b"
+
+[[files]]
+file = "config/artifacts/items.toml"
+hash = "4ad2b5325a9ddd32792b0cca532ab88914ae0c85aef8f5f56db8f5e75609bc28"
+
+[[files]]
+file = "config/badoptimizations.txt"
+hash = "cae5ba66971b2f61e0b523c5aeb8b8d4fa806f0bea8a1709860e4fea94426ac9"
+
+[[files]]
+file = "config/better-advanced-tooltips-client.toml"
+hash = "5b0da765c45397402cffe340f632544a8e740a767937f353a3a8206b6cdde0fa"
+
+[[files]]
+file = "config/bettercombat/client.json5"
+hash = "2d853633deff976b16e7e973c168134886fe8c06ec5108a077d835db97b5ff18"
+
+[[files]]
+file = "config/bettercombat/fallback_compatibility.json"
+hash = "754feb4474a3f4d9fe6bd08f38c248fd5a796ed51f38d7d5704680250f3a34ca"
+
+[[files]]
+file = "config/bettercombat/server.json5"
+hash = "b4d8fd935d23f528a177e95c8a45be52fa5f3e4cd2671802be1f44c80aef724a"
+
+[[files]]
+file = "config/bettercombat/weapon_trails.json"
+hash = "fd14cc025b6d6c54bc2ddff136f0298c0ba132dbe98c2c9c845b47b8286fc45c"
+
+[[files]]
+file = "config/block_factorys_bosses-client.toml"
+hash = "1ff86fe2d701ae9ee1cd775c077b9f6edb6184144c3505ffc6312f3d71e9658c"
+
+[[files]]
+file = "config/block_factorys_bosses-server.toml"
+hash = "2e6624ed2974729727702aa11e9064c2b72a12e3e65488e09e2f44191354b403"
+
+[[files]]
+file = "config/carryon-client.toml"
+hash = "865a366143df5f4d92941058c823ea48deb8445f6444b45e870331b16a444f0f"
+
+[[files]]
+file = "config/carryon-common.toml"
+hash = "dff093b25f7337a5549ae8c1c3cebecdff2e1ca05fe9d92817eace89472a722a"
+
+[[files]]
+file = "config/cataclysm-client.toml"
+hash = "a83db10f4450e21761559465b75388c115d3f0d899b368e1124f380d49b737a8"
+
+[[files]]
+file = "config/cataclysm-common.toml"
+hash = "61926b9ce81d6d44ac25e367b67e5642235fa026e6dddd6be54e0c2965570cc7"
+
+[[files]]
+file = "config/champions-client.toml"
+hash = "8cef746b29c50f879bb6721771b60bc2f4bb7d9a52fe72386a6d820904cb1ede"
+
+[[files]]
+file = "config/champions-common.toml"
+hash = "46c1c36e85c832f4445aff77843312598dec77fcda08728726a15200345dcd5f"
+
+[[files]]
+file = "config/champions-entities.toml"
+hash = "273f1623c2cd9c3bebba4782bef4a1572fc4d677a80ffcf12545666ab503f625"
+
+[[files]]
+file = "config/champions-ranks.toml"
+hash = "8f52e7e2eb486e994c99268b25e3eb178f077eb39fe1ec029d972cda65379c5e"
+
+[[files]]
+file = "config/champions-server.toml"
+hash = "1a92ce3c7ebaf4bcd0d92a3d91bb0a59f419c57711de5ee0ac5e898e689e6e70"
+
+[[files]]
+file = "config/chisel.json"
+hash = "f30375505d2b59c55c43f5157f53c97251c1ad40aa64dd210a38b80c9cdd7d0b"
+
+[[files]]
+file = "config/chunky/config.json"
+hash = "c7384a22595488f79f3125b22cc175eb729267267807a084479419349797abc8"
+
+[[files]]
+file = "config/citadel-common.toml"
+hash = "6cade6912a3873af0b297eb2da7ffa4bf5bac23f5ccfe9511aea9f5755745758"
+
+[[files]]
+file = "config/compatdelight-common.toml"
+hash = "93ef3a77cce1db8aa071d88fca1f216436f9c2398d54c586fe44f09e1c72996d"
+
+[[files]]
+file = "config/cookingforblockheads-common.toml"
+hash = "d676304d60b0e1a95f88ca65c1a2ce968a3051d0df2b572d964b9836ad379494"
+
+[[files]]
+file = "config/copycats-client.toml"
+hash = "381f51308cca7e8aaa1aebb9253a6be686f74ebc70d4da39dd7750d2ca2e9598"
+
+[[files]]
+file = "config/copycats-common.toml"
+hash = "4554d0df9a25e4f58c07df938806bb435fa2556263b60537bcd8f3f3cd28f1c3"
+
+[[files]]
+file = "config/copycats-server.toml"
+hash = "3a2e328d298b0ef379673beffa566eda2d92b4f1d0e00425573b59f0ea66e646"
+
+[[files]]
+file = "config/corpse-server.toml"
+hash = "806dc2002f95b1bcd16dec843051abc513576a1986ea1931d8c2cc82aef201c7"
+
+[[files]]
+file = "config/cosmeticarmorreworked-client.toml"
+hash = "4f9577e9c8002872f5f3382f9892a38cbeefb6e2772b2ca248beab44859068fc"
+
+[[files]]
+file = "config/cosmeticarmorreworked-common.toml"
+hash = "687143b4844094f166ff875447d139941970649475924d47ce8982e04ef1cf5d"
+
+[[files]]
+file = "config/create-client.toml"
+hash = "2c5f5627a9fcfccbc87141b4663a43c904c826d72f123b3f45fbe30e0dafeef8"
+
+[[files]]
+file = "config/create-common.toml"
+hash = "2e77b1d93b40ce3f381ad7eb2a9e6d7148de917518be5c2616939a4369c4b140"
+
+[[files]]
+file = "config/create-server.toml"
+hash = "36216a05f3ed63106ba587c8c24ed6315385829e7f3dae695dcf545aba41a270"
+
+[[files]]
+file = "config/create-stuff-additions.toml"
+hash = "e4a3988ff64923d8e08952951186cc6a67a5a04427766f5322c8e0a67077c5e5"
+
+[[files]]
+file = "config/create_aquatic_ambitions-server.toml"
+hash = "501d4be5fa528302ab173dd86708e570935285505f44ef1fd0694b8cd60eee58"
+
+[[files]]
+file = "config/create_central_kitchen-client.toml"
+hash = "0a1393aff89a803f574fcdb72a6c39c7fcdc95fae4e9ccf3d53cbd155c405c9d"
+
+[[files]]
+file = "config/create_central_kitchen-common.toml"
+hash = "e211c5226a565d1affc5d6c2f752cc5856369a6118ca2fef3a2b61f3fa36a5a8"
+
+[[files]]
+file = "config/create_dragons_plus-client.toml"
+hash = "cf30f0e99ef65fe80e80481bf9aaafefdbbf97adb84c0c3611ac2d9ca3cf8a28"
+
+[[files]]
+file = "config/create_dragons_plus-common.toml"
+hash = "134e5d1beb5e8cc7f22e20178c2a995ab4e1e83ddeca8048739ed000fc3a964e"
+
+[[files]]
+file = "config/create_dragons_plus-server.toml"
+hash = "06c232854b6d18ea18bd9bbbed7a0317c0113aad12734066a46a1d9d28278520"
+
+[[files]]
+file = "config/create_dragons_plus-simulated-extension-server.toml"
+hash = "60bad6819e405b276d23b238592add8c7ec92062951d83a812d25a63ab5b6b83"
+
+[[files]]
+file = "config/create_jetpack-client.toml"
+hash = "89094f05746ba946d303ca7fd7888094c34165b4af507317e081b6c9b5f7ecc3"
+
+[[files]]
+file = "config/create_jetpack-common.toml"
+hash = "1177996d40fc3be7b7716d2594874ac48b64d890ac82a88b41c88aff89a02567"
+
+[[files]]
+file = "config/create_pillagers_arise-common.toml"
+hash = "fd9733cd32fcd68d243a5c272901e8d559e334681e0747c91c613ff2ee347b44"
+
+[[files]]
+file = "config/create_structures_arise-server.toml"
+hash = "8bdbaf2d4644746d830c910cdb421f633d1c4f8d3d3427b81c7803b465578065"
+
+[[files]]
+file = "config/createaddition-common.toml"
+hash = "a3e4db70c22ed9354b54e21de5c1875cddb43432ba4e4f83076a8751a75b7714"
+
+[[files]]
+file = "config/createdieselgenerators-client.toml"
+hash = "2f1d8f05b215da49383ae8a04ffadcb12202830a6cb2fbada26caaed9ce35dec"
+
+[[files]]
+file = "config/createdieselgenerators-common.toml"
+hash = "9745e0b82765ee9ac86c4340a941e1f26c10b2da19296928d99169fc36dfea1a"
+
+[[files]]
+file = "config/createdieselgenerators-server.toml"
+hash = "3ff7bfbdf8353dffba0809215ab4812f63443843128b3d40ae6b377aeda94855"
+
+[[files]]
+file = "config/createoreexcavation-common.toml"
+hash = "68918aeea1ff71d7102b6554fd60a3111a7bb6601431aa1dbcdf50750e6df4dd"
+
+[[files]]
+file = "config/createoreexcavation-server.toml"
+hash = "2c51e07416eee0783db1decb5309e0d7a886f6e4f41749122aa007f3da6b36e5"
+
+[[files]]
+file = "config/cryonicconfig.json"
+hash = "bc17cffb9ac63d90331ffe1aa114611597cba47905883bbdc33f6e00d42c0545"
+
+[[files]]
+file = "config/cullleaves.json"
+hash = "6596cbe9453cc9cf69b4addfb02fe9d1501ffc9254ac047d9cd7a23bc6ce7dcc"
+
+[[files]]
+file = "config/cupboard.json"
+hash = "937698438af081495eebab187013f66570218e1443f35db8a2ca0b4cb6d9638b"
+
+[[files]]
+file = "config/curios-client.toml"
+hash = "8af475d222d452c40b548db89c8956f3e4d1e2aaf729464e3065f029936b3e0d"
+
+[[files]]
+file = "config/curios-common.toml"
+hash = "9f00a6b9904cf63a36c0c72f8346642962d538aaa78b59943b9de60dda82e6d0"
+
+[[files]]
+file = "config/curios-server.toml"
+hash = "1a3bee95a96f082b8e97cccbce30c1efe1352b616c78e06d5884fd4475668add"
+
+[[files]]
+file = "config/decocraft-common.toml"
+hash = "4502bef407cdfb04f45ac1da3516bdc52014420e80fbc44b195ff061332cd953"
+
+[[files]]
+file = "config/diet_profiles_client_cache.json"
+hash = "21cbaf08293ab840915cb20a281f4b7dccbd62ebe72daad8aa92b698c00d2857"
+
+[[files]]
+file = "config/displaydelight-common.toml"
+hash = "c3b979ca6d4cc07cb07e02fa452a3722ff94355d5f7faa04dc6cb28c07cea82a"
+
+[[files]]
+file = "config/dungeon_crawl.toml"
+hash = "75c2c57214717c4a4c903df30780999571f82dd0ac63a43f31e3407d1cc7cbd4"
+
+[[files]]
+file = "config/dynamic_fps.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "config/enchantinginfuser-server.toml"
+hash = "b78a638ac0df442d5d23b924f507eae8e5a4a96c9c4ee0a2545f8e0fe0f44b41"
+
+[[files]]
+file = "config/enhanced_bes.properties"
+hash = "d71aca8c99b13334ab6759b13e25626d1e33c2101051e63834b3fa206e1a8153"
+
+[[files]]
+file = "config/entityculling.json"
+hash = "e92e6772c4b6ec28b9c179c80831d56d11fc65064591424a120133d397b2ab49"
+
+[[files]]
+file = "config/everycomp-client.toml"
+hash = "ba8d6c969acec0f26f26e7402f625f35ca6d178567b947a27e0e1ab7e098190d"
+
+[[files]]
+file = "config/everycomp-common.toml"
+hash = "7f9600976b415a1f3196fbc51d0aebd62731168f6786fa6555e058e47b2c30a4"
+
+[[files]]
+file = "config/everycomp-entries.toml"
+hash = "d07e7057db57c55cf2079344ecb70e884cb164277cfd6de01f6462527feaed56"
+
+[[files]]
+file = "config/everycomp-hazardous.toml"
+hash = "43967b952539ef8b1b41695c59080d60387429bf90f0129046d5cb09a143e9b2"
+
+[[files]]
+file = "config/fantasy_armor-armor_attributes.toml"
+hash = "502c9d8ab114fa928f786a21bf4b0280d7769602da5e339eb277fed4101be2b4"
+
+[[files]]
+file = "config/fantasy_armor-armor_effects.toml"
+hash = "0d0e114703794e76e13dbe851f24a0696d48c2594b457140834c586dbaa36298"
+
+[[files]]
+file = "config/fantasy_armor-common.toml"
+hash = "d35ba711d247d77ca71be85599b1e68b61a9c4f1248e101bfc7564629869e6f8"
+
+[[files]]
+file = "config/farmersdelight-client.toml"
+hash = "a8cdc0376674d522d92d977cac5800d00c6f70ea62ea83dea59595fb232b8e3e"
+
+[[files]]
+file = "config/farmersdelight-common.toml"
+hash = "0cc639f1ce8ab5e63f754ab41be3ab09398fd149de6d0b5edc476034e3ed8b06"
+
+[[files]]
+file = "config/fastbench.cfg"
+hash = "b9f2753df740086016ae47d0f9b69521b1233546fd564bf2797ed93fd5c60efb"
+
+[[files]]
+file = "config/ferritecore-mixin.toml"
+hash = "1356f9d52b2dcb2afa5a593e53c286d9c1c3778a6f8b1cf761953b185b7dce78"
+
+[[files]]
+file = "config/firstaid-client.toml"
+hash = "5ed0fd1848a9804c509dcc13454e31bcdd7b49dc69b8e99f2c689779e4152371"
+
+[[files]]
+file = "config/firstaid-common.toml"
+hash = "e2253d1cfa99c75760c214d6d7fc0e0649fcf79e6015cc6f8ffe5dcf3a28f590"
+
+[[files]]
+file = "config/firstaid-server.toml"
+hash = "f11bc76f64a51bd659ec2894ee04a1835e951b19bbe51adb4b38ca79427cc78c"
+
+[[files]]
+file = "config/flywheel-client.toml"
+hash = "9b9525f6baadc8312819ae21ad8688b20fb887e0e2bec4bceece4cbb296196b8"
+
+[[files]]
+file = "config/fml.toml"
+hash = "cc59fb1039726fda3ab1eb69b06d9b9aebb7496604ea579cfb735bc5377e7825"
+
+[[files]]
+file = "config/ftblibrary-client.snbt"
+hash = "331cb55d89e2a7499ca2cd3e272dcda13fc68a20335fa4349dade576a5fed436"
+
+[[files]]
+file = "config/ftbultimine-client.snbt"
+hash = "67dadd3f0812bc01a0b0ca6fb204961512ce1332e97fe42dba2cb57813a496ef"
+
+[[files]]
+file = "config/ftbultimine-server.snbt"
+hash = "147a38645eda41c75721eb6825585f7af00b19bd3ae7e948779635747b8840e9"
+
+[[files]]
+file = "config/fzzy_config/keybinds.toml"
+hash = "26ac5810c9b5dc5c1968827357f0a58c58ac2b6f7b082630960228e16585062f"
+
+[[files]]
+file = "config/general.json5"
+hash = "a57684d2e3cf31cd2da4f35f89e27b0e50e20e0868770fd25b5ed1a1be8381cd"
+
+[[files]]
+file = "config/iceandfire.json5"
+hash = "4890a5d33e545a0ed11d806a13b3cc88841fd2b7b2f3586162bd5717bf17a4f2"
+
+[[files]]
+file = "config/iceandfire/iaf-client.json"
+hash = "139c77cbd5c106862de2543f2809de827b8293a0648ec0e786887285ee63ae27"
+
+[[files]]
+file = "config/iceandfire/iaf-common.json"
+hash = "a520e5e7909c9e50d1857874f853e6fafff8ac106fabff239868d5c57a57b546"
+
+[[files]]
+file = "config/idas-neoforge-1_21.toml"
+hash = "d17cd4af4a3ad34d26f95d77414c40e7bfed0414d17565bf5441789e1abe6aad"
+
+[[files]]
+file = "config/immediatelyfast.json"
+hash = "a6c9d147a51c9e432c5c74c00285cfc5ba8b6fa4a0c6686051a7168b158d0d7a"
+
+[[files]]
+file = "config/integrated_villages-neoforge-1_21.toml"
+hash = "18b1d78a928ea08b4545368e87f4ea4656a79f083a3ec7512b5e7d8cd37700d6"
+
+[[files]]
+file = "config/invtweaks-client.toml"
+hash = "2a9a897f047cc94623c3da03cdf0d9094d0e560c94490f80275c98a13a58c2f7"
+
+[[files]]
+file = "config/jei-server.toml"
+hash = "702acd04d99445bce659d04fcc488e1a98c8a803983c31ae262b0f3a47fdc8d3"
+
+[[files]]
+file = "config/jei/blacklist.json"
+hash = "b4174dc6e985aa90be5002c14e94b956d8d586683c44b7b6710c44d08fb13648"
+
+[[files]]
+file = "config/jei/ingredient-list-mod-sort-order.ini"
+hash = "5057d6f8d2129fec91840bd71042231b2bd7394af995bafc4f5c7f95eba13009"
+
+[[files]]
+file = "config/jei/ingredient-list-type-sort-order.ini"
+hash = "9be9f5ca14028eda8df857922eea736a3d1e76a85661ba90edae2682eeb0b502"
+
+[[files]]
+file = "config/jei/jei-client.ini"
+hash = "f6841387ba118885299e6fe6574daaa62ad5adcf4e73f851ec2e9f8977ea066d"
+
+[[files]]
+file = "config/jei/jei-colors.ini"
+hash = "755f199a3868224bdccb2a8ffd8f1a4eb2d96140757f444ba31f8d677a66034f"
+
+[[files]]
+file = "config/jei/jei-debug.ini"
+hash = "960b16c7af6d62bbe7b58fb52216a8a15771bddecbeefab49a8614b7ca86dcbd"
+
+[[files]]
+file = "config/jei/jei-mod-id-format.ini"
+hash = "6a91c09d1cabc1980d90ab102a03ec58c0551213ab16a459b599d768b334d054"
+
+[[files]]
+file = "config/jei/recipe-category-sort-order.ini"
+hash = "db0b95ce2e38d9e0f3af2efc955409423de2dc495d263de2bb2fbd8314a271c0"
+
+[[files]]
+file = "config/jupiter.json"
+hash = "ac6415cb504a1cd8d129435e67e718b0f139613f378127f0f8f21ee61ca4ffe7"
+
+[[files]]
+file = "config/knocker.toml"
+hash = "14b863a08cdc7ba262c85c9709d9facae1036cfe38a25639fdde64b255595506"
+
+[[files]]
+file = "config/legendarysurvivaloverhaul-client.toml"
+hash = "f6af2f8b14088523860aee6c569b0a625ae0ba727aecc9d9454c2e1033909857"
+
+[[files]]
+file = "config/legendarysurvivaloverhaul-common.toml"
+hash = "4b8a3e8d5f63a0b987e78931db033a966bc8bada68ebc4d83528e3906c072263"
+
+[[files]]
+file = "config/lendersdelight-common.toml"
+hash = "60448bc6b894d3491169ae8c86f6b48ad7f1b12ed296ab3f7df1ba2423da85d3"
+
+[[files]]
+file = "config/lithium.properties"
+hash = "6cf6f83720071fd1657c8e79b357caf68d40f410ae123e5f922483eb1d1d25be"
+
+[[files]]
+file = "config/lithostitched.json"
+hash = "d8a63933ec4757186a594debea59dd35724a0a895fe601b324f96217c28312df"
+
+[[files]]
+file = "config/lootintegrations.json"
+hash = "898873bac11398a75f7faddeb31410246d43be578868ba58d390b58667b44d31"
+
+[[files]]
+file = "config/midnightlib.json"
+hash = "b14c45c6447f9ee5474d70784a2ef96731abbeca1e92485b7599e76e9dce1444"
+
+[[files]]
+file = "config/modernfix-common.toml"
+hash = "72ca2bcea2a9946a3a54842f14eff6f7b47d8fc96ef497c1b56406643b153fd7"
+
+[[files]]
+file = "config/modernfix-mixins.properties"
+hash = "32bbaa6f573b612b92653fc2814365cd8aa423d39fcab4fa5dcfcb5f31121874"
+
+[[files]]
+file = "config/moonlight-client.toml"
+hash = "3f252fefef0345f9aa8a8d3b7eff02f045b8bf565329eeba9ec50c7989a63457"
+
+[[files]]
+file = "config/moonlight-common.toml"
+hash = "a6d5e783dc1469e925d4cf62f17a94ee2dff4ff025d9ed9e61b129581019cdf3"
+
+[[files]]
+file = "config/moreculling.toml"
+hash = "49726bd4015ae2980498c3efc8b0ff32dfef76545be23990cca00d9e7c5a8a4a"
+
+[[files]]
+file = "config/neoforge-client.toml"
+hash = "d58d93e2c429410d0abf25507d1679f732e1023b03bb52414348efcf5cf3ddb0"
+
+[[files]]
+file = "config/neoforge-common.toml"
+hash = "fe878a2717a145cd890621eac5b3be1e1fd656f7ff9abc6e8d53f670d37474c4"
+
+[[files]]
+file = "config/neoforge-server.toml"
+hash = "b1e3b38d612295f8d9dfa0fbdb538a992b7a1a3b7a766c491b4e9fdf3823396f"
+
+[[files]]
+file = "config/neoorigins/admin.toml"
+hash = "96b3e278e24f0d5c4500bed8f79e2ca7559249b81f48ac88b1879d950cfa75c7"
+
+[[files]]
+file = "config/neoorigins/client.toml"
+hash = "9c3eb2fb09deb24a916e17258f3c6a5e0c35560dcdae60b2e861a6d7d1cff19c"
+
+[[files]]
+file = "config/neoorigins/content.toml"
+hash = "a6c5a07d201595193e94efc9bcd43c51fb651e06d63a330d5a1c9194e9b08706"
+
+[[files]]
+file = "config/neoorigins/gameplay.toml"
+hash = "9b7027044c702ab6e8c54d1bef474eaeebd129c9317c99d1bf781437a78246d4"
+
+[[files]]
+file = "config/neoorigins/power_overrides.toml"
+hash = "46ca39406fbc8189a9bde6388b8cd5a6878adad765df73bc42e5f2566d4b09dd"
+
+[[files]]
+file = "config/offlineskins.json"
+hash = "b84921e870e82005697911c5de6ca299ce37522b93aa59328b2312573d1f46d1"
+
+[[files]]
+file = "config/offroad-server.toml"
+hash = "d5f0ed8390618c769d9cb40a77df04779b7bbe636343b753c1ed6f92d325ae2b"
+
+[[files]]
+file = "config/origins.json"
+hash = "03409a2fb12088726b4ac37120bf45beace0fb49d7a4ae3936a15f573b6e1049"
+
+[[files]]
+file = "config/pipez-server.toml"
+hash = "fe61ea4556fc99cf1848c3b7668a8584e6802c7034b9f16c5ead553c9ae14757"
+
+[[files]]
+file = "config/placebo.cfg"
+hash = "eb7e9906d126543f03c2257ca98efa4b845d1e7479dc8b069a12b194c86debcf"
+
+[[files]]
+file = "config/ponder-client.toml"
+hash = "55affffe67e84dfe11e590769e235aee999b77f9484a3adf7ee8247a9f3d35ba"
+
+[[files]]
+file = "config/quark-common.toml"
+hash = "9b144fbc768b01679d1be34267739c3bc762b213497a3b0666237008bee5172d"
+
+[[files]]
+file = "config/railways-client.toml"
+hash = "3050e460327f400654d8853f26e267e7c47d28312a42262985764b29998a5676"
+
+[[files]]
+file = "config/railways-common.toml"
+hash = "cb0af90a705f48886a1c4ec970dfeb70e91d6961f561b5f1d5a31f5e0cc1edd5"
+
+[[files]]
+file = "config/railways-server.toml"
+hash = "ffa9360afd80c2952b87b6892d6f782a3e9e82dbba98613a728d4fc4ecd647c1"
+
+[[files]]
+file = "config/refurbished_furniture.client.toml"
+hash = "531d089119a8002ff2fc3e4ff2dca867744227c2b8d5444be733d676e7af72e8"
+
+[[files]]
+file = "config/refurbished_furniture.server.toml"
+hash = "82a6d7d2d42b403824473c66fe9c9cd8caec328f27ffed77f4c8c9d43c5f2af9"
+
+[[files]]
+file = "config/regions_unexplored/client.json"
+hash = "219a24a03c06a9171e1b04e1bd361a9332905dd79d0b94a4c805b4358a41ee1d"
+
+[[files]]
+file = "config/regions_unexplored/common.json"
+hash = "300dda462e31f6f1bcce0d67308e4939d1b461a03c8cc92ba805f7ac9d1cb66c"
+
+[[files]]
+file = "config/registry_dumper_3000.json"
+hash = "71d59730b2f8e3ab9fad5000bad31b424f08f5968ccafc6a8ec01cff71abf68d"
+
+[[files]]
+file = "config/sable-client.toml"
+hash = "5f816a5d7d32cc56ff3f26e3adbb25c6bfea6d81aba088cca9e00d42d73753e4"
+
+[[files]]
+file = "config/sable-common.toml"
+hash = "43d5cdfc1997a8aaabfc301e746b773319999d348661a1a7a04b37a70fda93c1"
+
+[[files]]
+file = "config/sereneseasons/fertility.toml"
+hash = "f63f94b985285add146c73a8747d278cec3d386807855b25de0e1db9962c153f"
+
+[[files]]
+file = "config/sereneseasons/seasons.toml"
+hash = "cfafd0639d04947bdb6f714c8d746ea28b006fac193aff6896790aec9fd282b7"
+
+[[files]]
+file = "config/servercore/config.yml"
+hash = "0091b6df5090f088906d71d6afc8e50fae70d5b705e6c5dbac47790b8607f958"
+
+[[files]]
+file = "config/servercore/optimizations.yml"
+hash = "63ba7034fdf1f45f1b40798d3212f8d838f7c299fbe5795075fbafe1e2265192"
+
+[[files]]
+file = "config/silver.json5"
+hash = "d3590bae3bd63dc39f4792ee5cb85344ef7d1759a2185abea5c4690e3848bf40"
+
+[[files]]
+file = "config/simplyswords/gem_powers.toml"
+hash = "449c900fea6dc649c3860ff4ca7757ace36e43d980105683a0bff933423b9ae4"
+
+[[files]]
+file = "config/simplyswords/general.toml"
+hash = "88569b10e84b528d85d61480e64d1152027582d5924b020afa13ace1ad4db6c2"
+
+[[files]]
+file = "config/simplyswords/loot.toml"
+hash = "426f8dc0443fb52bd1d4f2da8b32543fa2c89bbe9a1ab8eaa8a694a787aa06f4"
+
+[[files]]
+file = "config/simplyswords/status_effects.toml"
+hash = "f2705139bcac22bd00c2949cbee453f75f0df1f339b70cc1dfa211c246493e60"
+
+[[files]]
+file = "config/simplyswords/unique_effects.toml"
+hash = "7b4cec95c759a9fc0a527b65f84053424acd5b3fb1d4d8871852dc1f4f4ade41"
+
+[[files]]
+file = "config/simplyswords/weapon_attributes.toml"
+hash = "568b26ff541d820ab708c9e3c9a44a182dde85462aed6bd145d07b47bd89d732"
+
+[[files]]
+file = "config/simplytooltips/config.toml"
+hash = "3e5b250f6fa5e4ffb246fd04e6dcffde1cbf4da77d424e9d88e115444427cb09"
+
+[[files]]
+file = "config/simulated-client.toml"
+hash = "aaeeaedb8179a8e2404a468c0b62fee76dd5becb6c87d870f206733e20009991"
+
+[[files]]
+file = "config/simulated-server.toml"
+hash = "fbcf40465f120ceac12fdc297e8e196ca2774936406404165402d94009f0e53c"
+
+[[files]]
+file = "config/sliceanddice-client.toml"
+hash = "3a5b0f383352483c0afb34cad7800ab7757b70d0028e6edbdb4c67b1762b829d"
+
+[[files]]
+file = "config/sliceanddice-common.toml"
+hash = "8c17330d9f9804cd1540b0f442c7f7b7d1dbd3ccb3e22f6c4af222753ffd49ac"
+
+[[files]]
+file = "config/smoothchunk.json"
+hash = "5f85b2c857c2561cf720745f724d20befce7bb58732083259a798263c0af99f2"
+
+[[files]]
+file = "config/sodium-fingerprint.json"
+hash = "b2c7a6ef2f80efd3906f56bd5ea00b805e672eaf88ce1c3fc1fd209ba16a49c4"
+
+[[files]]
+file = "config/sodium-mixins.properties"
+hash = "b627c4456e6fa0bc4b5f85e2f1cd949faedae3cb9afdaf2a5f52e6f3b6ae1f01"
+
+[[files]]
+file = "config/sodium-options.json"
+hash = "0e4ce933707829871980a9d5e305a29cf69bc16d7dee33c4388c0d55aec549e1"
+
+[[files]]
+file = "config/sophisticatedbackpacks-common.toml"
+hash = "390cb983090cdc5ba9013c0551fcde8ecf579040f970e33de5ecfc500841cb7f"
+
+[[files]]
+file = "config/sophisticatedbackpacks-server.toml"
+hash = "1108ae02485abf29d8fa086f5d05503580f9a4f8e1f371262feb08457dbd3d98"
+
+[[files]]
+file = "config/sophisticatedcore-client.toml"
+hash = "12f65a872b73c931b0a192d7e95c7d89f7ef7f1fd33f3ee7ff6bbda12fb8845f"
+
+[[files]]
+file = "config/sophisticatedcore-common.toml"
+hash = "688b3b3f34b65bcf36cbc52a41e1ac0431affcc7beaeecaa3799a1cbe4d4b95c"
+
+[[files]]
+file = "config/spark/activity.json"
+hash = "62b66e56e023a52f950d8f0ec6d61cf64daca0d9651fd627fac85972a8bdd718"
+
+[[files]]
+file = "config/spark/config.json"
+hash = "992ba9f3a4a7ce3de112eb95575328956fdc3ce6781c455ebce7b23db7e7da42"
+
+[[files]]
+file = "config/structureessentials.json"
+hash = "54826c1ce55156e6a3d19a22949d733668806c7ed4a77218cc1d26bb6c5fa7bd"
+
+[[files]]
+file = "config/structurify.json"
+hash = "a482c8933bcbcd1027f29ed68edaeb6acb8f95ce1a39eaea8f7af135cba0e091"
+
+[[files]]
+file = "config/supplementaries-client.toml"
+hash = "90e41edd2aae19145138323f64d051990b8079f1dacca0582e0062f24783612f"
+
+[[files]]
+file = "config/supplementaries-common.toml"
+hash = "8466808fdc39ff49467ca61ac57592d71f63b04248bf17a9475756a4d064b779"
+
+[[files]]
+file = "config/tharidia_easydiet/diet_config.json"
+hash = "25b47e12645965856608fc7c2a9edc96b51c885533cf17a7be77099699252b90"
+
+[[files]]
+file = "config/toughasnails/client.toml"
+hash = "38db2f6a8bae065d6bf89327cea92c55d7370db7c0afcb13b494b985776f31c7"
+
+[[files]]
+file = "config/toughasnails/temperature.toml"
+hash = "23d0ecc9637943d1e5300f753d1768d7a8673b48c8bc97b29df082f852cbe44d"
+
+[[files]]
+file = "config/toughasnails/thirst.toml"
+hash = "edc02c61b24515600f8cc60545ab99b4bc9aea490e7ac348bcbca85da4d14199"
+
+[[files]]
+file = "config/transition.json"
+hash = "60420a41571a4658b91babfa2b47d6fefb7c1766eeea969f51ff98ab34c2431c"
+
+[[files]]
+file = "config/trender.json"
+hash = "0a282f3623f7f9443a1d10b5768865f69e58b74e000dcfb4f40399626b7a6124"
+
+[[files]]
+file = "config/unionlib-client.toml"
+hash = "3e0a80b5488058b510b9ffb7d1ef84e7140a321fbdb34b8b13817b4f8636f250"
+
+[[files]]
+file = "config/unionlib-common.toml"
+hash = "5fcd5793de154b99c3eac8da908e3be12b5552058b3e5142c6bf699c75bf2c54"
+
+[[files]]
+file = "config/unionlib-server.toml"
+hash = "b866ef93b7aaf4f256e4f406bd2e0ca6c58c4ddc967b64767ae7d50d066500fb"
+
+[[files]]
+file = "config/vinery.toml"
+hash = "19912990f7f94b54ea5e3acd3eecb20e43f4005a13d1dbe929da5976b91e30b7"
+
+[[files]]
+file = "config/yacl.json5"
+hash = "121b93764159be6fb7dab523b29a844e2bb78400ce8c48f52135a097e9b0006e"
+
+[[files]]
+file = "config/zeta-common.toml"
+hash = "d985bfc68899c91aa642736400472f6ab876dedaaef4b8c31f38b52d48de633d"
+
+[[files]]
+file = "defaultconfigs/biolith/general.json"
+hash = "7f1e58be2cf7db18181869804bb09823ee93a4ea863d560036e8a05954bcf806"
+
+[[files]]
+file = "defaultconfigs/champions-entities.toml"
+hash = "273f1623c2cd9c3bebba4782bef4a1572fc4d677a80ffcf12545666ab503f625"
+
+[[files]]
+file = "defaultconfigs/champions-ranks.toml"
+hash = "446714abc6b3dcdfc37c7719d377d45127e0fd13b375b7f425c386eb2d533164"
+
+[[files]]
+file = "icon.png"
+hash = "034eaf142281ad74ecc2929c4253663e8a45c55de7ae08aa573b0a7d8d7cfeb3"
+
+[[files]]
+file = "kubejs/README.txt"
+hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
+
+[[files]]
+file = "kubejs/chest_loot_alexsmobs.json"
+hash = "db74d349908bd599b4dbeb5b41bbe3c3ee7bb6f592e7854272087efd421f50a9"
+
+[[files]]
+file = "kubejs/chest_loot_aquaculture.json"
+hash = "b5a92fa7e1e3753a981eee9c8e8b4c69ec906c7935b6a6480822420586bcda08"
+
+[[files]]
+file = "kubejs/chest_loot_ars_nouveau.json"
+hash = "da2756d674a0563d6e64caf5f1afd94b9f97ad941dcfeb062e6f76f03c15ae0c"
+
+[[files]]
+file = "kubejs/chest_loot_artifacts.json"
+hash = "453441b762533419d3893d3474b28c8248d793dc9f8b6cea6afc56d87c3683ba"
+
+[[files]]
+file = "kubejs/chest_loot_block_factorys_bosses.json"
+hash = "fa8f0547b012b66b2a0f15a6d3fbe776a2ef2b2f870215514cdc8bf12345f0ff"
+
+[[files]]
+file = "kubejs/chest_loot_butchery.json"
+hash = "e9269ae4a0e9c0096637644ac5bc44f25a16848732e46e3e6109d67e81f5fd9a"
+
+[[files]]
+file = "kubejs/chest_loot_cataclysm.json"
+hash = "cd6337b05867e8f254cd6e1c3541be644a65181682b6944233437e6ddf5e7ae9"
+
+[[files]]
+file = "kubejs/chest_loot_create_easy_structures.json"
+hash = "a4a2dc054a46c56c91317b9fc516a678179f77adc013bbdf236230c2aa310317"
+
+[[files]]
+file = "kubejs/chest_loot_create_rustic_structures.json"
+hash = "b42df9f49a2b77b06a2601ea979200ed11ff3b0bc51c22be6fb42dc50bae8f7b"
+
+[[files]]
+file = "kubejs/chest_loot_decocraft.json"
+hash = "5f6890a65a7e6c6757f53c209cd54ef73131a0b9bf0cb8e26efd76d953c4046a"
+
+[[files]]
+file = "kubejs/chest_loot_dungeoncrawl.json"
+hash = "585ecafb05553036212e78b60c6c8a5a79d2fd93fe55966d5c86d5c7c895da0a"
+
+[[files]]
+file = "kubejs/chest_loot_dungeons_arise.json"
+hash = "37e5907bd90f3dd52a32c3a354d11c0bac4fadf268bef6d2f2d9ede840c7c355"
+
+[[files]]
+file = "kubejs/chest_loot_endrem.json"
+hash = "d074a4cd4b4a7306a1fb64a9c2afdc2641bc6950821ce02473f0ca961cb34856"
+
+[[files]]
+file = "kubejs/chest_loot_farmersdelight.json"
+hash = "8ba966e72521b19b94edaf1fe4551c66ee6318e9977c4de375f42933af84e7f6"
+
+[[files]]
+file = "kubejs/chest_loot_iceandfire.json"
+hash = "0e1e2ca649ab9bbdb07789215d31768627e54f85af2bf05e6b7b82b95be01d77"
+
+[[files]]
+file = "kubejs/chest_loot_idas.json"
+hash = "cb698b1caff146db3f48a16df927d0834baba6bf2e513440c9e5a6ec036cc4be"
+
+[[files]]
+file = "kubejs/chest_loot_integrated_villages.json"
+hash = "e8340a5399c39775c28a06923c8390ebddafb28b75ad361378cde1dd7e1dfcfa"
+
+[[files]]
+file = "kubejs/chest_loot_legendarysurvivaloverhaul.json"
+hash = "3968c7762544b4e7a8045ed840bf764f52f12ea1377ed1f663bf7b32448d5088"
+
+[[files]]
+file = "kubejs/chest_loot_lootintegrations.json"
+hash = "12cf121f3d8340de2f786838cea2fda41106e66d1fa9451571f9111ad824076a"
+
+[[files]]
+file = "kubejs/chest_loot_minecraft.json"
+hash = "47c386c56ddac515347cd9667a6611a7eb1a90ebb93c7fb4a2d0ddd9dfdf1e2c"
+
+[[files]]
+file = "kubejs/chest_loot_nova_structures.json"
+hash = "15076bceeb38304967fdbebafbb588c5a6102da5655d53e27706f465e24bcfd4"
+
+[[files]]
+file = "kubejs/chest_loot_quark.json"
+hash = "99a8847a8f7e1f39227dcb5cc72b8bbc747586ec053bde55b205eec1df5c9631"
+
+[[files]]
+file = "kubejs/chest_loot_sophisticatedbackpacks.json"
+hash = "3f4e8dd7a560caf725f823c2480f75b7bcf4766fc96cfa489a44255afdbe418d"
+
+[[files]]
+file = "kubejs/chest_loot_supplementaries.json"
+hash = "b452ae816e2a17f852f0d499b94811e3128f90ee1a4968196af6cdbf1aafa5d1"
+
+[[files]]
+file = "kubejs/client_scripts/main.js"
+hash = "9ca83ab7b972c5f0f6808d5713691549ece5af814577c16403a97f174ae9c353"
+
+[[files]]
+file = "kubejs/config/client.json"
+hash = "0aeb4cb329b896e33a0777a1683b0b813a6f2f0adc5bc2cf3e6d10e18e442fef"
+
+[[files]]
+file = "kubejs/config/common.json"
+hash = "e00a67922942660d77c213379b5128a46c5abc894178b0be04006d325ff5f6b3"
+
+[[files]]
+file = "kubejs/config/web_server.json"
+hash = "8be804864ff8816b1b569902c33220beb7c118909d52bf7aa2c2b19024b561f7"
+
+[[files]]
+file = "kubejs/data/endrem/loot_table/minecraft/chests/abandoned_mineshaft.json"
+hash = "af73bfdbddd392cbfcf94acfc3638cdeb8cc8f69f70341727b8e174504a838d3"
+
+[[files]]
+file = "kubejs/data/endrem/loot_table/minecraft/chests/desert_pyramid.json"
+hash = "af73bfdbddd392cbfcf94acfc3638cdeb8cc8f69f70341727b8e174504a838d3"
+
+[[files]]
+file = "kubejs/data/endrem/loot_table/minecraft/chests/igloo_chest.json"
+hash = "af73bfdbddd392cbfcf94acfc3638cdeb8cc8f69f70341727b8e174504a838d3"
+
+[[files]]
+file = "kubejs/data/endrem/loot_table/minecraft/chests/jungle_temple.json"
+hash = "af73bfdbddd392cbfcf94acfc3638cdeb8cc8f69f70341727b8e174504a838d3"
+
+[[files]]
+file = "kubejs/data/endrem/loot_table/minecraft/chests/nether_bridge.json"
+hash = "af73bfdbddd392cbfcf94acfc3638cdeb8cc8f69f70341727b8e174504a838d3"
+
+[[files]]
+file = "kubejs/data/endrem/loot_table/minecraft/chests/simple_dungeon.json"
+hash = "af73bfdbddd392cbfcf94acfc3638cdeb8cc8f69f70341727b8e174504a838d3"
+
+[[files]]
+file = "kubejs/server_scripts/dungeon_loot.js"
+hash = "223ee9abf95e1eca9bac6c80619bd8a86794d68d134a5cc8459dccdb6cfbc143"
+
+[[files]]
+file = "kubejs/server_scripts/loot_export.js"
+hash = "5583d51fa9a40ae96b40d9cc11ae8bbb88c376b5b513a38458c2641fa42fd147"
+
+[[files]]
+file = "kubejs/server_scripts/main.js"
+hash = "b9774609ae7b5f965d20185c4ba355469b57dd8181d3a818ca172076bc0a0d97"
+
+[[files]]
+file = "kubejs/server_scripts/recipes.js"
+hash = "dbe6b2ea1ac09bbfab1b5c724088961e5f7a4617f0a8dfc7c4bc1391b6dd97f6"
+
+[[files]]
+file = "kubejs/startup_scripts/main.js"
+hash = "124ce8394a286775262df6908641de63ce4a0e8fb5943563f0615f97985e6776"
+
+[[files]]
+file = "mods/alexs-delight.pw.toml"
+hash = "516e0ce480882c6a73773d685dfc00b2228e1be6f2108488a614063d0dca261e"
+metafile = true
+
+[[files]]
+file = "mods/alexs-mobs(1.21.1).pw.toml"
+hash = "fb53bc6c0d543cd7e88a5faba1e3235dca6c556e0cf8c1a534bbdec581c3c2f8"
+metafile = true
+
+[[files]]
+file = "mods/amber.pw.toml"
+hash = "fb2bbe5935f61871ae9ddc2e40d44c773f62cda0cfc211be22c4717268ad6485"
+metafile = true
+
+[[files]]
+file = "mods/amendments.pw.toml"
+hash = "5c3b2fcb9762b53e2e18fe090180a2062bb5cbf65fa8a774d44b55af60705ebe"
+metafile = true
+
+[[files]]
+file = "mods/aquaculture-delight.pw.toml"
+hash = "aa3a2b60567657cf093c5ec9d384df99c8ba94f7907305c18d8f50c784957a90"
+metafile = true
+
+[[files]]
+file = "mods/aquaculture.pw.toml"
+hash = "6b26155807b2f3825db22e5be51a9ab330c8a70500a702740726053cb4678349"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "6d3a1c92eee4dd671253c41ec000ae48064a33c45263d6adce5cad466395169d"
+metafile = true
+
+[[files]]
+file = "mods/ars-nouveau.pw.toml"
+hash = "cdd14e71c41b125f57f01bfdccc750e9397cfd8b4a032f549e6607c29ce94e72"
+metafile = true
+
+[[files]]
+file = "mods/artifacts.pw.toml"
+hash = "5a21b57951f08465ee9a49e5a7650655291dd441e8ee114c6a7c7caf0a180527"
+metafile = true
+
+[[files]]
+file = "mods/badoptimizations.pw.toml"
+hash = "e8650a690b56921039a7f984c71ebffc8a4e47d0c74e836eee64d964d76538fd"
+metafile = true
+
+[[files]]
+file = "mods/bellsandwhistles.pw.toml"
+hash = "e1f4a53e3e52b534add5dd018597fefd345d9bd6350b9c46ef0ec281fc62af8e"
+metafile = true
+
+[[files]]
+file = "mods/better-combat.pw.toml"
+hash = "5486f656b149dd16ebd97ea62f3410372ad6883604f51e88d14f22c5263a8280"
+metafile = true
+
+[[files]]
+file = "mods/better-than-mending.pw.toml"
+hash = "12b0b7e34d631a5f2b6a544bb0a549d48201671feac81a9ce0766db091adbd6e"
+metafile = true
+
+[[files]]
+file = "mods/bossesrise.pw.toml"
+hash = "d20e603af6e9156021a1b8db31edd187a089b2b21cd7f70fa7eb7507bf81dbf9"
+metafile = true
+
+[[files]]
+file = "mods/butchery.pw.toml"
+hash = "f6d1978323e25d4085062067c000454bed811549a133ce6f07a3d143e4901c3d"
+metafile = true
+
+[[files]]
+file = "mods/carry-on.pw.toml"
+hash = "c5e47d922e39c1556dc2e8c94bfe852cf16de14f65b99eb3e054e41745dddad0"
+metafile = true
+
+[[files]]
+file = "mods/carryon-aeronautics-compat.pw.toml"
+hash = "5dd4552f1e29c6db54ea43a7c56e298de7f8e467bd5a61a211f9c3362b5528b2"
+metafile = true
+
+[[files]]
+file = "mods/champions-unofficial.pw.toml"
+hash = "628be987e60028bc366b044a1f37eca3e12e58a9af234bf78bd59785ef9b4d41"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "1d5cc2b6dcfd1fc3adba4566b1c29b57ff1175316678c1f22e63cbc3e28a5ba0"
+metafile = true
+
+[[files]]
+file = "mods/citadel-(1.21.1-port).pw.toml"
+hash = "80d7af83c244304212b8d95ab2e3525b3eeae02f31e41474c2cdec2f4d370723"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
+metafile = true
+
+[[files]]
+file = "mods/compat-delight.pw.toml"
+hash = "c2fa573c0956c12092a57877b9198290fb15ba1c8cf89a6e7268a69a85ff4bd3"
+metafile = true
+
+[[files]]
+file = "mods/copycats.pw.toml"
+hash = "e002fab16a9b9ef0a35844030339612a38d3c58b0b93e97a34eb43ddc9108be7"
+metafile = true
+
+[[files]]
+file = "mods/create-aeronautics.pw.toml"
+hash = "5fab8d2e412683dfd72f08cf6750e51b03cb43192e8eb783e962ba28d20978bc"
+metafile = true
+
+[[files]]
+file = "mods/create-aquatic-ambitions.pw.toml"
+hash = "13095f719e466c9187ed385ea7b709226da71143cf192a932d8ec7b27e0c7288"
+metafile = true
+
+[[files]]
+file = "mods/create-central-kitchen.pw.toml"
+hash = "125fa69ac8e6e85c9d27a0ec13e575c09312c6e5fd2f97613fbcc85a19775a13"
+metafile = true
+
+[[files]]
+file = "mods/create-deco.pw.toml"
+hash = "67a405e6307f900d168deaa954a4309c3b44a6025e4efd7b8e774b6f9d3a69cd"
+metafile = true
+
+[[files]]
+file = "mods/create-diesel-generators.pw.toml"
+hash = "8c13c49284e9c2f9007874916ab401799f66f5549779881ab2b9bcc57d450f13"
+metafile = true
+
+[[files]]
+file = "mods/create-dragons-plus.pw.toml"
+hash = "cab6f316cb4ef454bbfa18b32263c3fb7c246a0405a505611c1e36b5eabd48f0"
+metafile = true
+
+[[files]]
+file = "mods/create-easy-structures.pw.toml"
+hash = "1d91b46a5973bda84e2b314878693ef5df83475b95569a75b00de096edfe3df4"
+metafile = true
+
+[[files]]
+file = "mods/create-jetpack.pw.toml"
+hash = "4c0763d5351f0264d1d60c6fee012663f4855a9def0c31c309560779782945d1"
+metafile = true
+
+[[files]]
+file = "mods/create-let-the-adventure-begin.pw.toml"
+hash = "125550f754e447392aab3688e11652157296f53eac160bb62d1fbdca6c5af359"
+metafile = true
+
+[[files]]
+file = "mods/create-misc-and-things.pw.toml"
+hash = "055a23471c72576d1f79e2edcd6a20bcaa59ac70c84480fc10069c6469b3f528"
+metafile = true
+
+[[files]]
+file = "mods/create-pillager-arise.pw.toml"
+hash = "39636876dcdbd0115b27812ed33ad271bd26ce33dc93429d5cf26eab4cf82c06"
+metafile = true
+
+[[files]]
+file = "mods/create-rustic-structures.pw.toml"
+hash = "ee564898ada12be2660c3ece6a7433f46c13983cb183549310209116cb54742b"
+metafile = true
+
+[[files]]
+file = "mods/create-structures-arise.pw.toml"
+hash = "bd48df02197c531fc58f203c2b6616f8327f5c18208414060e24b12e93c8afe0"
+metafile = true
+
+[[files]]
+file = "mods/create-stuff-additions.pw.toml"
+hash = "17a87ed421639310e22a1e1d2b693dbe04c69282f2a083e030ee24f969e4b08b"
+metafile = true
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
+metafile = true
+
+[[files]]
+file = "mods/createaddition.pw.toml"
+hash = "350357b34feae2f0971d114ba856e4915e508efec110eea5ebdeac419d515e08"
+metafile = true
+
+[[files]]
+file = "mods/cryonicconfig.pw.toml"
+hash = "eae581f5bad381846ee73f31f511b91188da20579f2d42f90d828cf8c43bd248"
+metafile = true
+
+[[files]]
+file = "mods/cull-leaves.pw.toml"
+hash = "a9b9623c952949837c1c6827b94b5969241c44825483a901cad12fcda12d40e9"
+metafile = true
+
+[[files]]
+file = "mods/cupboard.pw.toml"
+hash = "0eaf99546b07ea456f4b8f198b646a06f5b9446fb735494f034871f70d36c569"
+metafile = true
+
+[[files]]
+file = "mods/curios.pw.toml"
+hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
+metafile = true
+
+[[files]]
+file = "mods/decocraft.pw.toml"
+hash = "e07e26a8bf2af1dd03c09f0361cc0b0067fbc20c8f0612c9f800113427b12c9d"
+metafile = true
+
+[[files]]
+file = "mods/display-delight.pw.toml"
+hash = "18219006cd971209a7630c5704c2ca92d5631f3d6ee6cb1c43975656c249ba0f"
+metafile = true
+
+[[files]]
+file = "mods/dungeoncrawl.pw.toml"
+hash = "ea9aa01bef9a96106305fb131a39311e0acd7682ed863e8814cf1cfd5403ac88"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns.pw.toml"
+hash = "b9244dca740d333c22f3425991fdd2fd40d3ae12384079a40a6fb7d4bca18a18"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "ae6fd52d8bdcbeca5bbe6db840f22f92c1928fe0fda22017b19612b9b00a245a"
+metafile = true
+
+[[files]]
+file = "mods/easy-diet.pw.toml"
+hash = "ac4a0751cffe3e92ad71aa871ac73a4608cf3aac5eec8b87fc8f28472ff6b910"
+metafile = true
+
+[[files]]
+file = "mods/enchanting-infuser.pw.toml"
+hash = "d59b35ab8c8501db71b5c394fbfa9a76d9652171226018af255c886e64e2747f"
+metafile = true
+
+[[files]]
+file = "mods/endrem.pw.toml"
+hash = "db22718a1efaf2c691cf3bdddc61b0b06bedff7cb0722aa8b1bdf4f095d116cc"
+metafile = true
+
+[[files]]
+file = "mods/enhanced-block-entities-neoforged.pw.toml"
+hash = "ba19e88c2de56b0dbfc1731333e983dfaf0abb900fe36d1893e0cf70077e6ef5"
+metafile = true
+
+[[files]]
+file = "mods/enhanced-enchanting.pw.toml"
+hash = "99714911497bc39941980507df55ba57fe212dc0ebc4ce1d383e173ab0b680c0"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "4fbe037c1ec3570be84f68e075c3e8293b15f64dda22bca4735924705fb38236"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "efc2c4fe9e2cc169aff61a6b7a41ea9bc7a22a90aadf0776b22de647ddf3cef6"
+metafile = true
+
+[[files]]
+file = "mods/fastfurnace.pw.toml"
+hash = "632f283dcdbb6a5011c03fa1d3e2fa84b1686e8f718550ccaae427b5b9880403"
+metafile = true
+
+[[files]]
+file = "mods/fastworkbench.pw.toml"
+hash = "a72d0e28aaf0b93d674ac2ba92d9713e63cb91df21739bc7d72db5477a299f32"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "73360e397134d238ee8fd21d33fd7f9275e9441f74f8f1b6ed92278877c0b9f1"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "2e76c80ff830074b19c38520160b00713985e6e9df7a3ff180116e3a73bb8937"
+metafile = true
+
+[[files]]
+file = "mods/framework.pw.toml"
+hash = "dd0153bc05a3ffc8592dfaf35b4e8014127e6e1b352d7c18462d49a1ed7a5035"
+metafile = true
+
+[[files]]
+file = "mods/ftb-library-forge.pw.toml"
+hash = "5fb287ddb204cc2460dc51984099b0010462f781d00b2d6ed2a37046accf2560"
+metafile = true
+
+[[files]]
+file = "mods/ftb-ultimine-forge.pw.toml"
+hash = "3529bc9c3a7b54933869be1d1d84a948d091c3d6064bbb6b17874d7c153b4dca"
+metafile = true
+
+[[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "f9c118b7a66238a7f9e052705e82402e57c7a5b753d62d679b94701ede479752"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "076b61776e2df489b323758c97d85c5370554c044845ee2e90476a3c138779e8"
+metafile = true
+
+[[files]]
+file = "mods/glitchcore.pw.toml"
+hash = "e53646f88aeb6bd54c38db50da972abdac91e83c145a8f974107b0ca103b15bc"
+metafile = true
+
+[[files]]
+file = "mods/iceandfire-ce.pw.toml"
+hash = "1b623bb4261ecb6778b8adbc5b343802c15229dd08e44dfa0087f95d06f869eb"
+metafile = true
+
+[[files]]
+file = "mods/idas.pw.toml"
+hash = "b13158a1f8daea08344c22f072a708fd658a958e06a24560e5a3016e69c16375"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "3d47b1d933d04934a606be1cbb67481860c3d68c9ed4efc387c7745d23b732a7"
+metafile = true
+
+[[files]]
+file = "mods/integrated-api.pw.toml"
+hash = "51efd91733a69b031ff8533683e5a94b9c25a8e270e40e6ce9f4b03121e03450"
+metafile = true
+
+[[files]]
+file = "mods/integrated-catalcysm.pw.toml"
+hash = "08da9cb280f7b2ef97b5b1c2fb32d153fcb361d55aed5b97a77cbb29fa921d20"
+metafile = true
+
+[[files]]
+file = "mods/integrated-dungeons-arise.pw.toml"
+hash = "445692cfe487140ccb79ac128fb112dca9d87f1059533cd6a45e447329b07f66"
+metafile = true
+
+[[files]]
+file = "mods/integrated-simply-swords.pw.toml"
+hash = "3fc07e664493e32fa261316fc8e78bf61193948c908e54bc7460d4a9969f98d0"
+metafile = true
+
+[[files]]
+file = "mods/integrated-villages.pw.toml"
+hash = "6119f4a28b047a9a1b47d5dd505ad43f407ab400dc94eb5d6d3d5189fea24ed3"
+metafile = true
+
+[[files]]
+file = "mods/interiors.pw.toml"
+hash = "e7e6b3effe3022cf1fdb900c857111fdcbfd6b385c2d5bd28c914efaed436ecb"
+metafile = true
+
+[[files]]
+file = "mods/inventory-tweaks-refoxed.pw.toml"
+hash = "23a6d125c91c8f4257c4e73fe320ce81f0b2a0c1d6316664296edca6b41acb70"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "bddad012395abb9a59b369b39837a04cf956320db9b778a4c922be2494607f46"
+metafile = true
+
+[[files]]
+file = "mods/jupiter.pw.toml"
+hash = "3f44721c554a06b9e922c6102bed6402fed57d6d340de0299ee4237544724c48"
+metafile = true
+
+[[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "27302b0087cf53570cd7a3b4eb550a208cbb6f6ba07210c604176155f39e0078"
+metafile = true
+
+[[files]]
+file = "mods/kubejs.pw.toml"
+hash = "99bea71046529d65463fc12acb505ab363c91133ebbcc1d976e49a5d33150702"
+metafile = true
+
+[[files]]
+file = "mods/l_enders-cataclysm-delight.pw.toml"
+hash = "637e5b445b28d460884ce868948328ef512eb10ab2af60a86bd3e2c37ac49697"
+metafile = true
+
+[[files]]
+file = "mods/l_enders-cataclysm.pw.toml"
+hash = "724206c2b7dbf3501b9ec3ea38036eb616118c1c0ec562d68526eb529f8dfb41"
+metafile = true
+
+[[files]]
+file = "mods/legendary-survival-overhaul.pw.toml"
+hash = "0d717f2837eec7f080109b809b5ed3dc8f935853dcc907a07ee9a5ce2f01c730"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-vinery.pw.toml"
+hash = "535e8e9c6bc184e9771cf4e35795c8f162d89abeb5b9aed9c2ea2988c710776f"
+metafile = true
+
+[[files]]
+file = "mods/lionfish-api.pw.toml"
+hash = "bb4efe79f675a82254d2f01237b9b5d074e2f794c5911a44436f60397f5a2009"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "51e129832b04acd57da470fc41725bad5e101b6a6b1d4901fd8ea7a92b14e13d"
+metafile = true
+
+[[files]]
+file = "mods/lithostitched.pw.toml"
+hash = "6cb90789f0adf2996fd38d3bb22d3e6e09fe00d25653ed5012e8f10846ed6df7"
+metafile = true
+
+[[files]]
+file = "mods/loot-integrations-dungeons-and-taverns.pw.toml"
+hash = "27213a9e82777d657d7680c01e2a7043defb37ceb09b86842104d3c8bf35a7b6"
+metafile = true
+
+[[files]]
+file = "mods/loot-integrations-integrated-dungeons-villages.pw.toml"
+hash = "0482e4149cbb3753e95aa7eeccad98f912cdb15787f334752872bc6308b18e31"
+metafile = true
+
+[[files]]
+file = "mods/loot-integrations.pw.toml"
+hash = "543b8a8ff5796648146f3102dea686e806f793052d329d0fa3efee8194d4df52"
+metafile = true
+
+[[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "73aba17132f267dd76ff682aa84abfb7c09d25a93b9220ee261a1e25337bebc7"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "983d6ab9d9a7d40031f1789f5ae018cccb889832ac8ce741df60a9d8e5f42817"
+metafile = true
+
+[[files]]
+file = "mods/moonlight.pw.toml"
+hash = "9d84be24f2e6adbf75dec35a2bc9b147c840eefe2a7f4138c40cb7ca315f2678"
+metafile = true
+
+[[files]]
+file = "mods/moreculling.pw.toml"
+hash = "4eaef45625336f16e9461e00e9e4f4ed789bcd25b4ca8e011d68564ddb7c8c3a"
+metafile = true
+
+[[files]]
+file = "mods/noisium.pw.toml"
+hash = "b3e831b3e4d6ddbf23806b0fec6087eca264af1ebc04e747c89024972aaa8607"
+metafile = true
+
+[[files]]
+file = "mods/pipez.pw.toml"
+hash = "8e1d84866fb9eb86f141cee1b9fd2f1a1850f0840aa7c4b7a2f0220eb0424417"
+metafile = true
+
+[[files]]
+file = "mods/placebo.pw.toml"
+hash = "2ccda92b6f9f4dae045fe05e57d3a1a4965b81e983006f17d75e83b464c240c9"
+metafile = true
+
+[[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "93284ca7f2f23f0bb76d42b797cabf2aea1914ee9825bec82bf6ffe4c60dda0d"
+metafile = true
+
+[[files]]
+file = "mods/polymorph.pw.toml"
+hash = "152769b5dfbb92a836634e315898b23b6a555c60b6f05ddf38c00085f2b784f6"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "6be463e57622036302e6555834d4b915e9d0407ce646a20edc770901111eca0d"
+metafile = true
+
+[[files]]
+file = "mods/quark.pw.toml"
+hash = "79ac35ba2d4a1ae04f92db5c3b10821970dde8153d7877566eef2ed7e650146b"
+metafile = true
+
+[[files]]
+file = "mods/refurbished-furniture.pw.toml"
+hash = "208de52370a896983814bd3f69ed0e2b46ca52d99603656562f3890f96d151da"
+metafile = true
+
+[[files]]
+file = "mods/regions-unexplored.pw.toml"
+hash = "da7443d028b43392288c061257844e750cb75b4cc10ea79dc7b6beb41049704f"
+metafile = true
+
+[[files]]
+file = "mods/registry-dumper-3000.pw.toml"
+hash = "bddad9ef0462154cd1e5d95105d155a8128571df325d6bbaf92bb50b51c8ac12"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "e55ca32b338a0e0540f4fec5170675d860566255ae0f45692a00cb4ebf2eb535"
+metafile = true
+
+[[files]]
+file = "mods/sable.pw.toml"
+hash = "674aaf0dc67f808f0054cfc7bbe041d6725fcbbe97644a85ffbd946a22d35666"
+metafile = true
+
+[[files]]
+file = "mods/serene-seasons.pw.toml"
+hash = "73b1e4f6608fcd396acc3e4e7aa753d314c8810ef4caf831ed93d9932d93f896"
+metafile = true
+
+[[files]]
+file = "mods/servercore.pw.toml"
+hash = "860d3b3e2c407980ece69e51896fb5e2e1ffcdb63b6956d440f331cf73777c83"
+metafile = true
+
+[[files]]
+file = "mods/simply-swords.pw.toml"
+hash = "1d37ac39109aa15d03a3a7ddf6402d63f72277acafca53f61830046acfe6edb0"
+metafile = true
+
+[[files]]
+file = "mods/simply-tooltips.pw.toml"
+hash = "320d755339086e8fb35709328ad7b094ecbf7c500d61c08c535ec7d277fe1053"
+metafile = true
+
+[[files]]
+file = "mods/slice-and-dice.pw.toml"
+hash = "47f7a98662dff8dae871424d210f1f8144617140a9d84b9f502a6d620c124883"
+metafile = true
+
+[[files]]
+file = "mods/smooth-chunk-save.pw.toml"
+hash = "75a42a9eba356b81f33bb160c5da533e7fdf90b478b43bc463d37264c47bcf4e"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "b09f7819bbd22c2cc6a70601295721cb3bee6d830ca2f51fdacb50de519596e8"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "2950556c3171e961c78ac6dfb82a006b2b9ad78eebda1930c7f1f436cf6db64b"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "99ac5ec98df0ae89e33d2da86c5bd9a6fcbeaa4e23cd954c2329d00d3408742d"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "593fa7b30ab016aa45be07bd6bef3a9f160ed0f24689850d60bf84995d69b843"
+metafile = true
+
+[[files]]
+file = "mods/structure-essentials-forge-fabric.pw.toml"
+hash = "dcbf8b45454dc87262ef3660d21e7fb73f035e3a65aa8fb6c1c711c63cec335d"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "039a71011f455c24c9ccc7b38ef6f01561992a77a5d0c21f75dc01f70b42b1e2"
+metafile = true
+
+[[files]]
+file = "mods/uranus.pw.toml"
+hash = "c16ee91eeb20999c83deedbf93ce3787bb9bfefad56abd242d90a94dc0534ca0"
+metafile = true
+
+[[files]]
+file = "mods/zeta.pw.toml"
+hash = "cb474b6c0dde741836ed4f796f3b6ab0b9d3cdc0453e651122cd002d5d1f8df8"
+metafile = true
+
+[[files]]
+file = "moonlight-global-datapacks/drx-enchants-disabled/data/create_ltab/tags/enchantment/enchantment_luck.json"
+hash = "bef4d172fc1bfb34d342e79090726c4a0c272dd404783c3ea022b992e0e0415e"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-enchants-disabled/data/create_ltab/tags/enchantment/wanderer.json"
+hash = "bef4d172fc1bfb34d342e79090726c4a0c272dd404783c3ea022b992e0e0415e"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-enchants-disabled/data/dungeons_arise/tags/enchantment/discharge.json"
+hash = "bef4d172fc1bfb34d342e79090726c4a0c272dd404783c3ea022b992e0e0415e"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-enchants-disabled/data/dungeons_arise/tags/enchantment/ensnaring.json"
+hash = "bef4d172fc1bfb34d342e79090726c4a0c272dd404783c3ea022b992e0e0415e"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-enchants-disabled/data/dungeons_arise/tags/enchantment/lolths_curse.json"
+hash = "bef4d172fc1bfb34d342e79090726c4a0c272dd404783c3ea022b992e0e0415e"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-enchants-disabled/data/dungeons_arise/tags/enchantment/purification.json"
+hash = "bef4d172fc1bfb34d342e79090726c4a0c272dd404783c3ea022b992e0e0415e"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-enchants-disabled/data/dungeons_arise/tags/enchantment/voltaic_shot.json"
+hash = "bef4d172fc1bfb34d342e79090726c4a0c272dd404783c3ea022b992e0e0415e"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-enchants-disabled/data/minecraft/tags/enchantment/curse.json"
+hash = "bc07ed076228ce82d3b4cbc973381a9e05ee6a051f7f30e8609b02bc7a348264"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-enchants-disabled/data/minecraft/tags/enchantment/in_enchanting_table.json"
+hash = "26f65d82f621b6ac19af4389a83be7e264bccefedc94d92a961063492cd66f5d"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-enchants-disabled/data/minecraft/tags/enchantment/non_treasure.json"
+hash = "26f65d82f621b6ac19af4389a83be7e264bccefedc94d92a961063492cd66f5d"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-enchants-disabled/data/minecraft/tags/enchantment/on_mob_spawn_equipment.json"
+hash = "a031affe81515b55f3c7d6d379ffdaaf4aadd53b98416ec8e2843e7573e5a3df"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-enchants-disabled/data/minecraft/tags/enchantment/on_random_loot.json"
+hash = "c347dd6f7f890a7af3dcf880b7e8b0853a1a0c99ce506a91cc78b4d4c82921e0"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-enchants-disabled/data/minecraft/tags/enchantment/tradeable.json"
+hash = "c347dd6f7f890a7af3dcf880b7e8b0853a1a0c99ce506a91cc78b4d4c82921e0"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-enchants-disabled/data/minecraft/tags/enchantment/treasure.json"
+hash = "c1dba2d47b8eac4c7e0f9d3ceb3d92d950d6c201d3921742f4f53f8b221b91cb"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-enchants-disabled/data/nova_structures/tags/enchantment/antidote.json"
+hash = "bef4d172fc1bfb34d342e79090726c4a0c272dd404783c3ea022b992e0e0415e"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-enchants-disabled/data/nova_structures/tags/enchantment/boss_behaviour.json"
+hash = "bef4d172fc1bfb34d342e79090726c4a0c272dd404783c3ea022b992e0e0415e"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-enchants-disabled/data/nova_structures/tags/enchantment/conductivity_curse.json"
+hash = "bef4d172fc1bfb34d342e79090726c4a0c272dd404783c3ea022b992e0e0415e"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-enchants-disabled/data/nova_structures/tags/enchantment/end_castle.json"
+hash = "bef4d172fc1bfb34d342e79090726c4a0c272dd404783c3ea022b992e0e0415e"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-enchants-disabled/data/nova_structures/tags/enchantment/exclusive_set/boots.json"
+hash = "bef4d172fc1bfb34d342e79090726c4a0c272dd404783c3ea022b992e0e0415e"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-enchants-disabled/data/nova_structures/tags/enchantment/exclusive_set/elytra.json"
+hash = "bef4d172fc1bfb34d342e79090726c4a0c272dd404783c3ea022b992e0e0415e"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-enchants-disabled/data/nova_structures/tags/enchantment/exclusive_set/sword_effect.json"
+hash = "bef4d172fc1bfb34d342e79090726c4a0c272dd404783c3ea022b992e0e0415e"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-enchants-disabled/data/nova_structures/tags/enchantment/ghasted.json"
+hash = "bef4d172fc1bfb34d342e79090726c4a0c272dd404783c3ea022b992e0e0415e"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-enchants-disabled/data/nova_structures/tags/enchantment/gravity.json"
+hash = "bef4d172fc1bfb34d342e79090726c4a0c272dd404783c3ea022b992e0e0415e"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-enchants-disabled/data/nova_structures/tags/enchantment/illagers_bane.json"
+hash = "bef4d172fc1bfb34d342e79090726c4a0c272dd404783c3ea022b992e0e0415e"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-enchants-disabled/data/nova_structures/tags/enchantment/multishot.json"
+hash = "bef4d172fc1bfb34d342e79090726c4a0c272dd404783c3ea022b992e0e0415e"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-enchants-disabled/data/nova_structures/tags/enchantment/outreach.json"
+hash = "bef4d172fc1bfb34d342e79090726c4a0c272dd404783c3ea022b992e0e0415e"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-enchants-disabled/data/nova_structures/tags/enchantment/photosynthesis.json"
+hash = "bef4d172fc1bfb34d342e79090726c4a0c272dd404783c3ea022b992e0e0415e"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-enchants-disabled/data/nova_structures/tags/enchantment/piercing.json"
+hash = "bef4d172fc1bfb34d342e79090726c4a0c272dd404783c3ea022b992e0e0415e"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-enchants-disabled/data/nova_structures/tags/enchantment/power.json"
+hash = "bef4d172fc1bfb34d342e79090726c4a0c272dd404783c3ea022b992e0e0415e"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-enchants-disabled/data/nova_structures/tags/enchantment/shrine.json"
+hash = "bef4d172fc1bfb34d342e79090726c4a0c272dd404783c3ea022b992e0e0415e"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-enchants-disabled/data/nova_structures/tags/enchantment/shulker_boss.json"
+hash = "bef4d172fc1bfb34d342e79090726c4a0c272dd404783c3ea022b992e0e0415e"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-enchants-disabled/data/nova_structures/tags/enchantment/shulker_miniboss.json"
+hash = "bef4d172fc1bfb34d342e79090726c4a0c272dd404783c3ea022b992e0e0415e"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-enchants-disabled/data/nova_structures/tags/enchantment/toxic.json"
+hash = "bef4d172fc1bfb34d342e79090726c4a0c272dd404783c3ea022b992e0e0415e"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-enchants-disabled/data/nova_structures/tags/enchantment/traveler.json"
+hash = "bef4d172fc1bfb34d342e79090726c4a0c272dd404783c3ea022b992e0e0415e"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-enchants-disabled/data/nova_structures/tags/enchantment/wax_wings.json"
+hash = "bef4d172fc1bfb34d342e79090726c4a0c272dd404783c3ea022b992e0e0415e"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-enchants-disabled/data/nova_structures/tags/enchantment/wither_coated.json"
+hash = "bef4d172fc1bfb34d342e79090726c4a0c272dd404783c3ea022b992e0e0415e"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-enchants-disabled/data/quark/tags/enchantment/pickarang_enchantments.json"
+hash = "bef4d172fc1bfb34d342e79090726c4a0c272dd404783c3ea022b992e0e0415e"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-enchants-disabled/data/supplementaries/tags/enchantment/galleon_treasure.json"
+hash = "bef4d172fc1bfb34d342e79090726c4a0c272dd404783c3ea022b992e0e0415e"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-enchants-disabled/data/supplementaries/tags/enchantment/prevents_bubble_pop.json"
+hash = "bef4d172fc1bfb34d342e79090726c4a0c272dd404783c3ea022b992e0e0415e"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-enchants-disabled/data/supplementaries/tags/enchantment/slingshot_exclusive_set.json"
+hash = "bef4d172fc1bfb34d342e79090726c4a0c272dd404783c3ea022b992e0e0415e"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-enchants-disabled/data/supplementaries/tags/enchantment/stasis.json"
+hash = "bef4d172fc1bfb34d342e79090726c4a0c272dd404783c3ea022b992e0e0415e"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-enchants-disabled/pack.mcmeta"
+hash = "a71e7ea1774e0fa2c12e0e358d8bb44a08fd9f4377b1adf01c1278b302515c55"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/block_factorys_bosses/tags/worldgen/biome/dragon_tower.json"
+hash = "0f6812202453b0d84caf1b0fbe05efc743ace3e7954bda72e87dd39e086553b6"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/block_factorys_bosses/tags/worldgen/biome/kraken_ship.json"
+hash = "08d08f65f2d024b26a68073ca867d5f826841faae87294849176cadae94e19ec"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/block_factorys_bosses/tags/worldgen/biome/sandworm_nest.json"
+hash = "ccf3acccce0963f348bf96713cb2f2fe39fc98a4cb13456c6291696fae193fc4"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/block_factorys_bosses/tags/worldgen/biome/underworld_arena.json"
+hash = "7f64fc3b524e53fb00c71e70fc5e194fe2997173f47e417669e0998ced68b005"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/block_factorys_bosses/tags/worldgen/biome/yeti_hideout.json"
+hash = "ada076ff019c1ada8a52fbdb26756219795a4196f0771e818bf10c386af744b5"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/butchery/worldgen/structure/vindicator_butchers_house.json"
+hash = "491c3704835213e2e8812ab227ef5bb28aba111c66ca2d74fa54dd5c2c842987"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/cataclysm/tags/worldgen/biome/has_structure/acropolis_biomes.json"
+hash = "8389f9ec9ad7281f83db183ea5cf222362efa21c710f41c0014b11b71e5beaa4"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/cataclysm/tags/worldgen/biome/has_structure/burning_arena_biomes.json"
+hash = "0e82d52111d9bcc010812bb47679c8907029dcaad72912245b47c6931629f7b3"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/cataclysm/tags/worldgen/biome/has_structure/cursed_pyramid_biomes.json"
+hash = "ccf3acccce0963f348bf96713cb2f2fe39fc98a4cb13456c6291696fae193fc4"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/cataclysm/tags/worldgen/biome/has_structure/frosted_prison_biomes.json"
+hash = "899c7cd9f48933bf6c7f2782feaf1193f9e7aac18168adca0033a11fca34f30c"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/cataclysm/tags/worldgen/biome/has_structure/soul_black_smith_biomes.json"
+hash = "de5fb078452cbff974bd4fedb62ef7f80fd123ee97b7a934b365dc2151e171d8"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/cataclysm/tags/worldgen/biome/has_structure/sunken_city_biomes.json"
+hash = "08d08f65f2d024b26a68073ca867d5f826841faae87294849176cadae94e19ec"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/cataclysm/worldgen/structure_set/abandoned_structures.json"
+hash = "5685c982053e57c8591d4f66d08512cb24328d5d978dd1a99d3b2d321d0dde70"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/cataclysm/worldgen/structure_set/acropolis.json"
+hash = "b264d95c10303a72dc1e4848d05cb703f58c930ac6f44642d7fc4954d1e428f3"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/cataclysm/worldgen/structure_set/amethyst_nest.json"
+hash = "d4c55390084b469bc3954cb55f97ed71099f3a0ff08bc1aab4b32034253701cf"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/cataclysm/worldgen/structure_set/ancient_factory.json"
+hash = "b1cb9469ddde0f6483cebbe68cb69aa9738bfc0b8a71598705f5cc221db14c5e"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/cataclysm/worldgen/structure_set/burning_arena.json"
+hash = "b1196012d3f50006c5adb867b1a5dd49990386d8db356d0164892657339ecbba"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/cataclysm/worldgen/structure_set/cursed_pyramid.json"
+hash = "bf0bf7f1b1d3f1b68af8bf4b56e206d0f3b5fb0fa21f2088077729277de41f1d"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/cataclysm/worldgen/structure_set/desert_structures.json"
+hash = "7e01ce72f120bf1c3ffe37c3d11369d13f0a453663b111a77410efb078150844"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/cataclysm/worldgen/structure_set/frosted_prison.json"
+hash = "8ee2a9c72c8573145f4b5f0ea9aee22049a7ee558774e0cb93caff93a906bad1"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/cataclysm/worldgen/structure_set/ruined_citadel.json"
+hash = "988d813c0cb045e8b1e3f5707b1ab3628090d9b328e990346cf2ec812f7a4ec2"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/cataclysm/worldgen/structure_set/small_integrated_cataclysm.json"
+hash = "93094bbb82bfab85c940b9794faafdc43d6547d3645f2a4bf64cab2880a1b519"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/cataclysm/worldgen/structure_set/soul_black_smith.json"
+hash = "c42b1b54b65bf8198bc693c47903c0353112cbc197622731b6caff349c5cded4"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/cataclysm/worldgen/structure_set/sunken_city.json"
+hash = "4a7726ba866ef2a723ad5651ddee06583205d1a4d88f479750c2de1a52aecc83"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/create_easy_structures/worldgen/structure_set/big_1.json"
+hash = "d25144dbb0a402bf9df5aea03ad9470c98d039441a8e0ea73e72c28e63ffbe0b"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/create_easy_structures/worldgen/structure_set/big_2.json"
+hash = "b91eaebeadd1c146dea051a71cc3cf917a98a156c06b89835b96179b77e64b6a"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/create_easy_structures/worldgen/structure_set/camp_1.json"
+hash = "8a4ead47be45d9095874ab5f3d75ae2fe4b2b78081119f784872cb93dcc872ab"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/create_easy_structures/worldgen/structure_set/camp_2.json"
+hash = "2991cd0abad9a333ef135c4de2acde23bb2d2e59b9d08570684ea8f2b6cf0ecf"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/create_easy_structures/worldgen/structure_set/camp_3.json"
+hash = "8eba3c4e92baca54d13da15a3db92c96a793160b48e5702c83c507f1f6b81e0a"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/create_easy_structures/worldgen/structure_set/camp_4.json"
+hash = "0886b60dd3b88e87e542f79a36ca314ed806db66913187f83c610ae1fe1cff33"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/create_easy_structures/worldgen/structure_set/camp_5.json"
+hash = "61899264d5db576188713151b1c05f9bb74440d08ec0788127fb3442bd2197d9"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/create_easy_structures/worldgen/structure_set/factory_1.json"
+hash = "24a39b541085d9e8b8b0ce4ec0bb275637068fff53729862ed8218c76d35ebf5"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/create_easy_structures/worldgen/structure_set/factory_2.json"
+hash = "3e399d3d56abdf023a7417d177d81fae3f8cc348a42ab6b7cb31362826a3740a"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/create_easy_structures/worldgen/structure_set/foresttracks.json"
+hash = "3f66924669d5d966a988759d15c73f25efa53daf0db18f5288fb72d8d6607776"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/create_easy_structures/worldgen/structure_set/freight_station.json"
+hash = "370869df3e8529467c45ead35a44fcb18cf534b5efc29d438eabc49b599ccaee"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/create_easy_structures/worldgen/structure_set/house_2.json"
+hash = "755db15ff9d2b75fabd9b38f26d2a3377c5e629c1e805170f8fa75d123db04ad"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/create_easy_structures/worldgen/structure_set/house_3.json"
+hash = "35aabc86d7cf9f3421ca0deaa354aae36971e7888c7b1f6b15f0482e2efee75d"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/create_easy_structures/worldgen/structure_set/house_4.json"
+hash = "2e5569d83bcc9183f749faa2bd96e90cb0cd65badd83d59d73b26ee282356097"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/create_easy_structures/worldgen/structure_set/undergroundtrain.json"
+hash = "f26ee2acec7bd486aee975c5b2bedae5f4d4e88a7568d970873293d88c38607d"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/create_easy_structures/worldgen/structure_set/windmill.json"
+hash = "8ff23480d08b2de8d0fb6a66d8977bda813fcf559e182c4f3d7efc7a01b14878"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/create_ltab/worldgen/structure_set/birch_structures.json"
+hash = "ffd3cd45ce1cbb52276779915636512fba7443147b6e49d53337612c0b72413a"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/create_ltab/worldgen/structure_set/cave_ruins.json"
+hash = "3f68df45f8b236ee755b3071f05eb8939c825fe61334f507a1bb90ba816e2a5c"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/create_ltab/worldgen/structure_set/cherry_house.json"
+hash = "58a3508f515d9661bb6cb4328d23b0b043807b1fc4a2c14c4977d5df058bcdd3"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/create_ltab/worldgen/structure_set/dark_forest_house.json"
+hash = "85e5e3337903b1701f5f1323901791da82e6800f76d1dfce17a47ef5236cf862"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/create_ltab/worldgen/structure_set/desert_structures.json"
+hash = "de5deb46dab97f2c357b5fa355457330cae5fb793f2e4ab7879fadccbf72d73e"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/create_ltab/worldgen/structure_set/grot.json"
+hash = "1924097155f9d2fd795118c79765e0ddd86ef29ca22383d8de24a5c25630e140"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/create_ltab/worldgen/structure_set/jungle_structures.json"
+hash = "52c7ac8fd6894f4f6191f2abc49b6eec2f132b1872283a509e8046937bf56b21"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/create_ltab/worldgen/structure_set/mangrove_structures.json"
+hash = "6118fd2de21be31a253beff8ca497478341f5c54c0fd164ca62530741b12f0a4"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/create_ltab/worldgen/structure_set/nether_roof_house.json"
+hash = "57fb9eecf6b2290dfdcbb349f23a99def409a808e9a9fb48681b29a2e422042c"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/create_ltab/worldgen/structure_set/pillage.json"
+hash = "ec44ecccdd862bf63b9543795df2ad0e0215b33f2662a229a53207338352324a"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/create_ltab/worldgen/structure_set/plains_structures.json"
+hash = "e3c99836db511f0aed700d592bece584e0c18085efde5e11b31a97bef1b95acd"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/create_ltab/worldgen/structure_set/quarry.json"
+hash = "da1fd66b89cba8ab3814e74bb66bb57ce97f97a382052ba68d25c7a0d4081068"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/create_ltab/worldgen/structure_set/ruins.json"
+hash = "b6c3a4ba8af9924dda8d422306b3288e0f74f6b0ed87a67b33d9a13c1e542670"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/create_ltab/worldgen/structure_set/snow_structures.json"
+hash = "780bab7c1d647915154f41ff78f49176b4e252e6f2bb5091c3444b801ccd7477"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/create_ltab/worldgen/structure_set/spruce_structures.json"
+hash = "90c05edd320da5c87cc0cb212561ed7436b4ef03c22c9a17fc085dc81979f7ab"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/create_ltab/worldgen/structure_set/thecastle.json"
+hash = "f8a475ea43d123ea400669853901dffa5be897f5607ad24baa145920cbaee92c"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/create_ltab/worldgen/structure_set/water_pre.json"
+hash = "8c557acf549d2714037879e0fab84cae170b6f2cb640579e89c95d7214d421e1"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/create_pillagers_arise/worldgen/structure_set/cathedral_create.json"
+hash = "4137dfc3b6ef2d47a1b197aec415fa3ef85a6a7ea9fa315ef3d0461dfbb75a5d"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/create_pillagers_arise/worldgen/structure_set/createchinatower.json"
+hash = "dc6f62b0c07fc655d51f8b5a5e9fd167f0f4c6c04c8de13cc765f775f74ea28e"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/create_pillagers_arise/worldgen/structure_set/createpillagerblimp.json"
+hash = "7281162d8cd242ce2ac4c6140db16fedb9cac4bc748592cb446cacaacc24881b"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/create_pillagers_arise/worldgen/structure_set/createpillagercamp.json"
+hash = "c57003ecf958bdcc1f146d0e0f36ee24cd2f575dc9c657a5bfb8dcb93454106c"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/create_pillagers_arise/worldgen/structure_set/createpillagerfortgate.json"
+hash = "2bca509c33405313ece73447fb9e1773724ee0ea228b6235c60385ba0f368317"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/create_pillagers_arise/worldgen/structure_set/createpillagerhousesmall.json"
+hash = "3544a826ad386de87b803d369b4b6ea3964116d70036026e8736bbd31ac910f4"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/create_pillagers_arise/worldgen/structure_set/createpillageroutpost.json"
+hash = "76933ba9c94379cbbfe56a641f453e5bea7badf4c4262dbd02275e9fa71d6549"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/create_pillagers_arise/worldgen/structure_set/createpillagersmallhouse.json"
+hash = "56f4d1c4a3adcb87ee245e4f96273c4a50e5d3fa8eb1219e97fdc15327516e6e"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/create_pillagers_arise/worldgen/structure_set/createpillagervillage.json"
+hash = "a8b61cfb8fb2d0a4dc7aaee6375630ae4ade291985ba9b4a1ef307648c2e5ca9"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/create_pillagers_arise/worldgen/structure_set/pillagercreatetower.json"
+hash = "f0595a5dfe025df86024fb45f69b1b5b55ca2886b581b30bff74e368d42c3171"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/create_rustic_structures/worldgen/structure_set/rustic_barn.json"
+hash = "d816bdab98ea6ba98b48efaa5006c752dcc87ef84bdd024020ebe5ed87f1931e"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/create_rustic_structures/worldgen/structure_set/rustic_smithy.json"
+hash = "c29ea26b84d1d9c4dcd5c80e3c65286c0b448d7b369daeb44ec494611e79607e"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/create_rustic_structures/worldgen/structure_set/rustic_well.json"
+hash = "c7c60f47279b58c131d8c1cd3d418662b50224a554edcb082a4a111aa0b07133"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/create_rustic_structures/worldgen/structure_set/rustic_windmill.json"
+hash = "299a2f13953edabcaa870b435ffa2b43dcfc2243e2d9b9a4262f271adaea496a"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/create_structures_arise/worldgen/structure/createdesertwell.json"
+hash = "20c4132544e8182133631e4dfe1888b8ca9890cc80d0b8ba0a4ed600360a952b"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/create_structures_arise/worldgen/structure/createwitchhut.json"
+hash = "a34a71794b4c3307026ad24ccea1ea685bff0b6736590da95b3ed26e6bcd7e7e"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/dungeoncrawl/tags/worldgen/biome/has_structure/dungeon.json"
+hash = "3a058a1e8448252c8301a5cdab2774df998491e7bf810130a13421e905016312"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/dungeons_arise/tags/worldgen/biome/has_structure/abandoned_temple_biomes.json"
+hash = "8f782898b28356111de1ccc2408759dcc100f4c35677c85c2fdf638677d6adef"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/dungeons_arise/tags/worldgen/biome/has_structure/aviary_biomes.json"
+hash = "f2882022fe5bb1f4b0ad4a491b96fcebc133020ffd5abbd93eef898acfbd3a93"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/dungeons_arise/tags/worldgen/biome/has_structure/bandit_towers_biomes.json"
+hash = "7690600ef6ee071f5bd471b4a7f72bd5cea90587c5521c72ddd3737fab77317d"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/dungeons_arise/tags/worldgen/biome/has_structure/bandit_village_biomes.json"
+hash = "7690600ef6ee071f5bd471b4a7f72bd5cea90587c5521c72ddd3737fab77317d"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/dungeons_arise/tags/worldgen/biome/has_structure/bathhouse_biomes.json"
+hash = "9dba410daf052ae717921d4465785fc9036591a0f64d99742478081d9f8ed6b1"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/dungeons_arise/tags/worldgen/biome/has_structure/ceryneian_hind_biomes.json"
+hash = "80bec9a7fc497585b16701d9aac30056566113b46d7cb908d325d574a16668ea"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/dungeons_arise/tags/worldgen/biome/has_structure/desert_hall_biomes.json"
+hash = "ccf3acccce0963f348bf96713cb2f2fe39fc98a4cb13456c6291696fae193fc4"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/dungeons_arise/tags/worldgen/biome/has_structure/foundry_biomes.json"
+hash = "de5fb078452cbff974bd4fedb62ef7f80fd123ee97b7a934b365dc2151e171d8"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/dungeons_arise/tags/worldgen/biome/has_structure/greenwood_pub_biomes.json"
+hash = "ff3445bf882c7ff0b92e9898795f4484317b15864a7042ef56c6187c01789277"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/dungeons_arise/tags/worldgen/biome/has_structure/heavenly_challenger_biomes.json"
+hash = "7f5dd01de653ae7d7fa106224bb109c8f40e47973e1d547b2d346d5d8e10bdc2"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/dungeons_arise/tags/worldgen/biome/has_structure/heavenly_conqueror_biomes.json"
+hash = "7f5dd01de653ae7d7fa106224bb109c8f40e47973e1d547b2d346d5d8e10bdc2"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/dungeons_arise/tags/worldgen/biome/has_structure/heavenly_rider_biomes.json"
+hash = "7f5dd01de653ae7d7fa106224bb109c8f40e47973e1d547b2d346d5d8e10bdc2"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/dungeons_arise/tags/worldgen/biome/has_structure/illager_campsite_biomes.json"
+hash = "2beb181d6419b971a406f62504a08b899ec903d60dd0f30f6ecb7f0606c25991"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/dungeons_arise/tags/worldgen/biome/has_structure/infested_temple_biomes.json"
+hash = "f2a35490103444dafcab781fdfd4fa86784ff77ed3bf8dd9bbe665c727e8c1c5"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/dungeons_arise/tags/worldgen/biome/has_structure/keep_kayra_biomes.json"
+hash = "75d8424dd59e77884af22a9a7a23d9d5eb8783cf7ff2ccd8e3a520cdaf0e8537"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/dungeons_arise/tags/worldgen/biome/has_structure/kisegi_sanctuary_biomes.json"
+hash = "de6e3b0c729d087587ef4f2550158b527602e9b4730e6c40b5e5042b9e8f0f2e"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/dungeons_arise/tags/worldgen/biome/has_structure/lighthouse_biomes.json"
+hash = "259be35881db015656c6bd204b5b09b7f52a8e5397bc03b439b8d0ae646ee8f4"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/dungeons_arise/tags/worldgen/biome/has_structure/mechanical_nest_biomes.json"
+hash = "51a5acfcd51c61333e1bd8d7f88f34a8de86484e2bd7f6b39f9df08be6c268c9"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/dungeons_arise/tags/worldgen/biome/has_structure/merchant_campsite_biomes.json"
+hash = "47496cb7525fc201cd645f877d355e37fc58c04de056da7ff91547375cc0521d"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/dungeons_arise/tags/worldgen/biome/has_structure/mining_complex_biomes.json"
+hash = "51a5acfcd51c61333e1bd8d7f88f34a8de86484e2bd7f6b39f9df08be6c268c9"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/dungeons_arise/tags/worldgen/biome/has_structure/plague_asylum_biomes.json"
+hash = "2599262d7e9def918a37dce659fdfdebbfb9e94225c0167a9b9e36c86bbcc61e"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/dungeons_arise/tags/worldgen/biome/has_structure/scorched_mines_biomes.json"
+hash = "de5fb078452cbff974bd4fedb62ef7f80fd123ee97b7a934b365dc2151e171d8"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/dungeons_arise/tags/worldgen/biome/has_structure/thornborn_towers_biomes.json"
+hash = "1e1c9bf8d9e61e220e6062761b40867daae798098eefe9315fc99210588d0929"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/dungeons_arise/tags/worldgen/biome/has_structure/typhon_biomes.json"
+hash = "4a660bb99a1f4e34659f78916d98ca0474666b203d7b3fdd1d25c0e5eac97969"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/dungeons_arise/worldgen/structure_set/major_structures.json"
+hash = "c6e03674198abf8725476a349682fa953a39ea4f6279c4356346bb10d580fd9e"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/dungeons_arise/worldgen/structure_set/minor_structures.json"
+hash = "7685e5641b9d938538da2310da18cd4d8eff004ce7f2c169a3a28cf98d919471"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/iceandfire/tags/worldgen/biome/structure_gen/cyclops_cave.json"
+hash = "1c9f342069d7dc162220388b2856ec54292d271a171eea1078c7375370f54c36"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/iceandfire/tags/worldgen/biome/structure_gen/fire.json"
+hash = "ae77212d366deb7a6e46b4aaeac0fba31a95135d7e655ccacbad079588f2c3c8"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/iceandfire/tags/worldgen/biome/structure_gen/gorgon_temple.json"
+hash = "1c9f342069d7dc162220388b2856ec54292d271a171eea1078c7375370f54c36"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/iceandfire/tags/worldgen/biome/structure_gen/hydra_cave.json"
+hash = "7cf21c402c4c97496b23e4249998f53ce9010557b8212a52079bbf4ab32ec423"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/iceandfire/tags/worldgen/biome/structure_gen/ice.json"
+hash = "a7e14440d58e9fcfab355b7974ae4dd27c325596dc089b7180a38e2108870aca"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/iceandfire/tags/worldgen/biome/structure_gen/mausoleum.json"
+hash = "4c37e7bee220494c8bcba17d27be9752667704dee5a04368ebd598cc7c893674"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/idas/tags/worldgen/biome/collections/idasany_forests.json"
+hash = "bf37e22278e787a32783bc39b0c7e4510500939c79de7d4fcf0cef67cf13859f"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/idas/tags/worldgen/biome/collections/idasany_taiga.json"
+hash = "450bf8ee6177108061e15cf4ec55bd3cda3335369e41642bc92cec88d2287e3e"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/idas/tags/worldgen/biome/collections/idasbadlands.json"
+hash = "7690600ef6ee071f5bd471b4a7f72bd5cea90587c5521c72ddd3737fab77317d"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/idas/tags/worldgen/biome/collections/idasbamboos.json"
+hash = "7d050276521ef6cbc6745e94caa846e77f26ea3a1d5254b1ae8f1e3b8b0d8f91"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/idas/tags/worldgen/biome/collections/idasbeaches.json"
+hash = "259be35881db015656c6bd204b5b09b7f52a8e5397bc03b439b8d0ae646ee8f4"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/idas/tags/worldgen/biome/collections/idasbirch_forests.json"
+hash = "8ac771c95d9d723bdc08db752946f22811dc2470314c6c75d4b961faae764ff1"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/idas/tags/worldgen/biome/collections/idascaves.json"
+hash = "2599262d7e9def918a37dce659fdfdebbfb9e94225c0167a9b9e36c86bbcc61e"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/idas/tags/worldgen/biome/collections/idasdark_oak_forests.json"
+hash = "370078b396028f8d700f617adbf378cbae876c9f9e87ecf68238e05e52568417"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/idas/tags/worldgen/biome/collections/idasdeep_oceans.json"
+hash = "08d08f65f2d024b26a68073ca867d5f826841faae87294849176cadae94e19ec"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/idas/tags/worldgen/biome/collections/idasdeserts.json"
+hash = "ccf3acccce0963f348bf96713cb2f2fe39fc98a4cb13456c6291696fae193fc4"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/idas/tags/worldgen/biome/collections/idasfloral.json"
+hash = "ee5e345a25f3878d93877129c943ddccf80d174bd6c2a0cf64f686b0e6caf368"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/idas/tags/worldgen/biome/collections/idasflower_forests.json"
+hash = "0eed336ac568741b08c709ae7d6db5b444b060fa9397080cd5dade7b8d04cd56"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/idas/tags/worldgen/biome/collections/idasgiant_taigas.json"
+hash = "1f601dba966698bb3b8df51bca6eb9cf46431a9dba5029251f8f45f280d5c678"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/idas/tags/worldgen/biome/collections/idasgiant_trees.json"
+hash = "1f601dba966698bb3b8df51bca6eb9cf46431a9dba5029251f8f45f280d5c678"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/idas/tags/worldgen/biome/collections/idashills.json"
+hash = "9fdcd7b4d3a137b402be7f917855a189c97d31f898c99f174bdc24f43a537433"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/idas/tags/worldgen/biome/collections/idasicy.json"
+hash = "597429f28cdedcaf35db1d1209cb6a2ab754b72efe80c3765f04a283b7396388"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/idas/tags/worldgen/biome/collections/idasjungles.json"
+hash = "0549e85ad9fdcb5864d11eeab42e75e360f14128e65d5e233b6b0d9b3107f337"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/idas/tags/worldgen/biome/collections/idasmangroves.json"
+hash = "241dab371d29137d4f3e3f8d41506a5689ee7fad65d1551b819d8a4c99fb823d"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/idas/tags/worldgen/biome/collections/idasmeadows.json"
+hash = "27eb7fde76a180095da1793789057ed60177185974bbc8ecea4688587b5e2ef6"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/idas/tags/worldgen/biome/collections/idasmountains.json"
+hash = "7f5dd01de653ae7d7fa106224bb109c8f40e47973e1d547b2d346d5d8e10bdc2"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/idas/tags/worldgen/biome/collections/idasnether.json"
+hash = "de5fb078452cbff974bd4fedb62ef7f80fd123ee97b7a934b365dc2151e171d8"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/idas/tags/worldgen/biome/collections/idasnether_basalts.json"
+hash = "789322a45eb21c4146245d24692dd67bc1a0cc6df2aa4c77548ae446cff60daa"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/idas/tags/worldgen/biome/collections/idasnether_crimson_forests.json"
+hash = "0b90664af06e913e0d14572551115a0288fcc3a729d1a1c8b4a82220edadcac1"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/idas/tags/worldgen/biome/collections/idasnether_souls.json"
+hash = "722648249cdfd4e50af6443241ac466758bffb6f9b2eb678f782f005a0e6d7be"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/idas/tags/worldgen/biome/collections/idasnether_warped_forests.json"
+hash = "75751e4ef98e1d3432ca6bc4d3da8e75e993003ee779516e979c16d0cb7fec8d"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/idas/tags/worldgen/biome/collections/idasnether_wastes.json"
+hash = "0e82d52111d9bcc010812bb47679c8907029dcaad72912245b47c6931629f7b3"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/idas/tags/worldgen/biome/collections/idasoceans.json"
+hash = "9379cb80131843eba30577993ff7c060b4958fda1348013045b3f7617d12f5c2"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/idas/tags/worldgen/biome/collections/idasorange_deserts.json"
+hash = "1d76b16c63f2517cc661e8b19ec00bfe18b3a71a135d78accba89ed4adbbf76f"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/idas/tags/worldgen/biome/collections/idasoverworld.json"
+hash = "8a3f9a3fe24b3ab50db7c2018e39d3555b80911d6343fa075eb30867a23c2a63"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/idas/tags/worldgen/biome/collections/idasplains.json"
+hash = "a51a89dc7b7c78548f2bcc8d24e4f9e7f7766390b001b8fd462e2a46e18d9000"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/idas/tags/worldgen/biome/collections/idasregular_forests.json"
+hash = "809293f9157bb71f925a222586daa7ae0864e7ab07a4c99248b3eb6531730f12"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/idas/tags/worldgen/biome/collections/idasrivers.json"
+hash = "c657c3f938ef107290dbca6f29206480c3b0809c3b0d4a2d3e06932c6a7f0bda"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/idas/tags/worldgen/biome/collections/idasrocky_mountains.json"
+hash = "ea949a8863171e27332181d159aeba976f9b49b6b2b38cc9215a3e87868204ee"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/idas/tags/worldgen/biome/collections/idassavannas.json"
+hash = "3c9f4883b5733c61ac7606b501594de6ab1cdbcbd6653d1400d6d5a69b5f01c4"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/idas/tags/worldgen/biome/collections/idassnowy_forests.json"
+hash = "64c7e3c1885861158a3be467d1a60454b1d667497152a8ccdd940c34c02065e2"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/idas/tags/worldgen/biome/collections/idassnowy_mountains.json"
+hash = "0161e8f442cd746f45392c64ac75afbeaeae3d5968d5dc74555dcf88a47104b7"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/idas/tags/worldgen/biome/collections/idassnowy_plains.json"
+hash = "b8613ad0e6f5dc14d40c57995cc5d9bbeaabfad17f96d7228ef1f4bbc1e16cb0"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/idas/tags/worldgen/biome/collections/idasspooky_forests.json"
+hash = "466edf74ea2308b269ae29b3cd1f4487f48b36e2b282c75af6d5cb98d0098685"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/idas/tags/worldgen/biome/collections/idasstony_shores.json"
+hash = "8c2f9f5c393589f47641526e68d765ff5a423a06d31a63891762f2ecaf91857a"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/idas/tags/worldgen/biome/collections/idasswamps.json"
+hash = "8e0a82570c5f5f841791ae3f47fcda8e053610dbc26f03d795ccc0b6faefa670"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/idas/tags/worldgen/biome/collections/idastaigas.json"
+hash = "459f32294c5f54d1cc55f2dce16b1c95fa94b2c6a6ea55658522bb82f10d9885"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/idas/tags/worldgen/biome/collections/idasvanilla_deserts.json"
+hash = "ccf3acccce0963f348bf96713cb2f2fe39fc98a4cb13456c6291696fae193fc4"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/idas/tags/worldgen/biome/collections/idasvanilla_jungles.json"
+hash = "0549e85ad9fdcb5864d11eeab42e75e360f14128e65d5e233b6b0d9b3107f337"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/idas/tags/worldgen/biome/collections/idaswarm_beaches.json"
+hash = "e821837dd9f2302cf8ce314dfa0e595f95902e8c70c666deb34d5627e9e9fb50"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/idas/tags/worldgen/biome/collections/idaswindswept_deserts.json"
+hash = "72bd384300b98484c35b81ec6dad42502475cc836d76b314bbb9d0a899e54792"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/idas/worldgen/structure_set/idas_common.json"
+hash = "179bb8b758b6259dec6bf3173795e547b7b4f903de642b6b0addeb0377408b81"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/idas/worldgen/structure_set/idas_nether.json"
+hash = "7d441cf2d00164094ae5a3dc147444e1c085fbaec855deb63e888950c41fd557"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/idas/worldgen/structure_set/idas_ocean.json"
+hash = "4185f1d4da22e2d9ede76cea7f45784d070ec8aa84d8b80471620d496ff43e88"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/idas/worldgen/structure_set/idas_rare.json"
+hash = "72f091ee0e873d89059e7fd9dc467e14de8870163b91c37ac80c84082389d339"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/idas/worldgen/structure_set/idas_small.json"
+hash = "fb8b14c8629542a75c56c95cc336af31cf8b47b8ec7a89d72aa76f7cef3f063d"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/idas/worldgen/structure_set/idas_small_nether.json"
+hash = "bea9a8288b68d04f69dbed6d6e321fd6c4d3003bd9e6f5c80d9063eb642360be"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/idas/worldgen/structure_set/idas_underground.json"
+hash = "4d0f5019743ee5824a902488988d7165ba616c15dea66d6359a56a8ff9a8bb30"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/idas/worldgen/structure_set/idas_underground_rare.json"
+hash = "eef213e2586993750fdd8d48cd9e72ab5dd0652d57347565a3a219d990b90cdc"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/integrated_api/tags/worldgen/biome/collections/any_forests.json"
+hash = "bf37e22278e787a32783bc39b0c7e4510500939c79de7d4fcf0cef67cf13859f"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/integrated_api/tags/worldgen/biome/collections/any_taiga.json"
+hash = "450bf8ee6177108061e15cf4ec55bd3cda3335369e41642bc92cec88d2287e3e"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/integrated_api/tags/worldgen/biome/collections/badlands.json"
+hash = "7690600ef6ee071f5bd471b4a7f72bd5cea90587c5521c72ddd3737fab77317d"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/integrated_api/tags/worldgen/biome/collections/bamboos.json"
+hash = "7d050276521ef6cbc6745e94caa846e77f26ea3a1d5254b1ae8f1e3b8b0d8f91"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/integrated_api/tags/worldgen/biome/collections/beaches.json"
+hash = "259be35881db015656c6bd204b5b09b7f52a8e5397bc03b439b8d0ae646ee8f4"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/integrated_api/tags/worldgen/biome/collections/birch_forests.json"
+hash = "8ac771c95d9d723bdc08db752946f22811dc2470314c6c75d4b961faae764ff1"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/integrated_api/tags/worldgen/biome/collections/caves.json"
+hash = "2599262d7e9def918a37dce659fdfdebbfb9e94225c0167a9b9e36c86bbcc61e"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/integrated_api/tags/worldgen/biome/collections/dark_oak_forests.json"
+hash = "370078b396028f8d700f617adbf378cbae876c9f9e87ecf68238e05e52568417"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/integrated_api/tags/worldgen/biome/collections/deep_oceans.json"
+hash = "08d08f65f2d024b26a68073ca867d5f826841faae87294849176cadae94e19ec"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/integrated_api/tags/worldgen/biome/collections/deserts.json"
+hash = "ccf3acccce0963f348bf96713cb2f2fe39fc98a4cb13456c6291696fae193fc4"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/integrated_api/tags/worldgen/biome/collections/floral.json"
+hash = "ee5e345a25f3878d93877129c943ddccf80d174bd6c2a0cf64f686b0e6caf368"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/integrated_api/tags/worldgen/biome/collections/flower_forests.json"
+hash = "0eed336ac568741b08c709ae7d6db5b444b060fa9397080cd5dade7b8d04cd56"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/integrated_api/tags/worldgen/biome/collections/giant_taigas.json"
+hash = "1f601dba966698bb3b8df51bca6eb9cf46431a9dba5029251f8f45f280d5c678"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/integrated_api/tags/worldgen/biome/collections/giant_trees.json"
+hash = "1f601dba966698bb3b8df51bca6eb9cf46431a9dba5029251f8f45f280d5c678"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/integrated_api/tags/worldgen/biome/collections/hills.json"
+hash = "9fdcd7b4d3a137b402be7f917855a189c97d31f898c99f174bdc24f43a537433"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/integrated_api/tags/worldgen/biome/collections/icy.json"
+hash = "597429f28cdedcaf35db1d1209cb6a2ab754b72efe80c3765f04a283b7396388"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/integrated_api/tags/worldgen/biome/collections/jungles.json"
+hash = "0549e85ad9fdcb5864d11eeab42e75e360f14128e65d5e233b6b0d9b3107f337"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/integrated_api/tags/worldgen/biome/collections/mangroves.json"
+hash = "241dab371d29137d4f3e3f8d41506a5689ee7fad65d1551b819d8a4c99fb823d"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/integrated_api/tags/worldgen/biome/collections/meadows.json"
+hash = "27eb7fde76a180095da1793789057ed60177185974bbc8ecea4688587b5e2ef6"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/integrated_api/tags/worldgen/biome/collections/mountains.json"
+hash = "7f5dd01de653ae7d7fa106224bb109c8f40e47973e1d547b2d346d5d8e10bdc2"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/integrated_api/tags/worldgen/biome/collections/nether.json"
+hash = "de5fb078452cbff974bd4fedb62ef7f80fd123ee97b7a934b365dc2151e171d8"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/integrated_api/tags/worldgen/biome/collections/nether_basalts.json"
+hash = "789322a45eb21c4146245d24692dd67bc1a0cc6df2aa4c77548ae446cff60daa"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/integrated_api/tags/worldgen/biome/collections/nether_crimson_forests.json"
+hash = "0b90664af06e913e0d14572551115a0288fcc3a729d1a1c8b4a82220edadcac1"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/integrated_api/tags/worldgen/biome/collections/nether_souls.json"
+hash = "722648249cdfd4e50af6443241ac466758bffb6f9b2eb678f782f005a0e6d7be"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/integrated_api/tags/worldgen/biome/collections/nether_warped_forests.json"
+hash = "75751e4ef98e1d3432ca6bc4d3da8e75e993003ee779516e979c16d0cb7fec8d"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/integrated_api/tags/worldgen/biome/collections/nether_wastes.json"
+hash = "0e82d52111d9bcc010812bb47679c8907029dcaad72912245b47c6931629f7b3"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/integrated_api/tags/worldgen/biome/collections/oceans.json"
+hash = "9379cb80131843eba30577993ff7c060b4958fda1348013045b3f7617d12f5c2"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/integrated_api/tags/worldgen/biome/collections/orange_deserts.json"
+hash = "1d76b16c63f2517cc661e8b19ec00bfe18b3a71a135d78accba89ed4adbbf76f"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/integrated_api/tags/worldgen/biome/collections/overworld.json"
+hash = "8a3f9a3fe24b3ab50db7c2018e39d3555b80911d6343fa075eb30867a23c2a63"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/integrated_api/tags/worldgen/biome/collections/plains.json"
+hash = "a51a89dc7b7c78548f2bcc8d24e4f9e7f7766390b001b8fd462e2a46e18d9000"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/integrated_api/tags/worldgen/biome/collections/regular_forests.json"
+hash = "809293f9157bb71f925a222586daa7ae0864e7ab07a4c99248b3eb6531730f12"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/integrated_api/tags/worldgen/biome/collections/rivers.json"
+hash = "c657c3f938ef107290dbca6f29206480c3b0809c3b0d4a2d3e06932c6a7f0bda"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/integrated_api/tags/worldgen/biome/collections/rocky_mountains.json"
+hash = "ea949a8863171e27332181d159aeba976f9b49b6b2b38cc9215a3e87868204ee"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/integrated_api/tags/worldgen/biome/collections/savannas.json"
+hash = "3c9f4883b5733c61ac7606b501594de6ab1cdbcbd6653d1400d6d5a69b5f01c4"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/integrated_api/tags/worldgen/biome/collections/snowy_forests.json"
+hash = "64c7e3c1885861158a3be467d1a60454b1d667497152a8ccdd940c34c02065e2"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/integrated_api/tags/worldgen/biome/collections/snowy_mountains.json"
+hash = "0161e8f442cd746f45392c64ac75afbeaeae3d5968d5dc74555dcf88a47104b7"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/integrated_api/tags/worldgen/biome/collections/snowy_plains.json"
+hash = "b8613ad0e6f5dc14d40c57995cc5d9bbeaabfad17f96d7228ef1f4bbc1e16cb0"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/integrated_api/tags/worldgen/biome/collections/spooky_forests.json"
+hash = "466edf74ea2308b269ae29b3cd1f4487f48b36e2b282c75af6d5cb98d0098685"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/integrated_api/tags/worldgen/biome/collections/stony_shores.json"
+hash = "8c2f9f5c393589f47641526e68d765ff5a423a06d31a63891762f2ecaf91857a"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/integrated_api/tags/worldgen/biome/collections/swamps.json"
+hash = "8e0a82570c5f5f841791ae3f47fcda8e053610dbc26f03d795ccc0b6faefa670"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/integrated_api/tags/worldgen/biome/collections/taigas.json"
+hash = "459f32294c5f54d1cc55f2dce16b1c95fa94b2c6a6ea55658522bb82f10d9885"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/integrated_api/tags/worldgen/biome/collections/vanilla_deserts.json"
+hash = "ccf3acccce0963f348bf96713cb2f2fe39fc98a4cb13456c6291696fae193fc4"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/integrated_api/tags/worldgen/biome/collections/vanilla_jungles.json"
+hash = "0549e85ad9fdcb5864d11eeab42e75e360f14128e65d5e233b6b0d9b3107f337"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/integrated_api/tags/worldgen/biome/collections/warm_beaches.json"
+hash = "e821837dd9f2302cf8ce314dfa0e595f95902e8c70c666deb34d5627e9e9fb50"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/integrated_api/tags/worldgen/biome/collections/windswept_deserts.json"
+hash = "72bd384300b98484c35b81ec6dad42502475cc836d76b314bbb9d0a899e54792"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/integrated_villages/tags/worldgen/biome/collections/any_forests.json"
+hash = "bf37e22278e787a32783bc39b0c7e4510500939c79de7d4fcf0cef67cf13859f"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/integrated_villages/tags/worldgen/biome/collections/any_taiga.json"
+hash = "450bf8ee6177108061e15cf4ec55bd3cda3335369e41642bc92cec88d2287e3e"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/integrated_villages/tags/worldgen/biome/collections/badlands.json"
+hash = "7690600ef6ee071f5bd471b4a7f72bd5cea90587c5521c72ddd3737fab77317d"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/integrated_villages/tags/worldgen/biome/collections/bamboos.json"
+hash = "7d050276521ef6cbc6745e94caa846e77f26ea3a1d5254b1ae8f1e3b8b0d8f91"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/integrated_villages/tags/worldgen/biome/collections/beaches.json"
+hash = "259be35881db015656c6bd204b5b09b7f52a8e5397bc03b439b8d0ae646ee8f4"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/integrated_villages/tags/worldgen/biome/collections/birch_forests.json"
+hash = "8ac771c95d9d723bdc08db752946f22811dc2470314c6c75d4b961faae764ff1"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/integrated_villages/tags/worldgen/biome/collections/caves.json"
+hash = "2599262d7e9def918a37dce659fdfdebbfb9e94225c0167a9b9e36c86bbcc61e"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/integrated_villages/tags/worldgen/biome/collections/dark_oak_forests.json"
+hash = "370078b396028f8d700f617adbf378cbae876c9f9e87ecf68238e05e52568417"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/integrated_villages/tags/worldgen/biome/collections/deep_oceans.json"
+hash = "08d08f65f2d024b26a68073ca867d5f826841faae87294849176cadae94e19ec"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/integrated_villages/tags/worldgen/biome/collections/deserts.json"
+hash = "ccf3acccce0963f348bf96713cb2f2fe39fc98a4cb13456c6291696fae193fc4"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/integrated_villages/tags/worldgen/biome/collections/floral.json"
+hash = "ee5e345a25f3878d93877129c943ddccf80d174bd6c2a0cf64f686b0e6caf368"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/integrated_villages/tags/worldgen/biome/collections/flower_forests.json"
+hash = "0eed336ac568741b08c709ae7d6db5b444b060fa9397080cd5dade7b8d04cd56"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/integrated_villages/tags/worldgen/biome/collections/giant_taigas.json"
+hash = "1f601dba966698bb3b8df51bca6eb9cf46431a9dba5029251f8f45f280d5c678"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/integrated_villages/tags/worldgen/biome/collections/giant_trees.json"
+hash = "1f601dba966698bb3b8df51bca6eb9cf46431a9dba5029251f8f45f280d5c678"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/integrated_villages/tags/worldgen/biome/collections/hills.json"
+hash = "9fdcd7b4d3a137b402be7f917855a189c97d31f898c99f174bdc24f43a537433"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/integrated_villages/tags/worldgen/biome/collections/icy.json"
+hash = "597429f28cdedcaf35db1d1209cb6a2ab754b72efe80c3765f04a283b7396388"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/integrated_villages/tags/worldgen/biome/collections/jungles.json"
+hash = "0549e85ad9fdcb5864d11eeab42e75e360f14128e65d5e233b6b0d9b3107f337"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/integrated_villages/tags/worldgen/biome/collections/mangroves.json"
+hash = "241dab371d29137d4f3e3f8d41506a5689ee7fad65d1551b819d8a4c99fb823d"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/integrated_villages/tags/worldgen/biome/collections/meadows.json"
+hash = "27eb7fde76a180095da1793789057ed60177185974bbc8ecea4688587b5e2ef6"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/integrated_villages/tags/worldgen/biome/collections/mountains.json"
+hash = "7f5dd01de653ae7d7fa106224bb109c8f40e47973e1d547b2d346d5d8e10bdc2"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/integrated_villages/tags/worldgen/biome/collections/nether.json"
+hash = "de5fb078452cbff974bd4fedb62ef7f80fd123ee97b7a934b365dc2151e171d8"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/integrated_villages/tags/worldgen/biome/collections/nether_basalts.json"
+hash = "789322a45eb21c4146245d24692dd67bc1a0cc6df2aa4c77548ae446cff60daa"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/integrated_villages/tags/worldgen/biome/collections/nether_crimson_forests.json"
+hash = "0b90664af06e913e0d14572551115a0288fcc3a729d1a1c8b4a82220edadcac1"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/integrated_villages/tags/worldgen/biome/collections/nether_souls.json"
+hash = "722648249cdfd4e50af6443241ac466758bffb6f9b2eb678f782f005a0e6d7be"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/integrated_villages/tags/worldgen/biome/collections/nether_warped_forests.json"
+hash = "75751e4ef98e1d3432ca6bc4d3da8e75e993003ee779516e979c16d0cb7fec8d"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/integrated_villages/tags/worldgen/biome/collections/nether_wastes.json"
+hash = "0e82d52111d9bcc010812bb47679c8907029dcaad72912245b47c6931629f7b3"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/integrated_villages/tags/worldgen/biome/collections/oceans.json"
+hash = "9379cb80131843eba30577993ff7c060b4958fda1348013045b3f7617d12f5c2"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/integrated_villages/tags/worldgen/biome/collections/orange_deserts.json"
+hash = "1d76b16c63f2517cc661e8b19ec00bfe18b3a71a135d78accba89ed4adbbf76f"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/integrated_villages/tags/worldgen/biome/collections/overworld.json"
+hash = "8a3f9a3fe24b3ab50db7c2018e39d3555b80911d6343fa075eb30867a23c2a63"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/integrated_villages/tags/worldgen/biome/collections/plains.json"
+hash = "a51a89dc7b7c78548f2bcc8d24e4f9e7f7766390b001b8fd462e2a46e18d9000"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/integrated_villages/tags/worldgen/biome/collections/regular_forests.json"
+hash = "809293f9157bb71f925a222586daa7ae0864e7ab07a4c99248b3eb6531730f12"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/integrated_villages/tags/worldgen/biome/collections/rivers.json"
+hash = "c657c3f938ef107290dbca6f29206480c3b0809c3b0d4a2d3e06932c6a7f0bda"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/integrated_villages/tags/worldgen/biome/collections/rocky_mountains.json"
+hash = "ea949a8863171e27332181d159aeba976f9b49b6b2b38cc9215a3e87868204ee"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/integrated_villages/tags/worldgen/biome/collections/savannas.json"
+hash = "3c9f4883b5733c61ac7606b501594de6ab1cdbcbd6653d1400d6d5a69b5f01c4"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/integrated_villages/tags/worldgen/biome/collections/snowy_forests.json"
+hash = "64c7e3c1885861158a3be467d1a60454b1d667497152a8ccdd940c34c02065e2"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/integrated_villages/tags/worldgen/biome/collections/snowy_mountains.json"
+hash = "0161e8f442cd746f45392c64ac75afbeaeae3d5968d5dc74555dcf88a47104b7"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/integrated_villages/tags/worldgen/biome/collections/snowy_plains.json"
+hash = "b8613ad0e6f5dc14d40c57995cc5d9bbeaabfad17f96d7228ef1f4bbc1e16cb0"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/integrated_villages/tags/worldgen/biome/collections/spooky_forests.json"
+hash = "466edf74ea2308b269ae29b3cd1f4487f48b36e2b282c75af6d5cb98d0098685"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/integrated_villages/tags/worldgen/biome/collections/stony_shores.json"
+hash = "8c2f9f5c393589f47641526e68d765ff5a423a06d31a63891762f2ecaf91857a"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/integrated_villages/tags/worldgen/biome/collections/swamps.json"
+hash = "8e0a82570c5f5f841791ae3f47fcda8e053610dbc26f03d795ccc0b6faefa670"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/integrated_villages/tags/worldgen/biome/collections/taigas.json"
+hash = "459f32294c5f54d1cc55f2dce16b1c95fa94b2c6a6ea55658522bb82f10d9885"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/integrated_villages/tags/worldgen/biome/collections/vanilla_deserts.json"
+hash = "ccf3acccce0963f348bf96713cb2f2fe39fc98a4cb13456c6291696fae193fc4"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/integrated_villages/tags/worldgen/biome/collections/vanilla_jungles.json"
+hash = "0549e85ad9fdcb5864d11eeab42e75e360f14128e65d5e233b6b0d9b3107f337"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/integrated_villages/tags/worldgen/biome/collections/warm_beaches.json"
+hash = "e821837dd9f2302cf8ce314dfa0e595f95902e8c70c666deb34d5627e9e9fb50"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/integrated_villages/tags/worldgen/biome/collections/windswept_deserts.json"
+hash = "72bd384300b98484c35b81ec6dad42502475cc836d76b314bbb9d0a899e54792"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/integrated_villages/worldgen/structure_set/air_villages.json"
+hash = "1767ad42943e131249545a50596654bb02633e812d504926c93e91bbee26e84d"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/integrated_villages/worldgen/structure_set/regular_villages.json"
+hash = "42703ed386cc909a9ce17048fdb0598df40d26f9288963b268286868bfcd901d"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/irons_spellbooks/tags/worldgen/biome/has_structure/impaled_icebreaker.json"
+hash = "223424ced24f0c4524ab458c104bdd1561eb191764326238fc26ff8348905fbb"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/irons_spellbooks/tags/worldgen/biome/has_structure/mountain_tower.json"
+hash = "12491ef2d8278313568ebdb9c4a149c0fc5656daa4a8c3abfba621a3da976f6b"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/minecraft/tags/worldgen/biome/has_structure/ancient_city.json"
+hash = "51e53586abea19c83b4eb7b34c92e4066e1066710332c67140dbae57728228f0"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/minecraft/tags/worldgen/biome/has_structure/ocean_monument.json"
+hash = "a0d64d54e07eadc25384b3b2eec9e89adce1b4752aad8ec434aef626913af8d2"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/minecraft/tags/worldgen/biome/has_structure/shipwreck.json"
+hash = "9379cb80131843eba30577993ff7c060b4958fda1348013045b3f7617d12f5c2"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/minecraft/tags/worldgen/biome/has_structure/shipwreck_beached.json"
+hash = "259be35881db015656c6bd204b5b09b7f52a8e5397bc03b439b8d0ae646ee8f4"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/minecraft/tags/worldgen/biome/has_structure/trail_ruins.json"
+hash = "19d770769d5b1bda2e56b247fcfc733072820de923dd97d92ca8690aebd5d537"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/minecraft/tags/worldgen/biome/has_structure/village_plains.json"
+hash = "a51a89dc7b7c78548f2bcc8d24e4f9e7f7766390b001b8fd462e2a46e18d9000"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/minecraft/tags/worldgen/biome/is_badlands.json"
+hash = "72bd384300b98484c35b81ec6dad42502475cc836d76b314bbb9d0a899e54792"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/minecraft/tags/worldgen/biome/is_beach.json"
+hash = "1c9f342069d7dc162220388b2856ec54292d271a171eea1078c7375370f54c36"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/minecraft/tags/worldgen/biome/is_forest.json"
+hash = "d889e6f6f70e761d949a805f071f07731c05d87f94787dd7aa07f30c2d5c0eca"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/minecraft/tags/worldgen/biome/is_jungle.json"
+hash = "2cffa45ab6e0c9863d8fae05cbc73dfb7d76ad135e98ab96f9e8ad4a9f647309"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/minecraft/tags/worldgen/biome/is_mountain.json"
+hash = "cc462f556cc62889929ce6e7b050678a0eb87ffd3628d32627d52647f2ee1e08"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/minecraft/tags/worldgen/biome/is_overworld.json"
+hash = "271480bef8dbf5c56b62d690b48c8cd60a5a4a45ec91a4947e9afd2ce8cea46c"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/minecraft/tags/worldgen/biome/is_taiga.json"
+hash = "7cad91b927dfe464433627d96ff50a528335c4a38544dbee82d7b24475210cd1"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/minecraft/tags/worldgen/biome/stronghold_biased_to.json"
+hash = "471de926fec619f6d5c4c439b257028b9be28ae8e06fcce929ef163f6d322673"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/minecraft/worldgen/structure_set/ancient_cities.json"
+hash = "3f708666f839369bbb01caec39de3a2f8262274d87d901e8a9bee4c7f81bbc2c"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/minecraft/worldgen/structure_set/desert_pyramids.json"
+hash = "0dcc4ef8b0e89e9213837959b3beb0fd1951b0c9c31cd3993ad35eee9d51de37"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/minecraft/worldgen/structure_set/end_cities.json"
+hash = "e90cd2bfe090edbb309bda3e29a72d16c07236d1d54dafb38059172cd23d4a96"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/minecraft/worldgen/structure_set/igloos.json"
+hash = "ba204deec25ac1385ac4627c652f5a4ad92e37d2c5b5ca7e06437116ad80d6b5"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/minecraft/worldgen/structure_set/jungle_temples.json"
+hash = "7f2537fd08858d075d3d287fe8e04eb0427984fa55213b27b05d54917f7686ae"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/minecraft/worldgen/structure_set/nether_complexes.json"
+hash = "5e29211c637878f16fba0ea8d1c70a38317dcaa38be6de4dc2875746827a0b0a"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/minecraft/worldgen/structure_set/ocean_monuments.json"
+hash = "c446a1f63808f06aa33b03dc8e2d002137004cd32deb3fab84cd43958d1830e2"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/minecraft/worldgen/structure_set/ocean_ruins.json"
+hash = "a2b66aa9289bbebaabf7fa8441d8504859211c4675c4884346950ae094813969"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/minecraft/worldgen/structure_set/pillager_outposts.json"
+hash = "5285bb291da77bd2658807628f194b01580d6e88acc3b6ced70053e18fd1a9b0"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/minecraft/worldgen/structure_set/ruined_portals.json"
+hash = "20939d96123601d1dbbddb70109dc0f9c509852cc005773ffe5db9b299cd3cac"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/minecraft/worldgen/structure_set/shipwrecks.json"
+hash = "3b3ace63e2fe8f2a794ae00f222726ec5a6b9a821ba76f394c3211bb8b71896b"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/minecraft/worldgen/structure_set/swamp_huts.json"
+hash = "dbbc2eb2a090dcf8e0fd1327a9ba953d4cd5f369acabfe74927d8bbe8eb2922c"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/minecraft/worldgen/structure_set/trail_ruins.json"
+hash = "80185edc41e585598bec38f7c5da7e045f7bc4aeadef8e7e682263a2879b9d78"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/minecraft/worldgen/structure_set/trial_chambers.json"
+hash = "db075f6045be010cdc106558a7f8f785b5b329df0140d498bbee21ac7a5db3b4"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/minecraft/worldgen/structure_set/villages.json"
+hash = "78b2c87ec019c3e7d26a14225548731a4e877e73ec62d7aa18674fcc702cc671"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/minecraft/worldgen/structure_set/woodland_mansions.json"
+hash = "c0418ef1a44a913069ba6d1c9957c4d702ef9053a303303950c563e3cbe1c47a"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/nova_structures/worldgen/structure_set/badlands_miner_outpost.json"
+hash = "acdeb2f1ed0d4feec3e903233465929042a5a4512da67f145ec51f9519f84ff0"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/nova_structures/worldgen/structure_set/badlands_miner_outpost_mineshafts.json"
+hash = "3cce53227327ae12b8109b45b6a8889d804406738d7041f67a793c4d773b1951"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/nova_structures/worldgen/structure_set/bunker.json"
+hash = "3f257951b1874f19abdc1f8a6e27bec111b3f0b9b2e688beb55e4b962ca903b9"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/nova_structures/worldgen/structure_set/conduit_ruin.json"
+hash = "07b7f10876d38e91eaddc72ce308d0145334b9de441b1574b6d33231e6c1566f"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/nova_structures/worldgen/structure_set/creeping_crypt.json"
+hash = "36b764941f1584cbfc0091b123099ecac442e4a883b5f794007003db3bccea14"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/nova_structures/worldgen/structure_set/deepslate_camp.json"
+hash = "c9afb62692f09e074e1d2ce97f2f9a71e716f2429acdf1b5c07359e495675857"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/nova_structures/worldgen/structure_set/desert_ruins.json"
+hash = "2431f4539e138c18fd05981df6efca26114e6eda7ccbb28f0f50c926b66d83a4"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/nova_structures/worldgen/structure_set/end_lighthouses.json"
+hash = "aedd6efed06ce672f377e04eb5c915f18f3944a2435c50abdb8f2f8f74a0ec6f"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/nova_structures/worldgen/structure_set/end_ship.json"
+hash = "fc1b29532833dd53a684a2a20d8de4f69278f4db5771b4165ba45316863db95b"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/nova_structures/worldgen/structure_set/firewatch_towers.json"
+hash = "8167ba0393f57d08951bde86bdfee64227670c1c6d93c418b4fb9bf4eecded5d"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/nova_structures/worldgen/structure_set/illager_camp.json"
+hash = "d9b22751fedafaba0ec7f8d0e64e0485edb8997ffc4a131b4349d9fd1f88d5bf"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/nova_structures/worldgen/structure_set/illager_hideout.json"
+hash = "0eb878dcfe84da93b8c32f1e5c23e46a8db6eca4140cfea1c8270a43a1f6ce6c"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/nova_structures/worldgen/structure_set/jungle_ruins.json"
+hash = "f05ddbebaf7eecb716e16dd22452371d9e224fef27fc56660dfb36bb8797d26f"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/nova_structures/worldgen/structure_set/mangrove_witch_hut.json"
+hash = "6c76d608e7a27b82af44e8ebd008d2e9c5c91b3e4155fe02232744427a5c73b1"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/nova_structures/worldgen/structure_set/nether_camps.json"
+hash = "38ef0e49d81d9bd7ae369485a024fa407cf1fe813f4cd9d54155014dc55fe6e4"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/nova_structures/worldgen/structure_set/nether_skeleton_towers.json"
+hash = "32e1e23b40503c18cec5e3fb96040bb0525131370f500bd3f12dc383968869ed"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/nova_structures/worldgen/structure_set/nether_structures.json"
+hash = "a0b1bb5ded9f11eaf285443be96c5db3e6589e934c042f386abe0b90a45669d4"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/nova_structures/worldgen/structure_set/remnants.json"
+hash = "891c6afa9af8f8dd3a15f4e0ae891bd1472be7926dfc710130b0773f4e479fcd"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/nova_structures/worldgen/structure_set/ruin_town.json"
+hash = "095d0bb3f95c68f2e38cb8d1996df312ae0816fb873a745e22cfd5359df378e9"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/nova_structures/worldgen/structure_set/shrine_tower.json"
+hash = "a8375ed683102d8509aae20170b8f1fdd89b41402fa086eeee01ec644a08b9a6"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/nova_structures/worldgen/structure_set/shrines.json"
+hash = "f5963b6da31f7a4065055417ca390f4992d49aed742d01b87b1bfb0ba86ad17d"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/nova_structures/worldgen/structure_set/stray_fort.json"
+hash = "55c85aa8b1aa1c11fd73f4c4ef9c807a99313ceb76cff7ca5998581fdf15de09"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/nova_structures/worldgen/structure_set/swamp_structure.json"
+hash = "f562ccf1b6f9d54262e46265c7a8d47ba0533f46b7c93d20ed9ed206db11fa83"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/nova_structures/worldgen/structure_set/taverns.json"
+hash = "a891abe5e5b5587217e4e97c0ccbc852d39751ce86e8fc63dfcfc8fced0b91bc"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/nova_structures/worldgen/structure_set/trident_trial_monument.json"
+hash = "0c310ec93dcf7725443e137dd1cc86f205fecf35de0f8c237ed4f9cbd4e8fb09"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/nova_structures/worldgen/structure_set/undead_crypt.json"
+hash = "922aab5f54fd24c6093e1ac3e12f3afeb96303b8ef864fb2cf9c632f358dae3b"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/nova_structures/worldgen/structure_set/underground_house.json"
+hash = "915d795783dddd7164fed1978d25cdd676a49067842efe5f4438bdf2dbbd584d"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/nova_structures/worldgen/structure_set/villages_birch.json"
+hash = "66a536afd8bf4f7c38c09265f0f7384d9bd452df7e4e8f843325f2087aa95f9a"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/nova_structures/worldgen/structure_set/villages_jungle.json"
+hash = "953468439a63cb2829fa6a600b0d9d924f1c02e9ed3e21eb386cc42cd97a737b"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/nova_structures/worldgen/structure_set/villages_swamp.json"
+hash = "65c2b150d670be852f206eb37e256516b3d2ac9a5042b9e6b86d140d4d960298"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/nova_structures/worldgen/structure_set/wells.json"
+hash = "90b649fc44f1991ef0889344579a3c13fa270d50237b44998fb76ee4f08d8b22"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/nova_structures/worldgen/structure_set/wild_ruin.json"
+hash = "afb59d959bf34f747dd0c6f00b2a3551a9e71eaadab9d52e90d19935a83cde84"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/structures_arise/tags/worldgen/biome/landbiomes.json"
+hash = "8a3f9a3fe24b3ab50db7c2018e39d3555b80911d6343fa075eb30867a23c2a63"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/structures_arise/tags/worldgen/biome/oceans.json"
+hash = "3393f268d87b56f95e50561b80e035fb448e5ec3586c295bd02a96495fa6c61d"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/data/supplementaries/worldgen/structure_set/road_signs.json"
+hash = "dcff93be3e2525c06a44582ce98df4afea044013699045febf5c671b6167e32e"
+
+[[files]]
+file = "moonlight-global-datapacks/drx-regions-structure-compat/pack.mcmeta"
+hash = "71f3a30d3026516fcf3b8bf52215a929b2e1787ad6f3b1aeea5d1755f303662c"
+
+[[files]]
+file = "resourcepacks/quark-delight-excalibur-support.pw.toml"
+hash = "a5dbb4ed894e7da00a5b18033e34e11893a3f640b1d5ed8acff3d166faf03913"
+metafile = true

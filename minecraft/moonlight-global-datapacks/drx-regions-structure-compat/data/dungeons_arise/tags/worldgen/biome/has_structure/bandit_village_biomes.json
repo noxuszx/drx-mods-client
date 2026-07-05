@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "regions_unexplored:arid_mountains",
+    "regions_unexplored:chalk_cliffs",
+    "regions_unexplored:outback",
+    "regions_unexplored:towering_cliffs"
+  ]
+}

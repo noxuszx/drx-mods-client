@@ -1,0 +1,14 @@
+{
+	"mod": "butchery",
+	"total_chest_tables": 8,
+	"loot_tables": [
+		"butchery:blocks/chestnut_horse_head",
+		"butchery:blocks/regular_chestnut_horse_carcass",
+		"butchery:blocks/regular_chestnut_carcass_loot",
+		"butchery:blocks/chestnut_horse_head_mount",
+		"butchery:blocks/chestnut_horse_skin_drop",
+		"butchery:blocks/chestnut_horse_head_drop",
+		"butchery:blocks/drained_regular_chestnut_horse_carcass",
+		"butchery:blocks/player_chest_skin_drop"
+	]
+}

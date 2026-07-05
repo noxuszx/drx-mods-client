@@ -1,0 +1,83 @@
+# Project docs / tooling (not game content)
+../docs/
+../tools/
+.claude/
+.codex/
+.agents/
+../.claude/
+../.codex/
+../.agents/
+../.git/
+
+# Runtime output
+logs/
+crash-reports/
+dumps/
+dump/
+screenshots/
+replay_recordings/
+saves/
+server-resource-packs/
+downloads/
+schematics/
+
+# Runtime caches and generated assets
+assets/
+libraries/
+versions/
+webcache/
+.mixin.out/
+.fabric/
+.cache/
+.sable/
+dynamic-data-pack-cache/
+dynamic-resource-pack-cache/
+config/ars_nouveau/search_index/
+config/jei/world/
+config/spark/tmp/
+config/spark/tmp-client/
+config/essential-mod-partner/
+config/xaero/
+config/xaero/**
+config/*.bak
+config/**/*.bak
+config/xaerohud.txt
+config/xaeropatreon.txt
+xaero/
+xaero/**
+XaeroWaypoints_BACKUP*/
+XaeroWaypoints_BACKUP*/**
+
+# Local user preferences and local/generated config
+options.txt
+optionsof.txt
+command_history.txt
+usercache.json
+usernamecache.json
+launcher_profiles.json
+config/born_in_chaos.json5
+config/configured-client.properties
+config/xaerohud.txt
+config/xaeropatreon.txt
+
+# Local resource/shader pack binaries and binary exports
+resourcepacks/*.zip
+resourcepacks/*.rar
+resourcepacks/*.jar
+shaderpacks/*.zip
+shaderpacks/*.rar
+shaderpacks/*.jar
+texturepacks/*.zip
+texturepacks/*.rar
+texturepacks/*.jar
+
+# Mod jar files are downloaded from Packwiz metadata, not committed/indexed
+mods/*.jar
+mods/*.disabled
+mods_disabled/
+
+# Bootstrap tool is local launcher/runtime state, not Packwiz source
+packwiz-installer-bootstrap.jar
+packwiz-installer.jar
+packwiz.json
+run-packwiz-installer.bat

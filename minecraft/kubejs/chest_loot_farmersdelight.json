@@ -1,0 +1,20 @@
+{
+	"mod": "farmersdelight",
+	"total_chest_tables": 14,
+	"loot_tables": [
+		"farmersdelight:chests/fd_village_butcher",
+		"farmersdelight:chests/fd_bastion_treasure",
+		"farmersdelight:chests/fd_end_city_treasure",
+		"farmersdelight:chests/fd_simple_dungeon",
+		"farmersdelight:chests/fd_ruined_portal",
+		"farmersdelight:chests/fd_shipwreck_supply",
+		"farmersdelight:chests/fd_village_taiga_house",
+		"farmersdelight:chests/fd_village_desert_house",
+		"farmersdelight:chests/fd_village_snowy_house",
+		"farmersdelight:chests/fd_bastion_hoglin_stable",
+		"farmersdelight:chests/fd_village_savanna_house",
+		"farmersdelight:chests/fd_abandoned_mineshaft",
+		"farmersdelight:chests/fd_pillager_outpost",
+		"farmersdelight:chests/fd_village_plains_house"
+	]
+}

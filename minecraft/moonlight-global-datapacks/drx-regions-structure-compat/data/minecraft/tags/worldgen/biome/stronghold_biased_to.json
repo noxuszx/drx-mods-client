@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "regions_unexplored:deciduous_forest",
+    "regions_unexplored:grassland",
+    "regions_unexplored:maple_forest",
+    "regions_unexplored:prairie",
+    "regions_unexplored:temperate_grove"
+  ]
+}

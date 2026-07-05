@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "regions_unexplored:bayou",
+    "regions_unexplored:marsh",
+    "regions_unexplored:old_growth_bayou"
+  ]
+}

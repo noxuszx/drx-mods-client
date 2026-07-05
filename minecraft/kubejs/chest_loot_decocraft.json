@@ -1,0 +1,7 @@
+{
+	"mod": "decocraft",
+	"total_chest_tables": 1,
+	"loot_tables": [
+		"decocraft:blocks/062_dpop_chestboy"
+	]
+}

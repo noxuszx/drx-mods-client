@@ -1,0 +1,7 @@
+{
+	"mod": "aquaculture",
+	"total_chest_tables": 1,
+	"loot_tables": [
+		"aquaculture:box/treasure_chest"
+	]
+}

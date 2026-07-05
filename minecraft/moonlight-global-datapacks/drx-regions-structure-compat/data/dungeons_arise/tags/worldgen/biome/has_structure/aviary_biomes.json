@@ -1,0 +1,25 @@
+{
+  "replace": false,
+  "values": [
+    "regions_unexplored:arid_mountains",
+    "regions_unexplored:chalk_cliffs",
+    "regions_unexplored:icy_heights",
+    "regions_unexplored:mauve_hills",
+    "regions_unexplored:mountains",
+    "regions_unexplored:pine_slopes",
+    "regions_unexplored:spires",
+    "regions_unexplored:towering_cliffs",
+    "regions_unexplored:ashen_woodland",
+    "regions_unexplored:autumnal_maple_forest",
+    "regions_unexplored:cold_deciduous_forest",
+    "regions_unexplored:deciduous_forest",
+    "regions_unexplored:magnolia_woodland",
+    "regions_unexplored:maple_forest",
+    "regions_unexplored:old_growth_forest",
+    "regions_unexplored:orchard",
+    "regions_unexplored:temperate_grove",
+    "regions_unexplored:willow_forest",
+    "regions_unexplored:windswept_maple_forest",
+    "regions_unexplored:wisteria_grove"
+  ]
+}

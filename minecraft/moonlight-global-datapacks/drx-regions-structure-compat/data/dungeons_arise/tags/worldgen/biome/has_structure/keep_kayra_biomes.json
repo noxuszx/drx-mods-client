@@ -1,0 +1,25 @@
+{
+  "replace": false,
+  "values": [
+    "regions_unexplored:arid_mountains",
+    "regions_unexplored:chalk_cliffs",
+    "regions_unexplored:icy_heights",
+    "regions_unexplored:mauve_hills",
+    "regions_unexplored:mountains",
+    "regions_unexplored:pine_slopes",
+    "regions_unexplored:spires",
+    "regions_unexplored:towering_cliffs",
+    "regions_unexplored:barley_fields",
+    "regions_unexplored:clover_plains",
+    "regions_unexplored:flower_fields",
+    "regions_unexplored:glistering_meadow",
+    "regions_unexplored:grassland",
+    "regions_unexplored:highland_fields",
+    "regions_unexplored:poppy_fields",
+    "regions_unexplored:prairie",
+    "regions_unexplored:pumpkin_fields",
+    "regions_unexplored:rocky_meadow",
+    "regions_unexplored:shrubland",
+    "regions_unexplored:steppe"
+  ]
+}

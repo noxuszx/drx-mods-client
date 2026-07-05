@@ -1,0 +1,13 @@
+name = "Enhanced Enchanting & Enchantments"
+filename = "enhanced_enchanting-2.0.3.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d950fa8f0db14e4950394aecab4ed45b59615040"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8323222
+project-id = 1332588

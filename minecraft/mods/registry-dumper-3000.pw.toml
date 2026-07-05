@@ -1,0 +1,13 @@
+name = "Registry Dumper 3000"
+filename = "registry_dumper_3000-neoforge-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/TrVqGBB2/versions/n7r6EVFv/registry_dumper_3000-neoforge-1.1.0.jar"
+hash-format = "sha512"
+hash = "d06ca1f262520b8eb69277da6f339f0cd43c365e4f307f3ec52c7bfea3c485a767c452cfb3fb33bcee4ad2227390ae407e99f82c42aeef302a68ee6151218059"
+
+[update]
+[update.modrinth]
+mod-id = "TrVqGBB2"
+version = "n7r6EVFv"

@@ -1,0 +1,18 @@
+{
+  "structures": [
+    {
+      "structure": "cataclysm:kobolediator_shrine",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "cataclysm:cataclysm_random_spread",
+    "salt": 166104345,
+    "spacing": 25,
+    "separation": 15,
+    "super_exclusion_zone": {
+      "chunk_count": 5,
+      "other_set": "#cataclysm:cursed_pyramid_avoid"
+    }
+  }
+}

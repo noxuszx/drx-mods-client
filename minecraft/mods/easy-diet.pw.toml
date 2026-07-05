@@ -1,0 +1,13 @@
+name = "Easy Diet"
+filename = "tharidia_easydiet-0.1.2-alpha.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/onIOlSGL/versions/W4IYzGso/tharidia_easydiet-0.1.2-alpha.jar"
+hash-format = "sha512"
+hash = "9caba743b0a8e589da7107324ec67de2beb3d54dc7b62af4ce11d03782f34704bfbe81fe919ed543f51317aa6b959a8d36c582ee2b787d8815c5a15ff429c9e6"
+
+[update]
+[update.modrinth]
+mod-id = "onIOlSGL"
+version = "W4IYzGso"

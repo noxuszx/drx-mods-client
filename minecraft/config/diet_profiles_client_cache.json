@@ -1,0 +1,3919 @@
+{
+  "version": "1.1",
+  "mod_list_hash": "-914846163",
+  "calculated_at": 1783178339798,
+  "profiles": {
+    "butchery:rotten_kidney": {
+      "grain": 0.90000004,
+      "protein": 0.90000004,
+      "vegetable": 0.6,
+      "fruit": 0.3,
+      "sugar": 6.4,
+      "water": 0.9
+    },
+    "compatdelight:sculk_stew": {
+      "water": 1.1
+    },
+    "aquaculture:bayad": {
+      "grain": 0.6,
+      "protein": 0.4,
+      "vegetable": 0.4,
+      "fruit": 0.2,
+      "sugar": 4.8,
+      "water": 1.0
+    },
+    "vinery:bottle_mojang_noir": {
+      "sugar": 4.8,
+      "water": 1.3
+    },
+    "farmersdelight:fish_stew": {
+      "protein": 9.36
+    },
+    "vinery:cherry_wine": {
+      "sugar": 2.4
+    },
+    "compatdelight:candy_pancake": {
+      "grain": 4.32
+    },
+    "compatdelight:bastion_yougurt": {
+      "grain": 3.2400002,
+      "protein": 2.16,
+      "vegetable": 2.34,
+      "fruit": 1.08,
+      "sugar": 0.99000007,
+      "water": 1.0
+    },
+    "compatdelight:cooked_glow_spruit": {
+      "grain": 2.5200002,
+      "protein": 1.6800001,
+      "vegetable": 1.8199999,
+      "fruit": 0.84000003,
+      "sugar": 0.77,
+      "water": 1.0
+    },
+    "compatdelight:lumisene_shake": {
+      "grain": 2.5200002,
+      "protein": 1.6800001,
+      "vegetable": 1.8199999,
+      "fruit": 0.84000003,
+      "sugar": 0.77,
+      "water": 1.0
+    },
+    "compatdelight:lolipop": {
+      "grain": 2.88,
+      "protein": 1.9200001,
+      "vegetable": 2.08,
+      "fruit": 0.96000004,
+      "sugar": 0.88000005,
+      "water": 1.0
+    },
+    "butchery:raw_tbone_steak": {
+      "protein": 4.5
+    },
+    "minecraft:cooked_rabbit": {
+      "protein": 3.0
+    },
+    "alexsmobs:maggot": {
+      "grain": 0.3,
+      "protein": 0.2,
+      "vegetable": 0.2,
+      "fruit": 0.1,
+      "sugar": 4.8,
+      "water": 1.0
+    },
+    "farmersdelight:cooked_salmon_slice": {
+      "protein": 2.34
+    },
+    "compatdelight:cherry_cookie": {
+      "fruit": 1.3440001,
+      "sugar": 0.66
+    },
+    "compatdelight:cut_cucumber": {
+      "vegetable": 3.8999999
+    },
+    "alexsdelight:raw_bunfungus_drumstick": {
+      "protein": 1.44
+    },
+    "lendersdelight:cooked_berserker": {
+      "grain": 2.88,
+      "protein": 1.9200001,
+      "vegetable": 2.08,
+      "fruit": 0.96000004,
+      "sugar": 0.88000005,
+      "water": 1.0
+    },
+    "compatdelight:honey_yougurt": {
+      "grain": 3.2400002,
+      "protein": 2.16,
+      "vegetable": 2.34,
+      "fruit": 1.08,
+      "sugar": 0.99000007,
+      "water": 1.0
+    },
+    "butchery:raw_creeper_steak": {
+      "protein": 3.6000001
+    },
+    "ars_nouveau:source_berry_roll": {
+      "fruit": 10.88,
+      "sugar": 2.4
+    },
+    "butchery:enderman_stomach": {
+      "grain": 1.5,
+      "protein": 1.5,
+      "vegetable": 1.0,
+      "fruit": 0.5,
+      "sugar": 0.5,
+      "water": 0.9
+    },
+    "minecraft:rabbit": {
+      "protein": 1.8000001
+    },
+    "alexsmobs:blobfish": {
+      "grain": 0.90000004,
+      "protein": 0.6,
+      "vegetable": 0.6,
+      "fruit": 0.3,
+      "sugar": 0.3,
+      "water": 1.0
+    },
+    "aquaculturedelight:rollmops": {
+      "grain": 3.9600003,
+      "protein": 2.64,
+      "vegetable": 2.86,
+      "fruit": 1.32,
+      "sugar": 1.21,
+      "water": 1.0
+    },
+    "compatdelight:frostaya_jelly": {
+      "grain": 2.16,
+      "protein": 1.44,
+      "vegetable": 1.5600001,
+      "fruit": 0.72,
+      "sugar": 0.66,
+      "water": 1.0
+    },
+    "compatdelight:brain_coral_pie": {
+      "grain": 2.88,
+      "protein": 1.9200001,
+      "vegetable": 2.08,
+      "fruit": 0.96000004,
+      "sugar": 0.88000005,
+      "water": 1.0
+    },
+    "compatdelight:alpha_salad": {
+      "vegetable": 11.7
+    },
+    "aquaculture:pacific_halibut": {
+      "protein": 1.8000001
+    },
+    "butchery:raw_villager_steak": {
+      "protein": 3.6000001
+    },
+    "aquaculture:perch": {
+      "grain": 0.3,
+      "protein": 0.2,
+      "vegetable": 0.2,
+      "fruit": 0.1,
+      "sugar": 4.4,
+      "water": 1.0
+    },
+    "compatdelight:fire_coral_cider": {
+      "water": 1.6
+    },
+    "compatdelight:bombegranate_jelly": {
+      "grain": 2.16,
+      "protein": 1.44,
+      "vegetable": 1.5600001,
+      "fruit": 0.72,
+      "sugar": 0.66,
+      "water": 1.0
+    },
+    "butchery:raw_dolphin_meat": {
+      "protein": 1.8000001
+    },
+    "lendersdelight:amethyst_crab_meat_slice": {
+      "protein": 2.16
+    },
+    "farmersdelight:melon_popsicle": {
+      "fruit": 2.808,
+      "sugar": 5.8300004
+    },
+    "compatdelight:wither_meat": {
+      "protein": 10.080001
+    },
+    "compatdelight:cooked_dropleaf_stick": {
+      "grain": 2.88,
+      "protein": 1.9200001,
+      "vegetable": 2.08,
+      "fruit": 0.96000004,
+      "sugar": 0.88000005,
+      "water": 1.0
+    },
+    "alexsmobs:kangaroo_meat": {
+      "protein": 2.4
+    },
+    "lendersdelight:watcher_heart": {
+      "grain": 3.6000001,
+      "protein": 2.4,
+      "vegetable": 2.6,
+      "fruit": 1.2,
+      "sugar": 1.1,
+      "water": 1.0
+    },
+    "minecraft:cooked_porkchop": {
+      "grain": 2.4,
+      "protein": 1.6,
+      "vegetable": 1.6,
+      "fruit": 0.8,
+      "sugar": 0.8,
+      "water": 1.0
+    },
+    "farmersdelight:pumpkin_slice": {
+      "vegetable": 6.2999997
+    },
+    "butchery:cooked_warden_meat": {
+      "protein": 17.1
+    },
+    "butchery:cooked_tbone_steak": {
+      "protein": 9.0
+    },
+    "compatdelight:cut_eggplant": {
+      "vegetable": 3.8999999
+    },
+    "lendersdelight:glazed_remnant_skull": {
+      "grain": 6.8400006,
+      "protein": 4.56,
+      "vegetable": 4.9399996,
+      "fruit": 2.28,
+      "sugar": 2.09,
+      "water": 1.0
+    },
+    "alexsdelight:loose_moose_rib": {
+      "grain": 0.72,
+      "protein": 0.48000002,
+      "vegetable": 0.52,
+      "fruit": 0.24000001,
+      "sugar": 6.16,
+      "water": 1.0
+    },
+    "minecraft:golden_apple": {
+      "fruit": 9.280001,
+      "sugar": 1.2
+    },
+    "butchery:honey_stomach": {
+      "grain": 1.5,
+      "protein": 1.5,
+      "vegetable": 1.0,
+      "fruit": 0.5,
+      "sugar": 0.5,
+      "water": 0.9
+    },
+    "lendersdelight:grilled_lionfish": {
+      "grain": 3.2400002,
+      "protein": 2.16,
+      "vegetable": 2.34,
+      "fruit": 1.08,
+      "sugar": 0.99000007,
+      "water": 1.0
+    },
+    "aquaculture:fish_fillet_cooked": {
+      "protein": 1.8000001
+    },
+    "compatdelight:frostaya_jem": {
+      "grain": 0.72,
+      "protein": 0.48000002,
+      "vegetable": 0.52,
+      "fruit": 0.24000001,
+      "sugar": 0.22000001,
+      "water": 1.0
+    },
+    "butchery:cooked_enderman_liver": {
+      "grain": 3.3000002,
+      "protein": 3.3000002,
+      "vegetable": 2.2,
+      "fruit": 1.1,
+      "sugar": 1.1,
+      "water": 0.9
+    },
+    "butchery:cooked_beef_mince": {
+      "protein": 8.1
+    },
+    "regions_unexplored:duskmelon_slice": {
+      "grain": 1.5,
+      "protein": 1.0,
+      "vegetable": 1.0,
+      "fruit": 0.5,
+      "sugar": 0.5,
+      "water": 1.0
+    },
+    "compatdelight:ender_dragon_stew": {
+      "water": 1.1
+    },
+    "farmersdelight:steak_and_potatoes": {
+      "protein": 9.36
+    },
+    "butchery:enderman_intestines": {
+      "grain": 1.8000001,
+      "protein": 1.8000001,
+      "vegetable": 1.2,
+      "fruit": 0.6,
+      "sugar": 0.6,
+      "water": 0.9
+    },
+    "alexsdelight:cooked_kangaroo_shank": {
+      "grain": 1.44,
+      "protein": 0.96000004,
+      "vegetable": 1.04,
+      "fruit": 0.48000002,
+      "sugar": 0.44000003,
+      "water": 1.0
+    },
+    "aquaculturedelight:unusual_fish_soup": {
+      "protein": 7.9200006
+    },
+    "alexsmobs:cooked_kangaroo_meat": {
+      "protein": 4.8
+    },
+    "compatdelight:bastion_jelly": {
+      "grain": 2.16,
+      "protein": 1.44,
+      "vegetable": 1.5600001,
+      "fruit": 0.72,
+      "sugar": 0.66,
+      "water": 1.0
+    },
+    "vinery:aegis_wine": {
+      "sugar": 2.4,
+      "water": 2.08
+    },
+    "aquaculture:sushi": {
+      "grain": 1.2,
+      "protein": 0.8,
+      "vegetable": 0.8,
+      "fruit": 0.4,
+      "sugar": 0.4,
+      "water": 1.0
+    },
+    "compatdelight:bubble_jem": {
+      "grain": 0.72,
+      "protein": 0.48000002,
+      "vegetable": 0.52,
+      "fruit": 0.24000001,
+      "sugar": 0.22000001,
+      "water": 1.0
+    },
+    "compatdelight:glow_berries_salad": {
+      "fruit": 9.792002,
+      "sugar": 1.9800001
+    },
+    "compatdelight:petal_cookie": {
+      "grain": 2.76
+    },
+    "create:builders_tea": {
+      "sugar": 4.4,
+      "water": 1.6
+    },
+    "farmersdelight:salmon_slice": {
+      "protein": 0.78000003
+    },
+    "minecraft:tropical_fish": {
+      "protein": 0.6
+    },
+    "lendersdelight:crab_legs": {
+      "protein": 2.88
+    },
+    "compatdelight:bamboo_porridge": {
+      "grain": 2.88,
+      "protein": 1.9200001,
+      "vegetable": 2.08,
+      "fruit": 0.96000004,
+      "sugar": 0.88000005,
+      "water": 1.0
+    },
+    "lendersdelight:raw_warlock_deepling_meat": {
+      "protein": 2.88
+    },
+    "butchery:raw_ocelot_meat": {
+      "protein": 0.90000004
+    },
+    "compatdelight:mendosteen_jem": {
+      "grain": 0.72,
+      "protein": 0.48000002,
+      "vegetable": 0.52,
+      "fruit": 0.24000001,
+      "sugar": 0.22000001,
+      "water": 1.0
+    },
+    "compatdelight:honeyed_mendosteen": {
+      "grain": 2.88,
+      "protein": 1.9200001,
+      "vegetable": 2.08,
+      "fruit": 0.96000004,
+      "sugar": 0.88000005,
+      "water": 1.0
+    },
+    "aquaculture:brown_trout": {
+      "protein": 1.2
+    },
+    "butchery:raw_creeper_leg": {
+      "grain": 0.90000004,
+      "protein": 0.90000004,
+      "vegetable": 0.6,
+      "fruit": 0.3,
+      "sugar": 7.6000004,
+      "water": 0.9
+    },
+    "farmersdelight:cake_slice": {
+      "grain": 2.76
+    },
+    "butchery:cooked_blood_sausage": {
+      "protein": 10.8
+    },
+    "butchery:cooked_ocelot_meat": {
+      "protein": 6.3
+    },
+    "butchery:cooked_sirloin_steak": {
+      "protein": 6.3
+    },
+    "compatdelight:horn_sauce": {
+      "grain": 1.44,
+      "protein": 0.96000004,
+      "vegetable": 1.04,
+      "fruit": 0.48000002,
+      "sugar": 0.44000003,
+      "water": 1.0
+    },
+    "minecraft:suspicious_stew": {
+      "water": 1.6
+    },
+    "farmersdelight:chocolate_pie_slice": {
+      "sugar": 6.1600003,
+      "water": 1.1
+    },
+    "iceandfire:pixie_dust": {
+      "grain": 0.3,
+      "protein": 0.2,
+      "vegetable": 0.2,
+      "fruit": 0.1,
+      "sugar": 5.2,
+      "water": 1.0
+    },
+    "butchery:cooked_lamb_loin": {
+      "protein": 8.1
+    },
+    "butchery:raw_salmon": {
+      "protein": 2.7
+    },
+    "butchery:raw_vindicator_meat": {
+      "protein": 2.7
+    },
+    "compatdelight:bombegranate_glaze": {
+      "grain": 1.08,
+      "protein": 0.72,
+      "vegetable": 0.78000003,
+      "fruit": 0.36,
+      "sugar": 8.360001,
+      "water": 1.0
+    },
+    "alexsmobs:mosquito_repellent_stew": {
+      "water": 1.6
+    },
+    "compatdelight:allium_shake": {
+      "grain": 2.5200002,
+      "protein": 1.6800001,
+      "vegetable": 1.8199999,
+      "fruit": 0.84000003,
+      "sugar": 0.77,
+      "water": 1.0
+    },
+    "compatdelight:garlic": {
+      "vegetable": 3.8999999
+    },
+    "compatdelight:glow_spruit": {
+      "grain": 1.08,
+      "protein": 0.72,
+      "vegetable": 0.78000003,
+      "fruit": 0.36,
+      "sugar": 7.0400004,
+      "water": 1.0
+    },
+    "alexsmobs:rainbow_jelly": {
+      "grain": 0.3,
+      "protein": 0.2,
+      "vegetable": 0.2,
+      "fruit": 0.1,
+      "sugar": 4.8,
+      "water": 1.0
+    },
+    "compatdelight:void_jem": {
+      "grain": 0.72,
+      "protein": 0.48000002,
+      "vegetable": 0.52,
+      "fruit": 0.24000001,
+      "sugar": 0.22000001,
+      "water": 1.0
+    },
+    "compatdelight:bombegranate_doughnut": {
+      "grain": 2.5200002,
+      "protein": 1.6800001,
+      "vegetable": 1.8199999,
+      "fruit": 0.84000003,
+      "sugar": 0.77,
+      "water": 1.0
+    },
+    "butchery:cooked_lamb_sirloin": {
+      "protein": 8.1
+    },
+    "refurbished_furniture:cheese": {
+      "grain": 0.6,
+      "protein": 0.4,
+      "vegetable": 0.4,
+      "fruit": 0.2,
+      "sugar": 0.2,
+      "water": 1.0
+    },
+    "compatdelight:chocolate_crunch_bar": {
+      "water": 1.1
+    },
+    "compatdelight:bastion_shake": {
+      "grain": 2.5200002,
+      "protein": 1.6800001,
+      "vegetable": 1.8199999,
+      "fruit": 0.84000003,
+      "sugar": 0.77,
+      "water": 1.0
+    },
+    "butchery:rotten_liver": {
+      "grain": 0.90000004,
+      "protein": 0.90000004,
+      "vegetable": 0.6,
+      "fruit": 0.3,
+      "sugar": 6.4,
+      "water": 0.9
+    },
+    "vinery:solaris_wine": {
+      "sugar": 2.4,
+      "water": 2.08
+    },
+    "create:bar_of_chocolate": {
+      "water": 1.1
+    },
+    "butchery:stomach": {
+      "grain": 0.3,
+      "protein": 0.3,
+      "vegetable": 0.2,
+      "fruit": 0.1,
+      "sugar": 5.2,
+      "water": 0.9
+    },
+    "cataclysm:blessed_amethyst_crab_meat": {
+      "protein": 3.6000001
+    },
+    "lendersdelight:raw_deepling_meat": {
+      "protein": 2.88
+    },
+    "compatdelight:bastion_glaze": {
+      "grain": 1.08,
+      "protein": 0.72,
+      "vegetable": 0.78000003,
+      "fruit": 0.36,
+      "sugar": 8.360001,
+      "water": 1.0
+    },
+    "compatdelight:petal_tea": {
+      "water": 1.6
+    },
+    "butchery:cooked_sausage": {
+      "protein": 9.900001
+    },
+    "compatdelight:ender_dragon_sandwich": {
+      "grain": 2.88,
+      "protein": 1.9200001,
+      "vegetable": 2.08,
+      "fruit": 0.96000004,
+      "sugar": 0.88000005,
+      "water": 1.0
+    },
+    "butchery:heart": {
+      "grain": 0.3,
+      "protein": 0.3,
+      "vegetable": 0.2,
+      "fruit": 0.1,
+      "sugar": 5.2,
+      "water": 0.9
+    },
+    "butchery:raw_silverfish_chunks": {
+      "grain": 0.6,
+      "protein": 0.6,
+      "vegetable": 0.4,
+      "fruit": 0.2,
+      "sugar": 6.4,
+      "water": 0.9
+    },
+    "farmersdelight:gleaming_salad": {
+      "vegetable": 29.4
+    },
+    "compatdelight:blue_bioshroom_dumplings": {
+      "grain": 3.2400002,
+      "protein": 2.16,
+      "vegetable": 2.34,
+      "fruit": 1.08,
+      "sugar": 0.99000007,
+      "water": 1.0
+    },
+    "minecraft:cod": {
+      "protein": 1.2
+    },
+    "compatdelight:cooked_sculk_vein": {
+      "grain": 0.72,
+      "protein": 0.48000002,
+      "vegetable": 0.52,
+      "fruit": 0.24000001,
+      "sugar": 7.92,
+      "water": 1.0
+    },
+    "butchery:cooked_pork_loin": {
+      "protein": 7.2000003
+    },
+    "butchery:raw_bee_back_meat": {
+      "protein": 1.8000001
+    },
+    "compatdelight:blue_bioshroom_stew": {
+      "water": 1.1
+    },
+    "lendersdelight:cooked_netherite_monstrosity_meat": {
+      "protein": 13.680001
+    },
+    "lendersdelight:ender_golem_meat": {
+      "protein": 2.88
+    },
+    "lendersdelight:crystallized_coral_pie_slice": {
+      "grain": 2.5200002,
+      "protein": 1.6800001,
+      "vegetable": 1.8199999,
+      "fruit": 0.84000003,
+      "sugar": 0.77,
+      "water": 1.0
+    },
+    "butchery:cooked_guardian_meat": {
+      "protein": 6.3
+    },
+    "aquaculturedelight:tuna_spaghetti": {
+      "protein": 9.360001
+    },
+    "lendersdelight:cindaria_hat": {
+      "grain": 2.5200002,
+      "protein": 1.6800001,
+      "vegetable": 1.8199999,
+      "fruit": 0.84000003,
+      "sugar": 0.77,
+      "water": 1.0
+    },
+    "alexsmobs:cooked_moose_ribs": {
+      "protein": 4.2000003
+    },
+    "compatdelight:weeping_vines_with_meatballs": {
+      "grain": 3.9600003,
+      "protein": 2.64,
+      "vegetable": 2.86,
+      "fruit": 1.32,
+      "sugar": 1.21,
+      "water": 1.0
+    },
+    "alexsmobs:cooked_lobster_tail": {
+      "protein": 3.6000001
+    },
+    "iceandfire:cooked_rice_with_lightning_dragon_meat": {
+      "protein": 2.4
+    },
+    "compatdelight:cactus_cookie": {
+      "grain": 2.76
+    },
+    "minecraft:chicken": {
+      "protein": 1.2
+    },
+    "farmersdelight:pumpkin_pie_slice": {
+      "vegetable": 6.2999997
+    },
+    "farmersdelight:chicken_soup": {
+      "protein": 9.36
+    },
+    "farmersdelight:tomato_sauce": {
+      "vegetable": 8.4
+    },
+    "minecraft:mushroom_stew": {
+      "vegetable": 9.0
+    },
+    "vinery:taiga_grapes_white": {
+      "grain": 0.6,
+      "protein": 0.4,
+      "vegetable": 0.4,
+      "fruit": 0.28,
+      "sugar": 5.76,
+      "water": 1.3
+    },
+    "butchery:cooked_creeper_leg": {
+      "grain": 2.4,
+      "protein": 2.4,
+      "vegetable": 1.6,
+      "fruit": 0.8,
+      "sugar": 0.8,
+      "water": 0.9
+    },
+    "vinery:chenet_wine": {
+      "sugar": 2.4,
+      "water": 2.08
+    },
+    "ars_nouveau:sourceberry_bush": {
+      "grain": 0.6,
+      "protein": 0.4,
+      "vegetable": 0.4,
+      "fruit": 0.2,
+      "sugar": 4.8,
+      "water": 1.0
+    },
+    "refurbished_furniture:glow_berry_jam_toast": {
+      "fruit": 8.160001,
+      "sugar": 1.8000001
+    },
+    "farmersdelight:squid_ink_pasta": {
+      "grain": 6.7200003
+    },
+    "butchery:raw_cave_spider_leg": {
+      "grain": 0.3,
+      "protein": 0.3,
+      "vegetable": 0.2,
+      "fruit": 0.1,
+      "sugar": 5.2,
+      "water": 0.9
+    },
+    "vinery:stal_wine": {
+      "sugar": 2.4,
+      "water": 2.08
+    },
+    "lendersdelight:coral_chunk_sandwich": {
+      "grain": 2.16,
+      "protein": 1.44,
+      "vegetable": 1.5600001,
+      "fruit": 0.72,
+      "sugar": 0.66,
+      "water": 1.0
+    },
+    "butchery:cooked_salmon": {
+      "protein": 7.2000003
+    },
+    "butchery:cooked_wolf_meat": {
+      "protein": 9.900001
+    },
+    "aquaculturedelight:halaszle": {
+      "grain": 3.9600003,
+      "protein": 2.64,
+      "vegetable": 2.86,
+      "fruit": 1.32,
+      "sugar": 1.21,
+      "water": 1.0
+    },
+    "compatdelight:bubble_coral_juice": {
+      "water": 1.6
+    },
+    "compatdelight:peas": {
+      "grain": 0.72,
+      "protein": 0.48000002,
+      "vegetable": 0.52,
+      "fruit": 0.24000001,
+      "sugar": 7.0400004,
+      "water": 1.0
+    },
+    "compatdelight:bastion_jem": {
+      "grain": 0.72,
+      "protein": 0.48000002,
+      "vegetable": 0.52,
+      "fruit": 0.24000001,
+      "sugar": 0.22000001,
+      "water": 1.0
+    },
+    "iceandfire:cooked_rice_with_ice_dragon_meat": {
+      "protein": 2.4
+    },
+    "butchery:raw_gold_axolotl_fillet": {
+      "protein": 1.8000001
+    },
+    "iceandfire:fire_dragon_flesh": {
+      "grain": 2.4,
+      "protein": 1.6,
+      "vegetable": 1.6,
+      "fruit": 0.8,
+      "sugar": 0.8,
+      "water": 1.0
+    },
+    "compatdelight:glow_berries_ice_cream": {
+      "fruit": 4.2240005,
+      "sugar": 1.32
+    },
+    "lendersdelight:lionfish_roll": {
+      "grain": 2.88
+    },
+    "aquaculture:bluegill": {
+      "grain": 0.3,
+      "protein": 0.2,
+      "vegetable": 0.2,
+      "fruit": 0.1,
+      "sugar": 4.4,
+      "water": 1.0
+    },
+    "compatdelight:bamboo_juice": {
+      "water": 1.6
+    },
+    "butchery:raw_beef_mince": {
+      "protein": 2.7
+    },
+    "alexsmobs:cooked_catfish": {
+      "grain": 1.5,
+      "protein": 1.0,
+      "vegetable": 1.0,
+      "fruit": 0.5,
+      "sugar": 0.5,
+      "water": 1.0
+    },
+    "compatdelight:source_berry_shake": {
+      "fruit": 11.424001,
+      "sugar": 2.3100002
+    },
+    "farmersdelight:barbecue_stick": {
+      "grain": 2.88,
+      "protein": 2.08,
+      "vegetable": 2.24,
+      "fruit": 1.04,
+      "sugar": 0.88000005,
+      "water": 1.0
+    },
+    "compatdelight:bombegranate_tea": {
+      "water": 1.6
+    },
+    "butchery:cooked_lungs": {
+      "grain": 2.1000001,
+      "protein": 2.1,
+      "vegetable": 1.4,
+      "fruit": 0.7,
+      "sugar": 0.7,
+      "water": 0.9
+    },
+    "farmersdelight:stuffed_potato": {
+      "vegetable": 21.0
+    },
+    "artifacts:everlasting_beef": {
+      "protein": 1.8000001
+    },
+    "compatdelight:ender_dragon_and_ender_egg": {
+      "grain": 36.000004,
+      "protein": 24.0,
+      "vegetable": 26.0,
+      "fruit": 12.0,
+      "sugar": 11.0,
+      "water": 1.0
+    },
+    "butchery:raw_cat_meat": {
+      "protein": 1.8000001
+    },
+    "butchery:cooked_orange_frog_leg": {
+      "fruit": 6.1600003,
+      "sugar": 2.1000001
+    },
+    "aquaculture:atlantic_herring": {
+      "grain": 0.3,
+      "protein": 0.2,
+      "vegetable": 0.2,
+      "fruit": 0.1,
+      "sugar": 4.4,
+      "water": 1.0
+    },
+    "butchery:cooked_ham": {
+      "protein": 7.2000003
+    },
+    "butchery:raw_sniffer_steak": {
+      "protein": 6.3
+    },
+    "butchery:raw_mule_steak": {
+      "protein": 3.6000001
+    },
+    "vinery:kelp_cider": {
+      "sugar": 2.4,
+      "water": 2.08
+    },
+    "compatdelight:cut_wilden_stalker_meat": {
+      "protein": 1.44
+    },
+    "butchery:raw_chuck_steak": {
+      "protein": 1.8000001
+    },
+    "vinery:mead": {
+      "sugar": 4.8,
+      "water": 1.3
+    },
+    "minecraft:potato": {
+      "vegetable": 1.5
+    },
+    "aquaculturedelight:poor_fisher_chowder": {
+      "water": 1.1
+    },
+    "compatdelight:dandelion_soup": {
+      "water": 1.1
+    },
+    "minecraft:poisonous_potato": {
+      "vegetable": 3.0
+    },
+    "compatdelight:frostaya_yougurt": {
+      "grain": 3.2400002,
+      "protein": 2.16,
+      "vegetable": 2.34,
+      "fruit": 1.08,
+      "sugar": 0.99000007,
+      "water": 1.0
+    },
+    "compatdelight:tube_coral_cookie": {
+      "grain": 2.76
+    },
+    "compatdelight:bamboo_cookie": {
+      "grain": 2.76
+    },
+    "farmersdelight:chicken_cuts": {
+      "protein": 0.78000003
+    },
+    "aquaculturedelight:crispy_fried_perch": {
+      "grain": 1.08,
+      "protein": 0.72,
+      "vegetable": 0.78000003,
+      "fruit": 0.36,
+      "sugar": 0.33,
+      "water": 1.0
+    },
+    "lendersdelight:void_popsicle": {
+      "grain": 3.2400002,
+      "protein": 2.16,
+      "vegetable": 2.34,
+      "fruit": 1.08,
+      "sugar": 0.99000007,
+      "water": 1.0
+    },
+    "lendersdelight:scylla_snake": {
+      "grain": 8.64,
+      "protein": 5.76,
+      "vegetable": 6.2400002,
+      "fruit": 2.88,
+      "sugar": 2.64,
+      "water": 1.0
+    },
+    "compatdelight:wither_rose_shake": {
+      "grain": 2.5200002,
+      "protein": 1.6800001,
+      "vegetable": 1.8199999,
+      "fruit": 0.84000003,
+      "sugar": 0.77,
+      "water": 1.0
+    },
+    "butchery:raw_lamb_shoulder": {
+      "protein": 1.8000001
+    },
+    "butchery:raw_cod_fillet": {
+      "protein": 2.7
+    },
+    "compatdelight:warden_roll": {
+      "grain": 3.8400002
+    },
+    "vinery:mellohi_wine": {
+      "sugar": 2.4,
+      "water": 2.08
+    },
+    "lendersdelight:sea_meat_salad": {
+      "protein": 10.8
+    },
+    "compatdelight:lumisene_ice_cream": {
+      "grain": 1.44,
+      "protein": 0.96000004,
+      "vegetable": 1.04,
+      "fruit": 0.48000002,
+      "sugar": 0.44000003,
+      "water": 1.0
+    },
+    "compatdelight:brain_coral_pasta": {
+      "grain": 2.76
+    },
+    "compatdelight:kelp_soap_roll": {
+      "grain": 3.8400002
+    },
+    "butchery:cooked_evoker_meat": {
+      "protein": 11.700001
+    },
+    "alexsdelight:kangaroo_pasta": {
+      "grain": 4.8
+    },
+    "alexsdelight:cooked_centipede_leg": {
+      "grain": 2.16,
+      "protein": 1.44,
+      "vegetable": 1.5600001,
+      "fruit": 0.72,
+      "sugar": 0.66,
+      "water": 1.0
+    },
+    "butchery:cooked_panda_steak": {
+      "protein": 12.6
+    },
+    "compatdelight:wilden_stalker_meat": {
+      "protein": 2.16
+    },
+    "butchery:rotten_lungs": {
+      "grain": 1.2,
+      "protein": 1.2,
+      "vegetable": 0.8,
+      "fruit": 0.4,
+      "sugar": 7.2,
+      "water": 0.9
+    },
+    "quark:crab_leg": {
+      "protein": 0.6
+    },
+    "compatdelight:coral_kelp_roll_slice": {
+      "grain": 1.9200001
+    },
+    "lendersdelight:fried_abyssal_egg": {
+      "grain": 5.4,
+      "protein": 3.6000001,
+      "vegetable": 3.8999999,
+      "fruit": 1.8000001,
+      "sugar": 1.6500001,
+      "water": 1.0
+    },
+    "butchery:lungs": {
+      "grain": 0.3,
+      "protein": 0.3,
+      "vegetable": 0.2,
+      "fruit": 0.1,
+      "sugar": 5.2,
+      "water": 0.9
+    },
+    "compatdelight:void_carrot": {
+      "vegetable": 9.75
+    },
+    "farmersdelight:mushroom_rice": {
+      "vegetable": 25.199999
+    },
+    "compatdelight:sweet_berries_ice_cream": {
+      "fruit": 4.2240005,
+      "sugar": 1.32
+    },
+    "vinery:glowing_wine": {
+      "sugar": 2.4,
+      "water": 2.08
+    },
+    "butchery:crackling": {
+      "grain": 1.5,
+      "protein": 1.5,
+      "vegetable": 1.0,
+      "fruit": 0.5,
+      "sugar": 0.5,
+      "water": 0.9
+    },
+    "butchery:raw_panda_steak": {
+      "protein": 4.5
+    },
+    "minecraft:porkchop": {
+      "grain": 0.90000004,
+      "protein": 0.6,
+      "vegetable": 0.6,
+      "fruit": 0.3,
+      "sugar": 7.6000004,
+      "water": 1.0
+    },
+    "alexsdelight:bison_mince": {
+      "grain": 0.72,
+      "protein": 0.48000002,
+      "vegetable": 0.52,
+      "fruit": 0.24000001,
+      "sugar": 6.16,
+      "water": 1.0
+    },
+    "compatdelight:bombegranate_jem": {
+      "grain": 0.72,
+      "protein": 0.48000002,
+      "vegetable": 0.52,
+      "fruit": 0.24000001,
+      "sugar": 0.22000001,
+      "water": 1.0
+    },
+    "compatdelight:bubble_coral_ice_cream": {
+      "grain": 1.44,
+      "protein": 0.96000004,
+      "vegetable": 1.04,
+      "fruit": 0.48000002,
+      "sugar": 0.44000003,
+      "water": 1.0
+    },
+    "vinery:villagers_fright": {
+      "sugar": 4.8,
+      "water": 1.3
+    },
+    "compatdelight:flower_salad1": {
+      "grain": 2.16,
+      "protein": 1.44,
+      "vegetable": 1.5600001,
+      "fruit": 0.72,
+      "sugar": 0.66,
+      "water": 1.0
+    },
+    "butchery:raw_pork_leg": {
+      "protein": 1.8000001
+    },
+    "farmersdelight:mixed_salad": {
+      "vegetable": 12.599999
+    },
+    "compatdelight:bamboo_pie": {
+      "grain": 2.88,
+      "protein": 1.9200001,
+      "vegetable": 2.08,
+      "fruit": 0.96000004,
+      "sugar": 0.88000005,
+      "water": 1.0
+    },
+    "compatdelight:tube_coral_wrap": {
+      "grain": 2.88,
+      "protein": 1.9200001,
+      "vegetable": 2.08,
+      "fruit": 0.96000004,
+      "sugar": 0.88000005,
+      "water": 1.0
+    },
+    "farmersdelight:onion_soup": {
+      "vegetable": 25.199999
+    },
+    "aquaculturedelight:crispy_nori_kelp": {
+      "grain": 1.44,
+      "protein": 0.96000004,
+      "vegetable": 1.04,
+      "fruit": 0.48000002,
+      "sugar": 0.44000003,
+      "water": 1.0
+    },
+    "minecraft:beetroot": {
+      "grain": 0.3,
+      "protein": 0.2,
+      "vegetable": 0.2,
+      "fruit": 0.1,
+      "sugar": 6.4,
+      "water": 1.0
+    },
+    "compatdelight:bamboo_tube": {
+      "grain": 1.44,
+      "protein": 0.96000004,
+      "vegetable": 1.04,
+      "fruit": 0.48000002,
+      "sugar": 0.44000003,
+      "water": 1.0
+    },
+    "aquaculturedelight:halibut_with_tartar_sauce": {
+      "protein": 10.080001
+    },
+    "butchery:cooked_lamb_rib": {
+      "protein": 7.2000003
+    },
+    "compatdelight:ender_dragon_steak": {
+      "protein": 10.8
+    },
+    "lendersdelight:ender_blood": {
+      "grain": 0.72,
+      "protein": 0.48000002,
+      "vegetable": 0.52,
+      "fruit": 0.24000001,
+      "sugar": 5.28,
+      "water": 1.0
+    },
+    "butchery:poison_sac": {
+      "grain": 0.90000004,
+      "protein": 0.90000004,
+      "vegetable": 0.6,
+      "fruit": 0.3,
+      "sugar": 7.6000004,
+      "water": 0.9
+    },
+    "alexsdelight:bison_burger": {
+      "grain": 4.32,
+      "protein": 2.88,
+      "vegetable": 3.1200001,
+      "fruit": 1.44,
+      "sugar": 1.32,
+      "water": 1.0
+    },
+    "compatdelight:horn_coral_cookie": {
+      "grain": 2.76
+    },
+    "alexsmobs:sopa_de_macaco": {
+      "grain": 1.5,
+      "protein": 1.0,
+      "vegetable": 1.0,
+      "fruit": 0.5,
+      "sugar": 0.5,
+      "water": 1.0
+    },
+    "compatdelight:source_berry_jelly": {
+      "fruit": 10.944,
+      "sugar": 1.9800001
+    },
+    "butchery:raw_ravager_meat": {
+      "protein": 6.3
+    },
+    "block_factorys_bosses:dragon_shank": {
+      "grain": 6.0,
+      "protein": 4.0,
+      "vegetable": 4.0,
+      "fruit": 2.0,
+      "sugar": 2.0,
+      "water": 1.0
+    },
+    "ars_nouveau:bombegranate_pod": {
+      "grain": 1.2,
+      "protein": 0.8,
+      "vegetable": 0.8,
+      "fruit": 0.4,
+      "sugar": 0.4,
+      "water": 1.0
+    },
+    "compatdelight:void_steak": {
+      "protein": 5.76
+    },
+    "butchery:raw_pillager_meat": {
+      "protein": 2.7
+    },
+    "farmersdelight:nether_salad": {
+      "vegetable": 10.5
+    },
+    "aquaculture:turtle_soup": {
+      "water": 1.1
+    },
+    "compatdelight:glow_lichen_jem": {
+      "grain": 0.72,
+      "protein": 0.48000002,
+      "vegetable": 0.52,
+      "fruit": 0.24000001,
+      "sugar": 0.22000001,
+      "water": 1.0
+    },
+    "alexsdelight:kangaroo_stew": {
+      "water": 1.1
+    },
+    "compatdelight:source_berry_glaze": {
+      "fruit": 3.1680002,
+      "sugar": 7.1500006
+    },
+    "compatdelight:weeping_vines_pasta": {
+      "grain": 2.4
+    },
+    "lendersdelight:symbiocto_tentacle": {
+      "grain": 0.72,
+      "protein": 0.48000002,
+      "vegetable": 0.52,
+      "fruit": 0.24000001,
+      "sugar": 0.22000001,
+      "water": 1.0
+    },
+    "aquaculture:rainbow_trout": {
+      "protein": 1.2
+    },
+    "compatdelight:brain_coral_ice_cream": {
+      "grain": 1.44,
+      "protein": 0.96000004,
+      "vegetable": 1.04,
+      "fruit": 0.48000002,
+      "sugar": 0.44000003,
+      "water": 1.0
+    },
+    "lendersdelight:leviathan": {
+      "grain": 5.0400004,
+      "protein": 3.3600001,
+      "vegetable": 3.6399999,
+      "fruit": 1.6800001,
+      "sugar": 1.54,
+      "water": 1.0
+    },
+    "aquaculturedelight:baked_pollock_with_carrots": {
+      "grain": 3.9600003,
+      "protein": 2.64,
+      "vegetable": 2.86,
+      "fruit": 1.32,
+      "sugar": 1.21,
+      "water": 1.0
+    },
+    "compatdelight:cut_garlic": {
+      "vegetable": 3.8999999
+    },
+    "butchery:bottle_of_blood": {
+      "grain": 1.8000001,
+      "protein": 1.8000001,
+      "vegetable": 1.2,
+      "fruit": 0.6,
+      "sugar": 0.6,
+      "water": 0.9
+    },
+    "butchery:eye": {
+      "grain": 0.6,
+      "protein": 0.6,
+      "vegetable": 0.4,
+      "fruit": 0.2,
+      "sugar": 6.4,
+      "water": 0.9
+    },
+    "butchery:cooked_leg_of_lamb": {
+      "protein": 6.3
+    },
+    "butchery:cooked_dragon_meat": {
+      "protein": 14.400001
+    },
+    "farmersdelight:bacon_sandwich": {
+      "protein": 7.7999997
+    },
+    "farmersdelight:shepherds_pie": {
+      "grain": 5.0400004,
+      "protein": 3.6399999,
+      "vegetable": 3.9199998,
+      "fruit": 1.8199999,
+      "sugar": 1.54,
+      "water": 1.0
+    },
+    "minecraft:chorus_fruit": {
+      "fruit": 3.5200002,
+      "sugar": 1.2
+    },
+    "vinery:apple_cider": {
+      "sugar": 2.4
+    },
+    "aquaculture:brown_shrooma": {
+      "grain": 0.3,
+      "protein": 0.2,
+      "vegetable": 0.2,
+      "fruit": 0.1,
+      "sugar": 4.4,
+      "water": 1.0
+    },
+    "compatdelight:sculk_cider": {
+      "water": 1.6
+    },
+    "compatdelight:glow_berries_jem": {
+      "fruit": 4.8,
+      "sugar": 0.66
+    },
+    "aquaculture:red_shrooma": {
+      "grain": 0.3,
+      "protein": 0.2,
+      "vegetable": 0.2,
+      "fruit": 0.1,
+      "sugar": 4.4,
+      "water": 1.0
+    },
+    "farmersdelight:dumplings": {
+      "grain": 2.88,
+      "protein": 2.08,
+      "vegetable": 2.24,
+      "fruit": 1.04,
+      "sugar": 0.88000005,
+      "water": 1.0
+    },
+    "alexsmobs:gongylidia": {
+      "grain": 0.90000004,
+      "protein": 0.6,
+      "vegetable": 0.6,
+      "fruit": 0.3,
+      "sugar": 0.3,
+      "water": 1.0
+    },
+    "vinery:apple_wine": {
+      "sugar": 2.4
+    },
+    "butchery:raw_bat_meat": {
+      "protein": 0.90000004
+    },
+    "compatdelight:cut_frostaya_pod": {
+      "grain": 0.72,
+      "protein": 0.48000002,
+      "vegetable": 0.52,
+      "fruit": 0.24000001,
+      "sugar": 5.28,
+      "water": 1.0
+    },
+    "aquaculture:carp": {
+      "grain": 0.6,
+      "protein": 0.4,
+      "vegetable": 0.4,
+      "fruit": 0.2,
+      "sugar": 4.8,
+      "water": 1.0
+    },
+    "cataclysm:amethyst_crab_meat": {
+      "protein": 3.6000001
+    },
+    "butchery:raw_blood_sausage": {
+      "protein": 5.4
+    },
+    "butchery:cooked_spider_leg": {
+      "grain": 1.2,
+      "protein": 1.2,
+      "vegetable": 0.8,
+      "fruit": 0.4,
+      "sugar": 0.4,
+      "water": 0.9
+    },
+    "compatdelight:source_berry_sandwich": {
+      "fruit": 16.128,
+      "sugar": 2.64
+    },
+    "butchery:raw_evoker_meat": {
+      "protein": 2.7
+    },
+    "quark:ancient_fruit": {
+      "fruit": 3.5200002,
+      "sugar": 1.32
+    },
+    "butchery:enderman_liver": {
+      "grain": 1.8000001,
+      "protein": 1.8000001,
+      "vegetable": 1.2,
+      "fruit": 0.6,
+      "sugar": 0.6,
+      "water": 0.9
+    },
+    "lendersdelight:void_custard": {
+      "grain": 2.88,
+      "protein": 1.9200001,
+      "vegetable": 2.08,
+      "fruit": 0.96000004,
+      "sugar": 0.88000005,
+      "water": 1.0
+    },
+    "create:sweet_roll": {
+      "grain": 2.4
+    },
+    "aquaculturedelight:buckling": {
+      "grain": 2.88,
+      "protein": 1.9200001,
+      "vegetable": 2.08,
+      "fruit": 0.96000004,
+      "sugar": 0.88000005,
+      "water": 1.0
+    },
+    "farmersdelight:raw_pasta": {
+      "grain": 2.76
+    },
+    "regions_unexplored:meadow_sage": {
+      "grain": 0.6,
+      "protein": 0.4,
+      "vegetable": 0.4,
+      "fruit": 0.2,
+      "sugar": 5.2,
+      "water": 1.0
+    },
+    "iceandfire:ambrosia": {
+      "grain": 1.5,
+      "protein": 1.0,
+      "vegetable": 1.0,
+      "fruit": 0.5,
+      "sugar": 0.5,
+      "water": 1.0
+    },
+    "lendersdelight:urchinkin_pumpkin": {
+      "vegetable": 23.4
+    },
+    "compatdelight:hamburger_of_warden": {
+      "grain": 7.2000003,
+      "protein": 4.8,
+      "vegetable": 5.2,
+      "fruit": 2.4,
+      "sugar": 2.2,
+      "water": 1.0
+    },
+    "farmersdelight:vegetable_noodles": {
+      "grain": 5.0400004,
+      "protein": 3.6399999,
+      "vegetable": 3.9199998,
+      "fruit": 1.8199999,
+      "sugar": 1.54,
+      "water": 1.0
+    },
+    "butchery:cooked_dolphin_meat": {
+      "protein": 8.1
+    },
+    "butchery:cooked_cat_meat": {
+      "protein": 6.3
+    },
+    "vinery:taiga_grapes_red": {
+      "grain": 0.6,
+      "protein": 0.4,
+      "vegetable": 0.4,
+      "fruit": 0.28,
+      "sugar": 5.76,
+      "water": 1.3
+    },
+    "butchery:cooked_elder_guardian_meat": {
+      "protein": 16.2
+    },
+    "butchery:kidney": {
+      "grain": 0.3,
+      "protein": 0.3,
+      "vegetable": 0.2,
+      "fruit": 0.1,
+      "sugar": 5.2,
+      "water": 0.9
+    },
+    "compatdelight:dragon_egg_soup": {
+      "water": 1.1
+    },
+    "compatdelight:crushed_pepper": {
+      "vegetable": 1.9499999
+    },
+    "butchery:cooked_pillager_meat": {
+      "protein": 11.700001
+    },
+    "compatdelight:source_berry_yougurt": {
+      "fruit": 14.688002,
+      "sugar": 2.97
+    },
+    "butchery:cooked_cave_spider_leg": {
+      "grain": 1.2,
+      "protein": 1.2,
+      "vegetable": 0.8,
+      "fruit": 0.4,
+      "sugar": 0.4,
+      "water": 0.9
+    },
+    "lendersdelight:maledictus_heart_stew": {
+      "water": 1.1
+    },
+    "compatdelight:dark_chocolate_bar": {
+      "water": 1.1
+    },
+    "farmersdelight:vegetable_soup": {
+      "water": 1.1
+    },
+    "farmersdelight:noodle_soup": {
+      "grain": 6.7200003
+    },
+    "compatdelight:source_berry_jem": {
+      "fruit": 4.8,
+      "sugar": 0.66
+    },
+    "compatdelight:sweet_berries_lolipop": {
+      "fruit": 16.896002,
+      "sugar": 2.64
+    },
+    "alexsdelight:raw_bison": {
+      "grain": 1.44,
+      "protein": 0.96000004,
+      "vegetable": 1.04,
+      "fruit": 0.48000002,
+      "sugar": 0.44000003,
+      "water": 1.0
+    },
+    "compatdelight:warden_stew": {
+      "water": 1.1
+    },
+    "butchery:cooked_blue_axolotl_fillet": {
+      "protein": 8.1
+    },
+    "lendersdelight:maledictus_heart_slice": {
+      "grain": 5.0400004,
+      "protein": 3.3600001,
+      "vegetable": 3.6399999,
+      "fruit": 1.6800001,
+      "sugar": 1.54,
+      "water": 1.0
+    },
+    "butchery:cooked_vindicator_meat": {
+      "protein": 11.700001
+    },
+    "iceandfire:lightning_dragon_flesh": {
+      "grain": 2.4,
+      "protein": 1.6,
+      "vegetable": 1.6,
+      "fruit": 0.8,
+      "sugar": 0.8,
+      "water": 1.0
+    },
+    "lendersdelight:scylla_snake_glazed_cindaria_hat": {
+      "grain": 12.240002,
+      "protein": 8.160001,
+      "vegetable": 8.84,
+      "fruit": 4.0800004,
+      "sugar": 3.7400002,
+      "water": 1.0
+    },
+    "lendersdelight:coral_and_void": {
+      "grain": 3.2400002,
+      "protein": 2.16,
+      "vegetable": 2.34,
+      "fruit": 1.08,
+      "sugar": 0.99000007,
+      "water": 1.0
+    },
+    "compatdelight:bamboo_pasta": {
+      "grain": 2.76
+    },
+    "iceandfire:ice_dragon_flesh": {
+      "grain": 2.4,
+      "protein": 1.6,
+      "vegetable": 1.6,
+      "fruit": 0.8,
+      "sugar": 0.8,
+      "water": 1.0
+    },
+    "butchery:raw_cyan_axolotl_fillet": {
+      "protein": 1.8000001
+    },
+    "lendersdelight:netherite_monstrosity_meat": {
+      "protein": 4.32
+    },
+    "butchery:cooked_enderman_kidney": {
+      "grain": 2.7,
+      "protein": 2.7,
+      "vegetable": 1.8000001,
+      "fruit": 0.90000004,
+      "sugar": 0.90000004,
+      "water": 0.9
+    },
+    "aquaculturedelight:catfish_barbecue": {
+      "grain": 2.16,
+      "protein": 1.44,
+      "vegetable": 1.5600001,
+      "fruit": 0.72,
+      "sugar": 0.66,
+      "water": 1.0
+    },
+    "butchery:enderman_lungs": {
+      "grain": 2.4,
+      "protein": 2.4,
+      "vegetable": 1.6,
+      "fruit": 0.8,
+      "sugar": 0.8,
+      "water": 0.9
+    },
+    "aquaculturedelight:large_fish_with_vegetables": {
+      "protein": 9.360001
+    },
+    "farmersdelight:stuffed_pumpkin": {
+      "vegetable": 29.4
+    },
+    "butchery:cooked_strider_meat": {
+      "protein": 9.0
+    },
+    "butchery:cooked_donkey_steak": {
+      "protein": 9.0
+    },
+    "farmersdelight:dog_food": {
+      "grain": 1.44,
+      "protein": 1.04,
+      "vegetable": 1.12,
+      "fruit": 0.52,
+      "sugar": 7.92,
+      "water": 1.0
+    },
+    "butchery:raw_rump_steak": {
+      "protein": 3.6000001
+    },
+    "compatdelight:cobweb_pasta": {
+      "grain": 2.76
+    },
+    "butchery:raw_fox_meat": {
+      "protein": 1.8000001
+    },
+    "vinery:savanna_grapes_white": {
+      "grain": 0.6,
+      "protein": 0.4,
+      "vegetable": 0.4,
+      "fruit": 0.28,
+      "sugar": 5.76,
+      "water": 1.3
+    },
+    "butchery:cooked_villager_steak": {
+      "protein": 8.1
+    },
+    "aquaculturedelight:turtle_meat_dish": {
+      "protein": 9.360001
+    },
+    "compatdelight:pepper_item": {
+      "vegetable": 3.8999999
+    },
+    "farmersdelight:cooked_cod_slice": {
+      "protein": 2.34
+    },
+    "butchery:raw_hoglin_chunk": {
+      "grain": 1.2,
+      "protein": 1.2,
+      "vegetable": 0.8,
+      "fruit": 0.4,
+      "sugar": 0.4,
+      "water": 0.9
+    },
+    "farmersdelight:cod_roll": {
+      "protein": 5.46
+    },
+    "farmersdelight:cooked_bacon": {
+      "protein": 3.1200001
+    },
+    "compatdelight:cut_bombegranate_pod": {
+      "grain": 0.72,
+      "protein": 0.48000002,
+      "vegetable": 0.52,
+      "fruit": 0.24000001,
+      "sugar": 5.28,
+      "water": 1.0
+    },
+    "aquaculturedelight:small_turtle_meat": {
+      "protein": 0.72
+    },
+    "butchery:raw_chicken_wing": {
+      "protein": 1.8000001
+    },
+    "compatdelight:coral_kelp_roll": {
+      "grain": 3.8400002
+    },
+    "butchery:raw_warden_meat": {
+      "protein": 9.0
+    },
+    "refurbished_furniture:meatlovers_pizza_slice": {
+      "grain": 2.4,
+      "protein": 1.6,
+      "vegetable": 1.6,
+      "fruit": 0.8,
+      "sugar": 0.8,
+      "water": 1.0
+    },
+    "compatdelight:sculk_jem": {
+      "grain": 0.72,
+      "protein": 0.48000002,
+      "vegetable": 0.52,
+      "fruit": 0.24000001,
+      "sugar": 0.22000001,
+      "water": 1.0
+    },
+    "compatdelight:cooked_dragon_egg": {
+      "grain": 14.400001,
+      "protein": 9.6,
+      "vegetable": 10.4,
+      "fruit": 4.8,
+      "sugar": 4.4,
+      "water": 1.0
+    },
+    "farmersdelight:fried_rice": {
+      "grain": 5.76
+    },
+    "compatdelight:poppy_pie": {
+      "grain": 2.88,
+      "protein": 1.9200001,
+      "vegetable": 2.08,
+      "fruit": 0.96000004,
+      "sugar": 0.88000005,
+      "water": 1.0
+    },
+    "compatdelight:honeyed_bombegranate": {
+      "grain": 2.88,
+      "protein": 1.9200001,
+      "vegetable": 2.08,
+      "fruit": 0.96000004,
+      "sugar": 0.88000005,
+      "water": 1.0
+    },
+    "butchery:rawhumanmeat": {
+      "grain": 1.2,
+      "protein": 1.2,
+      "vegetable": 0.8,
+      "fruit": 0.4,
+      "sugar": 0.4,
+      "water": 0.9
+    },
+    "butchery:raw_ham": {
+      "protein": 1.8000001
+    },
+    "alexsdelight:cooked_bison": {
+      "grain": 3.6000001,
+      "protein": 2.4,
+      "vegetable": 2.6,
+      "fruit": 1.2,
+      "sugar": 1.1,
+      "water": 1.0
+    },
+    "lendersdelight:berserker": {
+      "grain": 1.8000001,
+      "protein": 1.2,
+      "vegetable": 1.3,
+      "fruit": 0.6,
+      "sugar": 0.55,
+      "water": 1.0
+    },
+    "butchery:cooked_mule_steak": {
+      "protein": 9.0
+    },
+    "compatdelight:void_bread": {
+      "grain": 2.4
+    },
+    "compatdelight:void_dog_food": {
+      "grain": 1.8000001,
+      "protein": 1.2,
+      "vegetable": 1.3,
+      "fruit": 0.6,
+      "sugar": 0.55,
+      "water": 1.0
+    },
+    "alexsmobs:kangaroo_burger": {
+      "grain": 3.6000001,
+      "protein": 2.4,
+      "vegetable": 2.4,
+      "fruit": 1.2,
+      "sugar": 1.2,
+      "water": 1.0
+    },
+    "compatdelight:green_bioshroom_stew": {
+      "water": 1.1
+    },
+    "butchery:cooked_bee_back_meat": {
+      "protein": 5.4
+    },
+    "compatdelight:kelp_pie": {
+      "grain": 2.88,
+      "protein": 1.9200001,
+      "vegetable": 2.08,
+      "fruit": 0.96000004,
+      "sugar": 0.88000005,
+      "water": 1.0
+    },
+    "compatdelight:chocolate_caramel": {
+      "water": 1.1
+    },
+    "supplementaries:soap": {
+      "sugar": 4.0,
+      "water": 1.0
+    },
+    "minecraft:rotten_flesh": {
+      "grain": 1.2,
+      "protein": 0.8,
+      "vegetable": 0.8,
+      "fruit": 0.4,
+      "sugar": 5.6,
+      "water": 1.0
+    },
+    "vinery:creepers_crush": {
+      "sugar": 4.8,
+      "water": 1.3
+    },
+    "lendersdelight:raw_brute_deepling_meat": {
+      "protein": 2.88
+    },
+    "butchery:raw_pork_shoulder": {
+      "protein": 1.8000001
+    },
+    "vinery:eiswein": {
+      "sugar": 4.8,
+      "water": 1.3
+    },
+    "butchery:raw_lamb_mince": {
+      "protein": 2.7
+    },
+    "create:honeyed_apple": {
+      "fruit": 13.44,
+      "sugar": 2.4
+    },
+    "lendersdelight:amethyst_crab_sandwich": {
+      "protein": 6.4800005
+    },
+    "lendersdelight:improved_dog_food": {
+      "grain": 2.5200002,
+      "protein": 1.6800001,
+      "vegetable": 1.8199999,
+      "fruit": 0.84000003,
+      "sugar": 0.77,
+      "water": 1.0
+    },
+    "iceandfire:pixie_dust_milky_tea": {
+      "water": 1.1
+    },
+    "butchery:cooked_shulker_meat": {
+      "protein": 9.0
+    },
+    "compatdelight:candy_jem": {
+      "grain": 0.72,
+      "protein": 0.48000002,
+      "vegetable": 0.52,
+      "fruit": 0.24000001,
+      "sugar": 0.22000001,
+      "water": 1.0
+    },
+    "butchery:cooked_camel_meat": {
+      "protein": 7.2000003
+    },
+    "farmersdelight:bacon": {
+      "protein": 1.5600001
+    },
+    "butchery:raw_horse_meat": {
+      "protein": 2.7
+    },
+    "butchery:cooked_horse_meat": {
+      "protein": 9.900001
+    },
+    "butchery:raw_camel_meat": {
+      "protein": 1.8000001
+    },
+    "quark:cooked_crab_leg": {
+      "protein": 4.8
+    },
+    "butchery:enderman_kidney": {
+      "grain": 1.8000001,
+      "protein": 1.8000001,
+      "vegetable": 1.2,
+      "fruit": 0.6,
+      "sugar": 0.6,
+      "water": 0.9
+    },
+    "butchery:cooked_lamb_shoulder": {
+      "protein": 6.3
+    },
+    "compatdelight:void_shake": {
+      "grain": 2.5200002,
+      "protein": 1.6800001,
+      "vegetable": 1.8199999,
+      "fruit": 0.84000003,
+      "sugar": 0.77,
+      "water": 1.0
+    },
+    "alexsmobs:raw_catfish": {
+      "grain": 0.6,
+      "protein": 0.4,
+      "vegetable": 0.4,
+      "fruit": 0.2,
+      "sugar": 6.4,
+      "water": 1.0
+    },
+    "butchery:bottle_of_infected_blood": {
+      "grain": 1.8000001,
+      "protein": 1.8000001,
+      "vegetable": 1.2,
+      "fruit": 0.6,
+      "sugar": 0.6,
+      "water": 0.9
+    },
+    "farmersdelight:mutton_chops": {
+      "protein": 0.78000003
+    },
+    "compatdelight:warden_meat": {
+      "protein": 11.52
+    },
+    "compatdelight:yellow_bioshroom_stew": {
+      "water": 1.1
+    },
+    "alexsdelight:raw_bunfungus": {
+      "grain": 1.44,
+      "protein": 0.96000004,
+      "vegetable": 1.04,
+      "fruit": 0.48000002,
+      "sugar": 0.44000003,
+      "water": 1.0
+    },
+    "compatdelight:cooked_mossy_shard": {
+      "grain": 1.08,
+      "protein": 0.72,
+      "vegetable": 0.78000003,
+      "fruit": 0.36,
+      "sugar": 8.360001,
+      "water": 1.0
+    },
+    "farmersdelight:beef_patty": {
+      "protein": 3.1200001
+    },
+    "compatdelight:honeyed_source_berry": {
+      "fruit": 17.664001,
+      "sugar": 2.64
+    },
+    "compatdelight:tube_coral_pie": {
+      "grain": 2.88,
+      "protein": 1.9200001,
+      "vegetable": 2.08,
+      "fruit": 0.96000004,
+      "sugar": 0.88000005,
+      "water": 1.0
+    },
+    "compatdelight:mendosteen_shake": {
+      "grain": 2.5200002,
+      "protein": 1.6800001,
+      "vegetable": 1.8199999,
+      "fruit": 0.84000003,
+      "sugar": 0.77,
+      "water": 1.0
+    },
+    "lendersdelight:leviathan_and_abyssal_egg": {
+      "grain": 7.9200006,
+      "protein": 5.28,
+      "vegetable": 5.72,
+      "fruit": 2.64,
+      "sugar": 2.42,
+      "water": 1.0
+    },
+    "minecraft:dried_kelp": {
+      "grain": 0.3,
+      "protein": 0.2,
+      "vegetable": 0.2,
+      "fruit": 0.1,
+      "sugar": 5.2,
+      "water": 1.0
+    },
+    "farmersdelight:pasta_with_meatballs": {
+      "grain": 5.76
+    },
+    "compatdelight:exotic_fruit_salad": {
+      "fruit": 9.792002,
+      "sugar": 1.9800001
+    },
+    "minecraft:beetroot_soup": {
+      "water": 1.1
+    },
+    "compatdelight:sea_pickle_shake": {
+      "grain": 2.5200002,
+      "protein": 1.6800001,
+      "vegetable": 1.8199999,
+      "fruit": 0.84000003,
+      "sugar": 0.77,
+      "water": 1.0
+    },
+    "alexsdelight:gongylidia_bruschetta": {
+      "grain": 3.6000001,
+      "protein": 2.4,
+      "vegetable": 2.6,
+      "fruit": 1.2,
+      "sugar": 1.1,
+      "water": 1.0
+    },
+    "minecraft:cooked_cod": {
+      "protein": 3.0
+    },
+    "compatdelight:pink_bioshroom_stew": {
+      "water": 1.1
+    },
+    "butchery:tentacles": {
+      "grain": 0.3,
+      "protein": 0.3,
+      "vegetable": 0.2,
+      "fruit": 0.1,
+      "sugar": 5.2,
+      "water": 0.9
+    },
+    "aquaculture:atlantic_cod": {
+      "protein": 1.8000001
+    },
+    "refurbished_furniture:cheese_toastie": {
+      "grain": 1.8000001,
+      "protein": 1.2,
+      "vegetable": 1.2,
+      "fruit": 0.6,
+      "sugar": 0.6,
+      "water": 1.0
+    },
+    "compatdelight:vegetable_salad": {
+      "vegetable": 11.7
+    },
+    "minecraft:beef": {
+      "protein": 1.8000001
+    },
+    "aquaculture:fish_fillet_raw": {
+      "protein": 0.6
+    },
+    "compatdelight:glow_berries_stew": {
+      "fruit": 14.688002,
+      "sugar": 2.97
+    },
+    "farmersdelight:baked_cod_stew": {
+      "protein": 10.92
+    },
+    "minecraft:salmon": {
+      "protein": 1.2
+    },
+    "butchery:cooked_pork_shoulder": {
+      "protein": 7.2000003
+    },
+    "aquaculture:piranha": {
+      "grain": 0.3,
+      "protein": 0.2,
+      "vegetable": 0.2,
+      "fruit": 0.1,
+      "sugar": 4.4,
+      "water": 1.0
+    },
+    "butchery:bird_foot": {
+      "grain": 0.6,
+      "protein": 0.6,
+      "vegetable": 0.4,
+      "fruit": 0.2,
+      "sugar": 6.4,
+      "water": 0.9
+    },
+    "compatdelight:candy_cookie": {
+      "grain": 2.76
+    },
+    "lendersdelight:honey_glazed_horn": {
+      "grain": 12.240002,
+      "protein": 8.160001,
+      "vegetable": 8.84,
+      "fruit": 4.0800004,
+      "sugar": 3.7400002,
+      "water": 1.0
+    },
+    "farmersdelight:apple_pie_slice": {
+      "fruit": 3.432,
+      "sugar": 7.1500006
+    },
+    "compatdelight:pink_bioshroom_dumplings": {
+      "grain": 3.2400002,
+      "protein": 2.16,
+      "vegetable": 2.34,
+      "fruit": 1.08,
+      "sugar": 0.99000007,
+      "water": 1.0
+    },
+    "farmersdelight:tomato": {
+      "vegetable": 2.1
+    },
+    "compatdelight:cornflower_cookie": {
+      "grain": 2.76
+    },
+    "compatdelight:chocolate_filled_marshmallow": {
+      "water": 1.1
+    },
+    "compatdelight:cobweb_pasta_with_dripstone": {
+      "grain": 4.8
+    },
+    "lendersdelight:ender_guardian_crystal": {
+      "grain": 7.9200006,
+      "protein": 5.28,
+      "vegetable": 5.72,
+      "fruit": 2.64,
+      "sugar": 2.42,
+      "water": 1.0
+    },
+    "lendersdelight:red_coral_stew": {
+      "water": 1.1
+    },
+    "aquaculture:capitaine": {
+      "grain": 0.90000004,
+      "protein": 0.6,
+      "vegetable": 0.6,
+      "fruit": 0.3,
+      "sugar": 6.4,
+      "water": 1.0
+    },
+    "lendersdelight:koboleton_pumpkin": {
+      "vegetable": 25.349998
+    },
+    "butchery:raw_gray_frog_leg": {
+      "grain": 0.90000004,
+      "protein": 0.90000004,
+      "vegetable": 0.6,
+      "fruit": 0.3,
+      "sugar": 7.6000004,
+      "water": 0.9
+    },
+    "compatdelight:source_berry_ice_cream": {
+      "fruit": 4.2240005,
+      "sugar": 1.32
+    },
+    "minecraft:baked_potato": {
+      "vegetable": 7.5
+    },
+    "compatdelight:eggplant": {
+      "vegetable": 3.8999999
+    },
+    "minecraft:cooked_salmon": {
+      "protein": 3.6000001
+    },
+    "alexsmobs:boiled_emu_egg": {
+      "grain": 1.2,
+      "protein": 0.8,
+      "vegetable": 0.8,
+      "fruit": 0.4,
+      "sugar": 0.4,
+      "water": 1.0
+    },
+    "lendersdelight:cooked_coral_golem_meat": {
+      "protein": 5.0400004
+    },
+    "compatdelight:magic_punch": {
+      "water": 1.1
+    },
+    "butchery:raw_polar_bear_meat": {
+      "protein": 4.5
+    },
+    "farmersdelight:roasted_mutton_chops": {
+      "protein": 10.92
+    },
+    "farmersdelight:hamburger": {
+      "grain": 3.9600003,
+      "protein": 2.86,
+      "vegetable": 3.08,
+      "fruit": 1.43,
+      "sugar": 1.21,
+      "water": 1.0
+    },
+    "farmersdelight:onion": {
+      "vegetable": 4.2
+    },
+    "compatdelight:cooked_bamboo": {
+      "grain": 0.72,
+      "protein": 0.48000002,
+      "vegetable": 0.52,
+      "fruit": 0.24000001,
+      "sugar": 7.0400004,
+      "water": 1.0
+    },
+    "aquaculturedelight:fried_perch_roll": {
+      "grain": 3.3600001
+    },
+    "butchery:raw_llama_steak": {
+      "protein": 3.6000001
+    },
+    "butchery:cooked_ribeye_steak": {
+      "protein": 7.2000003
+    },
+    "farmersdelight:honey_cookie": {
+      "grain": 2.76
+    },
+    "vinery:jellie_wine": {
+      "sugar": 2.4,
+      "water": 2.08
+    },
+    "refurbished_furniture:bread_slice": {
+      "grain": 1.9
+    },
+    "lendersdelight:hippocamtus": {
+      "grain": 1.8000001,
+      "protein": 1.2,
+      "vegetable": 1.3,
+      "fruit": 0.6,
+      "sugar": 0.55,
+      "water": 1.0
+    },
+    "farmersdelight:bacon_and_eggs": {
+      "protein": 7.7999997
+    },
+    "alexsdelight:cooked_bunfungus_drumstick": {
+      "protein": 2.16
+    },
+    "alexsmobs:banana": {
+      "fruit": 3.5200002,
+      "sugar": 1.2
+    },
+    "butchery:cooked_endermite_chunks": {
+      "grain": 2.4,
+      "protein": 2.4,
+      "vegetable": 1.6,
+      "fruit": 0.8,
+      "sugar": 0.8,
+      "water": 0.9
+    },
+    "aquaculture:pink_salmon": {
+      "protein": 1.2
+    },
+    "compatdelight:honey_cookie": {
+      "grain": 2.76
+    },
+    "aquaculture:pollock": {
+      "grain": 0.6,
+      "protein": 0.4,
+      "vegetable": 0.4,
+      "fruit": 0.2,
+      "sugar": 4.8,
+      "water": 1.0
+    },
+    "alexsdelight:cooked_catfish_slice": {
+      "grain": 1.08,
+      "protein": 0.72,
+      "vegetable": 0.78000003,
+      "fruit": 0.36,
+      "sugar": 8.360001,
+      "water": 1.0
+    },
+    "ars_nouveau:frostaya_pod": {
+      "grain": 1.2,
+      "protein": 0.8,
+      "vegetable": 0.8,
+      "fruit": 0.4,
+      "sugar": 0.4,
+      "water": 1.0
+    },
+    "vinery:jungle_grapes_red": {
+      "grain": 1.5,
+      "protein": 1.0,
+      "vegetable": 1.0,
+      "fruit": 0.7,
+      "sugar": 0.6,
+      "water": 1.3
+    },
+    "vinery:white_grape": {
+      "fruit": 1.568,
+      "sugar": 4.0800004
+    },
+    "minecraft:glow_berries": {
+      "fruit": 1.12,
+      "sugar": 3.4
+    },
+    "minecraft:bread": {
+      "grain": 2.0
+    },
+    "compatdelight:frostaya_tea": {
+      "water": 1.6
+    },
+    "minecraft:mutton": {
+      "protein": 1.2
+    },
+    "minecraft:ominous_bottle": {
+      "grain": 0.3,
+      "protein": 0.2,
+      "vegetable": 0.2,
+      "fruit": 0.1,
+      "sugar": 4.4,
+      "water": 1.0
+    },
+    "compatdelight:duskmelon_popsicle": {
+      "grain": 1.44,
+      "protein": 0.96000004,
+      "vegetable": 1.04,
+      "fruit": 0.48000002,
+      "sugar": 0.44000003,
+      "water": 1.0
+    },
+    "compatdelight:glow_berries_cookie": {
+      "fruit": 1.3440001,
+      "sugar": 0.66
+    },
+    "vinery:red_grape": {
+      "fruit": 1.568,
+      "sugar": 4.0800004
+    },
+    "refurbished_furniture:vegetable_pizza_slice": {
+      "grain": 1.5,
+      "protein": 1.0,
+      "vegetable": 1.0,
+      "fruit": 0.5,
+      "sugar": 0.5,
+      "water": 1.0
+    },
+    "butchery:raw_strider_meat": {
+      "protein": 5.4
+    },
+    "compatdelight:cooked_wilden_guardian_steak": {
+      "protein": 5.0400004
+    },
+    "vinery:rotten_cherry": {
+      "fruit": 2.4640002,
+      "sugar": 6.0
+    },
+    "vinery:red_wine": {
+      "sugar": 2.4,
+      "water": 2.08
+    },
+    "vinery:chorus_wine": {
+      "sugar": 2.4,
+      "water": 2.08
+    },
+    "compatdelight:lumisene_stew": {
+      "water": 1.1
+    },
+    "vinery:magnetic_wine": {
+      "sugar": 2.4,
+      "water": 2.08
+    },
+    "aquaculture:muskellunge": {
+      "grain": 0.6,
+      "protein": 0.4,
+      "vegetable": 0.4,
+      "fruit": 0.2,
+      "sugar": 4.8,
+      "water": 1.0
+    },
+    "farmersdelight:cooked_rice": {
+      "grain": 2.88
+    },
+    "butchery:raw_pork_loin": {
+      "protein": 2.7
+    },
+    "artifacts:eternal_steak": {
+      "protein": 4.8
+    },
+    "vinery:jo_special_mixture": {
+      "sugar": 4.8,
+      "water": 1.3
+    },
+    "compatdelight:mendosteen_tea": {
+      "water": 1.6
+    },
+    "butchery:cooked_rump_steak": {
+      "protein": 8.1
+    },
+    "butchery:raw_witch_meat": {
+      "protein": 5.4
+    },
+    "minecraft:melon_slice": {
+      "fruit": 1.7600001,
+      "sugar": 5.0
+    },
+    "butchery:cooked_enderman_intestines": {
+      "grain": 1.8000001,
+      "protein": 1.8000001,
+      "vegetable": 1.2,
+      "fruit": 0.6,
+      "sugar": 0.6,
+      "water": 0.9
+    },
+    "compatdelight:honey_bar": {
+      "grain": 3.2400002,
+      "protein": 2.16,
+      "vegetable": 2.34,
+      "fruit": 1.08,
+      "sugar": 0.99000007,
+      "water": 1.0
+    },
+    "alexsmobs:moose_ribs": {
+      "protein": 1.8000001
+    },
+    "butchery:raw_green_frog_leg": {
+      "grain": 0.90000004,
+      "protein": 0.90000004,
+      "vegetable": 0.6,
+      "fruit": 0.3,
+      "sugar": 7.6000004,
+      "water": 0.9
+    },
+    "compatdelight:cherry_ice_cream": {
+      "fruit": 4.2240005,
+      "sugar": 1.32
+    },
+    "compatdelight:honey_bread": {
+      "grain": 2.4
+    },
+    "iceandfire:cooked_rice_with_fire_dragon_meat": {
+      "protein": 2.4
+    },
+    "compatdelight:wilden_guardian_steak": {
+      "protein": 2.16
+    },
+    "compatdelight:cucumber": {
+      "vegetable": 3.8999999
+    },
+    "alexsdelight:cooked_loose_moose_rib": {
+      "grain": 1.44,
+      "protein": 0.96000004,
+      "vegetable": 1.04,
+      "fruit": 0.48000002,
+      "sugar": 0.44000003,
+      "water": 1.0
+    },
+    "compatdelight:cherry_juice": {
+      "fruit": 11.424001,
+      "sugar": 2.3100002
+    },
+    "compatdelight:roots_cookie": {
+      "grain": 2.76
+    },
+    "butchery:cooked_intestines": {
+      "grain": 1.2,
+      "protein": 1.2,
+      "vegetable": 0.8,
+      "fruit": 0.4,
+      "sugar": 0.4,
+      "water": 0.9
+    },
+    "alexsdelight:maggot_salad": {
+      "vegetable": 11.7
+    },
+    "compatdelight:soap_cookie": {
+      "grain": 2.76
+    },
+    "butchery:raw_brown_axolotl_fillet": {
+      "protein": 1.8000001
+    },
+    "butchery:raw_turtle_meat": {
+      "protein": 2.7
+    },
+    "compatdelight:cut_peas": {
+      "grain": 0.72,
+      "protein": 0.48000002,
+      "vegetable": 0.52,
+      "fruit": 0.24000001,
+      "sugar": 5.28,
+      "water": 1.0
+    },
+    "minecraft:cooked_chicken": {
+      "protein": 3.6000001
+    },
+    "butchery:raw_wolf_meat": {
+      "protein": 4.5
+    },
+    "compatdelight:cut_cooked_wilden_stalker_meat": {
+      "protein": 2.88
+    },
+    "farmersdelight:mutton_wrap": {
+      "protein": 7.7999997
+    },
+    "refurbished_furniture:toast": {
+      "grain": 0.3,
+      "protein": 0.2,
+      "vegetable": 0.2,
+      "fruit": 0.1,
+      "sugar": 5.2,
+      "water": 1.0
+    },
+    "alexsmobs:shrimp_fried_rice": {
+      "protein": 7.2000003
+    },
+    "lendersdelight:koboleton_meat": {
+      "protein": 2.88
+    },
+    "lendersdelight:pasta_with_witherite": {
+      "grain": 4.32
+    },
+    "farmersdelight:grilled_salmon": {
+      "protein": 10.92
+    },
+    "compatdelight:cornflower_pie": {
+      "grain": 2.88,
+      "protein": 1.9200001,
+      "vegetable": 2.08,
+      "fruit": 0.96000004,
+      "sugar": 0.88000005,
+      "water": 1.0
+    },
+    "butchery:raw_ribeye_steak": {
+      "protein": 2.7
+    },
+    "compatdelight:cut_wilden_guardian_steak": {
+      "protein": 1.44
+    },
+    "compatdelight:source_berry_tea": {
+      "fruit": 7.4880004,
+      "sugar": 1.9800001
+    },
+    "butchery:cooked_gold_axolotl_fillet": {
+      "protein": 8.1
+    },
+    "compatdelight:honeyed_bastion": {
+      "grain": 2.88,
+      "protein": 1.9200001,
+      "vegetable": 2.08,
+      "fruit": 0.96000004,
+      "sugar": 0.88000005,
+      "water": 1.0
+    },
+    "minecraft:honey_bottle": {
+      "grain": 1.8000001,
+      "protein": 1.2,
+      "vegetable": 1.2,
+      "fruit": 0.6,
+      "sugar": 6.4,
+      "water": 1.0
+    },
+    "butchery:meat_scraps": {
+      "protein": 1.8000001
+    },
+    "farmersdelight:glow_berry_custard": {
+      "fruit": 12.376,
+      "sugar": 2.3100002
+    },
+    "butchery:raw_pork_belly": {
+      "protein": 3.6000001
+    },
+    "minecraft:sweet_berries": {
+      "fruit": 1.12,
+      "sugar": 3.4
+    },
+    "butchery:liver": {
+      "grain": 0.3,
+      "protein": 0.3,
+      "vegetable": 0.2,
+      "fruit": 0.1,
+      "sugar": 5.2,
+      "water": 0.9
+    },
+    "butchery:cooked_lamb_mince": {
+      "protein": 8.1
+    },
+    "aquaculturedelight:bass_stew": {
+      "water": 1.1
+    },
+    "butchery:raw_chicken_leg": {
+      "protein": 2.7
+    },
+    "compatdelight:caramel": {
+      "grain": 1.44,
+      "protein": 0.96000004,
+      "vegetable": 1.04,
+      "fruit": 0.48000002,
+      "sugar": 0.44000003,
+      "water": 1.0
+    },
+    "compatdelight:bamboo_stew": {
+      "water": 1.1
+    },
+    "lendersdelight:ender_blood_glazed_maledictus_heart": {
+      "grain": 7.5600004,
+      "protein": 5.0400004,
+      "vegetable": 5.46,
+      "fruit": 2.5200002,
+      "sugar": 2.3100002,
+      "water": 1.0
+    },
+    "minecraft:cookie": {
+      "grain": 2.3
+    },
+    "butchery:cooked_heart": {
+      "grain": 2.1000001,
+      "protein": 2.1,
+      "vegetable": 1.4,
+      "fruit": 0.7,
+      "sugar": 0.7,
+      "water": 0.9
+    },
+    "artifacts:onion_ring": {
+      "vegetable": 3.0
+    },
+    "butchery:raw_pink_axolotl_fillet": {
+      "protein": 1.8000001
+    },
+    "supplementaries:lumisene_bottle": {
+      "sugar": 4.0,
+      "water": 1.0
+    },
+    "iceandfire:ghost_cream": {
+      "grain": 1.2,
+      "protein": 0.8,
+      "vegetable": 0.8,
+      "fruit": 0.4,
+      "sugar": 0.4,
+      "water": 1.0
+    },
+    "compatdelight:bamboo_tea": {
+      "water": 1.6
+    },
+    "alexsmobs:cosmic_cod": {
+      "protein": 3.6000001
+    },
+    "butchery:cooked_stomach": {
+      "grain": 1.8000001,
+      "protein": 1.8000001,
+      "vegetable": 1.2,
+      "fruit": 0.6,
+      "sugar": 0.6,
+      "water": 0.9
+    },
+    "vinery:apple_mash": {
+      "fruit": 4.9280005,
+      "sugar": 1.44
+    },
+    "butchery:frog_heart": {
+      "grain": 1.5,
+      "protein": 1.5,
+      "vegetable": 1.0,
+      "fruit": 0.5,
+      "sugar": 0.5,
+      "water": 0.9
+    },
+    "aquaculture:tuna": {
+      "protein": 1.8000001
+    },
+    "aquaculture:catfish": {
+      "grain": 0.90000004,
+      "protein": 0.6,
+      "vegetable": 0.6,
+      "fruit": 0.3,
+      "sugar": 6.4,
+      "water": 1.0
+    },
+    "butchery:cooked_pufferfish": {
+      "grain": 2.1000001,
+      "protein": 2.1,
+      "vegetable": 1.4,
+      "fruit": 0.7,
+      "sugar": 0.7,
+      "water": 0.9
+    },
+    "aquaculture:algae": {
+      "grain": 0.3,
+      "protein": 0.2,
+      "vegetable": 0.2,
+      "fruit": 0.1,
+      "sugar": 4.0,
+      "water": 1.0
+    },
+    "vinery:jungle_grapes_white": {
+      "grain": 1.5,
+      "protein": 1.0,
+      "vegetable": 1.0,
+      "fruit": 0.7,
+      "sugar": 0.6,
+      "water": 1.3
+    },
+    "minecraft:rabbit_stew": {
+      "protein": 6.0
+    },
+    "butchery:cooked_green_frog_leg": {
+      "grain": 2.1000001,
+      "protein": 2.1,
+      "vegetable": 1.4,
+      "fruit": 0.7,
+      "sugar": 0.7,
+      "water": 0.9
+    },
+    "aquaculture:red_grouper": {
+      "grain": 0.6,
+      "protein": 0.4,
+      "vegetable": 0.4,
+      "fruit": 0.2,
+      "sugar": 4.8,
+      "water": 1.0
+    },
+    "farmersdelight:sweet_berry_cookie": {
+      "fruit": 1.456,
+      "sugar": 0.66
+    },
+    "alexsmobs:lobster_tail": {
+      "protein": 1.2
+    },
+    "butchery:raw_lamb_sirloin": {
+      "protein": 2.7
+    },
+    "compatdelight:cut_mendosteen_pod": {
+      "grain": 0.72,
+      "protein": 0.48000002,
+      "vegetable": 0.52,
+      "fruit": 0.24000001,
+      "sugar": 5.28,
+      "water": 1.0
+    },
+    "lendersdelight:urchinkin": {
+      "grain": 2.16,
+      "protein": 1.44,
+      "vegetable": 1.5600001,
+      "fruit": 0.72,
+      "sugar": 0.66,
+      "water": 1.0
+    },
+    "compatdelight:pickled_cucumber": {
+      "vegetable": 7.7999997
+    },
+    "butchery:rotten_stomach": {
+      "grain": 0.6,
+      "protein": 0.6,
+      "vegetable": 0.4,
+      "fruit": 0.2,
+      "sugar": 5.6,
+      "water": 0.9
+    },
+    "ars_nouveau:source_berry_pie": {
+      "fruit": 16.56,
+      "sugar": 2.7
+    },
+    "farmersdelight:cabbage_rolls": {
+      "vegetable": 10.5
+    },
+    "refurbished_furniture:cheese_sandwich": {
+      "grain": 1.8000001,
+      "protein": 1.2,
+      "vegetable": 1.2,
+      "fruit": 0.6,
+      "sugar": 0.6,
+      "water": 1.0
+    },
+    "farmersdelight:egg_sandwich": {
+      "grain": 2.88,
+      "protein": 2.08,
+      "vegetable": 2.24,
+      "fruit": 1.04,
+      "sugar": 0.88000005,
+      "water": 1.0
+    },
+    "farmersdelight:sweet_berry_cheesecake_slice": {
+      "fruit": 3.432,
+      "sugar": 7.1500006
+    },
+    "lendersdelight:coral_chunk_red_slice": {
+      "grain": 1.08,
+      "protein": 0.72,
+      "vegetable": 0.78000003,
+      "fruit": 0.36,
+      "sugar": 5.72,
+      "water": 1.0
+    },
+    "compatdelight:cooked_wilden_stalker_maet": {
+      "grain": 2.5200002,
+      "protein": 1.6800001,
+      "vegetable": 1.8199999,
+      "fruit": 0.84000003,
+      "sugar": 0.77,
+      "water": 1.0
+    },
+    "compatdelight:milk_chocolate_bar": {
+      "water": 1.1
+    },
+    "butchery:cooked_fox_meat": {
+      "protein": 8.1
+    },
+    "alexsdelight:cooked_bunfungus": {
+      "grain": 2.5200002,
+      "protein": 1.6800001,
+      "vegetable": 1.8199999,
+      "fruit": 0.84000003,
+      "sugar": 0.77,
+      "water": 1.0
+    },
+    "vinery:cherry": {
+      "fruit": 1.568,
+      "sugar": 4.0800004
+    },
+    "compatdelight:fire_coral_salad": {
+      "vegetable": 11.7
+    },
+    "compatdelight:poppy_cookie": {
+      "grain": 2.76
+    },
+    "minecraft:enchanted_golden_apple": {
+      "fruit": 9.280001,
+      "sugar": 1.2
+    },
+    "compatdelight:ars_burger": {
+      "grain": 4.32,
+      "protein": 2.88,
+      "vegetable": 3.1200001,
+      "fruit": 1.44,
+      "sugar": 1.32,
+      "water": 1.0
+    },
+    "compatdelight:allium_cake": {
+      "grain": 2.88
+    },
+    "compatdelight:mix_vegetable_salad": {
+      "vegetable": 11.7
+    },
+    "lendersdelight:lionfish_slice": {
+      "grain": 0.36,
+      "protein": 0.24000001,
+      "vegetable": 0.26,
+      "fruit": 0.120000005,
+      "sugar": 4.84,
+      "water": 1.0
+    },
+    "farmersdelight:smoked_ham": {
+      "protein": 7.7999997
+    },
+    "compatdelight:flower_honey": {
+      "grain": 0.72,
+      "protein": 0.48000002,
+      "vegetable": 0.52,
+      "fruit": 0.24000001,
+      "sugar": 0.22000001,
+      "water": 1.0
+    },
+    "compatdelight:honey_sandwich": {
+      "grain": 2.88,
+      "protein": 1.9200001,
+      "vegetable": 2.08,
+      "fruit": 0.96000004,
+      "sugar": 0.88000005,
+      "water": 1.0
+    },
+    "lendersdelight:cooked_koboleton_meat": {
+      "protein": 5.76
+    },
+    "compatdelight:cut_dropleaf": {
+      "grain": 0.72,
+      "protein": 0.48000002,
+      "vegetable": 0.52,
+      "fruit": 0.24000001,
+      "sugar": 5.28,
+      "water": 1.0
+    },
+    "butchery:raw_shulker_meat": {
+      "protein": 4.5
+    },
+    "compatdelight:void_potato": {
+      "vegetable": 7.7999997
+    },
+    "aquaculture:atlantic_halibut": {
+      "protein": 1.8000001
+    },
+    "butchery:raw_sirloin_steak": {
+      "protein": 1.8000001
+    },
+    "compatdelight:soap_sandwich": {
+      "grain": 2.88,
+      "protein": 1.9200001,
+      "vegetable": 2.08,
+      "fruit": 0.96000004,
+      "sugar": 0.88000005,
+      "water": 1.0
+    },
+    "compatdelight:toasted_marshmallow": {
+      "grain": 3.2400002,
+      "protein": 2.16,
+      "vegetable": 2.34,
+      "fruit": 1.08,
+      "sugar": 0.99000007,
+      "water": 1.0
+    },
+    "farmersdelight:honey_glazed_ham": {
+      "protein": 10.92
+    },
+    "supplementaries:candy": {
+      "grain": 0.3,
+      "protein": 0.2,
+      "vegetable": 0.2,
+      "fruit": 0.1,
+      "sugar": 4.8,
+      "water": 1.0
+    },
+    "create:chocolate_glazed_berries": {
+      "fruit": 11.76,
+      "sugar": 2.1000001
+    },
+    "butchery:raw_sausage": {
+      "protein": 3.6000001
+    },
+    "compatdelight:honeyed_frostaya": {
+      "grain": 2.88,
+      "protein": 1.9200001,
+      "vegetable": 2.08,
+      "fruit": 0.96000004,
+      "sugar": 0.88000005,
+      "water": 1.0
+    },
+    "butchery:cooked_pink_axolotl_fillet": {
+      "protein": 8.1
+    },
+    "farmersdelight:beef_stew": {
+      "protein": 9.36
+    },
+    "alexsdelight:acacia_blossom_soup": {
+      "water": 1.1
+    },
+    "aquaculturedelight:fish_and_chips": {
+      "protein": 8.64
+    },
+    "compatdelight:cactus_pie": {
+      "grain": 2.88,
+      "protein": 1.9200001,
+      "vegetable": 2.08,
+      "fruit": 0.96000004,
+      "sugar": 0.88000005,
+      "water": 1.0
+    },
+    "butchery:cooked_brown_axolotl_fillet": {
+      "protein": 8.1
+    },
+    "compatdelight:sweet_berries_juice": {
+      "fruit": 11.424001,
+      "sugar": 2.3100002
+    },
+    "alexsdelight:lobster_pasta": {
+      "protein": 7.2000003
+    },
+    "alexsdelight:raw_catfish_slice": {
+      "grain": 0.36,
+      "protein": 0.24000001,
+      "vegetable": 0.26,
+      "fruit": 0.120000005,
+      "sugar": 5.28,
+      "water": 1.0
+    },
+    "lendersdelight:cooked_amethyst_crab_meat": {
+      "protein": 6.4800005
+    },
+    "compatdelight:canned_cucumber": {
+      "vegetable": 17.55
+    },
+    "butchery:intestines": {
+      "grain": 0.3,
+      "protein": 0.3,
+      "vegetable": 0.2,
+      "fruit": 0.1,
+      "sugar": 5.2,
+      "water": 0.9
+    },
+    "lendersdelight:crystallized_coral_roll": {
+      "grain": 1.9200001
+    },
+    "compatdelight:butter_bottle": {
+      "grain": 0.72,
+      "protein": 0.48000002,
+      "vegetable": 0.52,
+      "fruit": 0.24000001,
+      "sugar": 0.22000001,
+      "water": 1.0
+    },
+    "butchery:cooked_enderman_lungs": {
+      "grain": 3.9,
+      "protein": 3.9,
+      "vegetable": 2.6000001,
+      "fruit": 1.3000001,
+      "sugar": 1.3000001,
+      "water": 0.9
+    },
+    "regions_unexplored:hanging_earlight_fruit": {
+      "fruit": 6.2400002,
+      "sugar": 1.8000001
+    },
+    "compatdelight:soap_dust": {
+      "grain": 0.72,
+      "protein": 0.48000002,
+      "vegetable": 0.52,
+      "fruit": 0.24000001,
+      "sugar": 5.28,
+      "water": 1.0
+    },
+    "minecraft:golden_carrot": {
+      "vegetable": 9.0
+    },
+    "compatdelight:smores": {
+      "grain": 1.08,
+      "protein": 0.72,
+      "vegetable": 0.78000003,
+      "fruit": 0.36,
+      "sugar": 7.0400004,
+      "water": 1.0
+    },
+    "lendersdelight:cooked_amethyst_crab_meat_slice": {
+      "protein": 2.88
+    },
+    "butchery:withered_heart": {
+      "grain": 5.4,
+      "protein": 5.4,
+      "vegetable": 3.6000001,
+      "fruit": 1.8000001,
+      "sugar": 1.8000001,
+      "water": 0.9
+    },
+    "minecraft:apple": {
+      "fruit": 3.5200002,
+      "sugar": 1.2
+    },
+    "butchery:raw_leg_of_lamb": {
+      "protein": 2.7
+    },
+    "compatdelight:red_mushroom_pie": {
+      "vegetable": 15.599999
+    },
+    "compatdelight:magic_dough": {
+      "grain": 2.28
+    },
+    "compatdelight:flower_salad": {
+      "vegetable": 11.7
+    },
+    "minecraft:spider_eye": {
+      "grain": 0.6,
+      "protein": 0.4,
+      "vegetable": 0.4,
+      "fruit": 0.2,
+      "sugar": 0.2,
+      "water": 1.0
+    },
+    "aquaculture:tambaqui": {
+      "grain": 0.6,
+      "protein": 0.4,
+      "vegetable": 0.4,
+      "fruit": 0.2,
+      "sugar": 4.8,
+      "water": 1.0
+    },
+    "vinery:savanna_grapes_red": {
+      "grain": 0.6,
+      "protein": 0.4,
+      "vegetable": 0.4,
+      "fruit": 0.28,
+      "sugar": 5.76,
+      "water": 1.3
+    },
+    "aquaculturedelight:cooked_small_turtle_meat": {
+      "protein": 2.16
+    },
+    "compatdelight:oxeye_daisy_tea": {
+      "water": 1.6
+    },
+    "farmersdelight:fried_egg": {
+      "grain": 1.44,
+      "protein": 1.04,
+      "vegetable": 1.12,
+      "fruit": 0.52,
+      "sugar": 0.44000003,
+      "water": 1.0
+    },
+    "minecraft:cooked_mutton": {
+      "protein": 3.6000001
+    },
+    "butchery:raw_lamb_loin": {
+      "protein": 1.8000001
+    },
+    "compatdelight:salmonberry_shake": {
+      "grain": 2.5200002,
+      "protein": 1.6800001,
+      "vegetable": 1.8199999,
+      "fruit": 0.84000003,
+      "sugar": 0.77,
+      "water": 1.0
+    },
+    "lendersdelight:ham_of_berserker": {
+      "protein": 8.64
+    },
+    "farmersdelight:kelp_roll_slice": {
+      "grain": 2.88
+    },
+    "compatdelight:cherry_pie": {
+      "fruit": 8.448001,
+      "sugar": 2.64
+    },
+    "compatdelight:cooked_dripleaf": {
+      "grain": 2.5200002,
+      "protein": 1.6800001,
+      "vegetable": 1.8199999,
+      "fruit": 0.84000003,
+      "sugar": 0.77,
+      "water": 1.0
+    },
+    "butchery:raw_spider_leg": {
+      "grain": 0.3,
+      "protein": 0.3,
+      "vegetable": 0.2,
+      "fruit": 0.1,
+      "sugar": 5.2,
+      "water": 0.9
+    },
+    "butchery:raw_orange_frog_leg": {
+      "fruit": 2.64,
+      "sugar": 6.5000005
+    },
+    "compatdelight:marshmallow": {
+      "grain": 2.16,
+      "protein": 1.44,
+      "vegetable": 1.5600001,
+      "fruit": 0.72,
+      "sugar": 0.66,
+      "water": 1.0
+    },
+    "alexsmobs:flying_fish": {
+      "protein": 1.8000001
+    },
+    "vinery:noir_wine": {
+      "sugar": 2.4,
+      "water": 2.08
+    },
+    "compatdelight:wilden_chimera_heart": {
+      "grain": 10.8,
+      "protein": 7.2000003,
+      "vegetable": 7.7999997,
+      "fruit": 3.6000001,
+      "sugar": 3.3000002,
+      "water": 1.0
+    },
+    "lendersdelight:cooked_ender_golem_meat": {
+      "protein": 5.76
+    },
+    "farmersdelight:kelp_roll": {
+      "grain": 5.76
+    },
+    "compatdelight:cut_cooked_wilden_guardian_steak": {
+      "protein": 2.88
+    },
+    "iceandfire:cannoli": {
+      "grain": 6.0,
+      "protein": 4.0,
+      "vegetable": 4.0,
+      "fruit": 2.0,
+      "sugar": 2.0,
+      "water": 1.0
+    },
+    "butchery:raw_donkey_steak": {
+      "protein": 2.7
+    },
+    "compatdelight:magic_jem": {
+      "grain": 0.72,
+      "protein": 0.48000002,
+      "vegetable": 0.52,
+      "fruit": 0.24000001,
+      "sugar": 0.22000001,
+      "water": 1.0
+    },
+    "farmersdelight:fruit_salad": {
+      "fruit": 10.608001,
+      "sugar": 1.9800001
+    },
+    "farmersdelight:wheat_dough": {
+      "grain": 2.76
+    },
+    "butchery:cooked_kidney": {
+      "grain": 1.5,
+      "protein": 1.5,
+      "vegetable": 1.0,
+      "fruit": 0.5,
+      "sugar": 0.5,
+      "water": 0.9
+    },
+    "butchery:cookedhumanmeat": {
+      "grain": 3.0,
+      "protein": 3.0,
+      "vegetable": 2.0,
+      "fruit": 1.0,
+      "sugar": 1.0,
+      "water": 0.9
+    },
+    "alexsdelight:kangaroo_shank": {
+      "grain": 0.72,
+      "protein": 0.48000002,
+      "vegetable": 0.52,
+      "fruit": 0.24000001,
+      "sugar": 6.16,
+      "water": 1.0
+    },
+    "alexsdelight:bison_patty": {
+      "grain": 1.8000001,
+      "protein": 1.2,
+      "vegetable": 1.3,
+      "fruit": 0.6,
+      "sugar": 0.55,
+      "water": 1.0
+    },
+    "butchery:raw_endermite_chunks": {
+      "grain": 0.90000004,
+      "protein": 0.90000004,
+      "vegetable": 0.6,
+      "fruit": 0.3,
+      "sugar": 7.6000004,
+      "water": 0.9
+    },
+    "lendersdelight:coral_golem_meat": {
+      "protein": 2.16
+    },
+    "compatdelight:magic_fruit_salad": {
+      "fruit": 9.792002,
+      "sugar": 1.9800001
+    },
+    "butchery:cooked_liver": {
+      "grain": 1.8000001,
+      "protein": 1.8000001,
+      "vegetable": 1.2,
+      "fruit": 0.6,
+      "sugar": 0.6,
+      "water": 0.9
+    },
+    "butchery:raw_dragon_meat": {
+      "protein": 5.4
+    },
+    "butchery:cooked_silverfish_chunks": {
+      "grain": 1.8000001,
+      "protein": 1.8000001,
+      "vegetable": 1.2,
+      "fruit": 0.6,
+      "sugar": 0.6,
+      "water": 0.9
+    },
+    "cataclysm:lionfish": {
+      "grain": 0.3,
+      "protein": 0.2,
+      "vegetable": 0.2,
+      "fruit": 0.1,
+      "sugar": 4.4,
+      "water": 1.0
+    },
+    "compatdelight:soap_ice_cream": {
+      "grain": 1.44,
+      "protein": 0.96000004,
+      "vegetable": 1.04,
+      "fruit": 0.48000002,
+      "sugar": 0.44000003,
+      "water": 1.0
+    },
+    "compatdelight:horn_jem": {
+      "grain": 0.72,
+      "protein": 0.48000002,
+      "vegetable": 0.52,
+      "fruit": 0.24000001,
+      "sugar": 0.22000001,
+      "water": 1.0
+    },
+    "compatdelight:cooked_smores": {
+      "grain": 2.5200002,
+      "protein": 1.6800001,
+      "vegetable": 1.8199999,
+      "fruit": 0.84000003,
+      "sugar": 0.77,
+      "water": 1.0
+    },
+    "aquaculture:arapaima": {
+      "grain": 0.90000004,
+      "protein": 0.6,
+      "vegetable": 0.6,
+      "fruit": 0.3,
+      "sugar": 6.4,
+      "water": 1.0
+    },
+    "compatdelight:bastion_tea": {
+      "water": 1.6
+    },
+    "aquaculturedelight:raw_fish_fillet_roll": {
+      "protein": 5.0400004
+    },
+    "farmersdelight:cabbage_leaf": {
+      "vegetable": 2.1
+    },
+    "compatdelight:graham_cracker": {
+      "grain": 2.88
+    },
+    "butchery:cooked_cyan_axolotl_fillet": {
+      "protein": 8.1
+    },
+    "aquaculturedelight:fish_chorba": {
+      "protein": 9.360001
+    },
+    "minecraft:pumpkin_pie": {
+      "vegetable": 12.0
+    },
+    "butchery:raw_enderman_steak": {
+      "protein": 4.5
+    },
+    "butchery:cooked_gray_frog_leg": {
+      "grain": 2.1000001,
+      "protein": 2.1,
+      "vegetable": 1.4,
+      "fruit": 0.7,
+      "sugar": 0.7,
+      "water": 0.9
+    },
+    "lendersdelight:cooked_crab_legs": {
+      "protein": 5.76
+    },
+    "compatdelight:mendosteen_jelly": {
+      "grain": 2.16,
+      "protein": 1.44,
+      "vegetable": 1.5600001,
+      "fruit": 0.72,
+      "sugar": 0.66,
+      "water": 1.0
+    },
+    "farmersdelight:pumpkin_soup": {
+      "vegetable": 29.4
+    },
+    "refurbished_furniture:sweet_berry_jam_toast": {
+      "fruit": 8.160001,
+      "sugar": 1.8000001
+    },
+    "vinery:strad_wine": {
+      "sugar": 2.4,
+      "water": 2.08
+    },
+    "farmersdelight:minced_beef": {
+      "protein": 1.5600001
+    },
+    "compatdelight:frostaya_glaze": {
+      "grain": 1.08,
+      "protein": 0.72,
+      "vegetable": 0.78000003,
+      "fruit": 0.36,
+      "sugar": 8.360001,
+      "water": 1.0
+    },
+    "compatdelight:tube_jem": {
+      "grain": 0.72,
+      "protein": 0.48000002,
+      "vegetable": 0.52,
+      "fruit": 0.24000001,
+      "sugar": 0.22000001,
+      "water": 1.0
+    },
+    "compatdelight:pasta_with_mangrove": {
+      "grain": 4.32
+    },
+    "minecraft:cooked_beef": {
+      "protein": 4.8
+    },
+    "compatdelight:cut_source_berry": {
+      "fruit": 1.3440001,
+      "sugar": 3.7400002
+    },
+    "butchery:cooked_llama_steak": {
+      "protein": 10.8
+    },
+    "butchery:calamari": {
+      "grain": 2.7,
+      "protein": 2.7,
+      "vegetable": 1.8000001,
+      "fruit": 0.90000004,
+      "sugar": 0.90000004,
+      "water": 0.9
+    },
+    "farmersdelight:bone_broth": {
+      "water": 1.1
+    },
+    "farmersdelight:pie_crust": {
+      "grain": 0.72,
+      "protein": 0.52,
+      "vegetable": 0.56,
+      "fruit": 0.26,
+      "sugar": 6.16,
+      "water": 1.0
+    },
+    "compatdelight:source_berry_bun": {
+      "fruit": 17.28,
+      "sugar": 2.97
+    },
+    "farmersdelight:ratatouille": {
+      "grain": 3.6000001,
+      "protein": 2.6,
+      "vegetable": 2.8,
+      "fruit": 1.3,
+      "sugar": 1.1,
+      "water": 1.0
+    },
+    "farmersdelight:cod_slice": {
+      "protein": 0.78000003
+    },
+    "compatdelight:frostaya_shake": {
+      "grain": 2.5200002,
+      "protein": 1.6800001,
+      "vegetable": 1.8199999,
+      "fruit": 0.84000003,
+      "sugar": 0.77,
+      "water": 1.0
+    },
+    "compatdelight:sea_pickle_jem": {
+      "grain": 0.72,
+      "protein": 0.48000002,
+      "vegetable": 0.52,
+      "fruit": 0.24000001,
+      "sugar": 0.22000001,
+      "water": 1.0
+    },
+    "vinery:bolvar_wine": {
+      "sugar": 2.4,
+      "water": 2.08
+    },
+    "farmersdelight:ham": {
+      "protein": 3.8999999
+    },
+    "lendersdelight:crystallized_coral_potato": {
+      "vegetable": 13.65
+    },
+    "compatdelight:oxeye_daisy_shake": {
+      "grain": 2.5200002,
+      "protein": 1.6800001,
+      "vegetable": 1.8199999,
+      "fruit": 0.84000003,
+      "sugar": 0.77,
+      "water": 1.0
+    },
+    "butchery:cooked_pork_leg": {
+      "protein": 6.3
+    },
+    "compatdelight:glow_spruit_sandwich": {
+      "grain": 2.88,
+      "protein": 1.9200001,
+      "vegetable": 2.08,
+      "fruit": 0.96000004,
+      "sugar": 0.88000005,
+      "water": 1.0
+    },
+    "butchery:cooked_enderman_stomach": {
+      "grain": 3.6000001,
+      "protein": 3.6000001,
+      "vegetable": 2.4,
+      "fruit": 1.2,
+      "sugar": 1.2,
+      "water": 0.9
+    },
+    "butchery:cooked_chicken_wing": {
+      "protein": 7.2000003
+    },
+    "compatdelight:barrel_cactus_cookie": {
+      "grain": 2.76
+    },
+    "farmersdelight:roast_chicken": {
+      "protein": 10.92
+    },
+    "butchery:slime_chunks": {
+      "grain": 2.1000001,
+      "protein": 2.1,
+      "vegetable": 1.4,
+      "fruit": 0.7,
+      "sugar": 0.7,
+      "water": 0.9
+    },
+    "compatdelight:pancake_dumplings": {
+      "grain": 4.32
+    },
+    "compatdelight:ender_dragon_blood": {
+      "grain": 1.8000001,
+      "protein": 1.2,
+      "vegetable": 1.3,
+      "fruit": 0.6,
+      "sugar": 0.55,
+      "water": 1.0
+    },
+    "aquaculture:gar": {
+      "grain": 0.6,
+      "protein": 0.4,
+      "vegetable": 0.4,
+      "fruit": 0.2,
+      "sugar": 4.8,
+      "water": 1.0
+    },
+    "butchery:cooked_sniffer_steak": {
+      "protein": 9.900001
+    },
+    "compatdelight:horn_coral_pie": {
+      "grain": 2.88,
+      "protein": 1.9200001,
+      "vegetable": 2.08,
+      "fruit": 0.96000004,
+      "sugar": 0.88000005,
+      "water": 1.0
+    },
+    "vinery:clark_wine": {
+      "sugar": 2.4,
+      "water": 2.08
+    },
+    "lendersdelight:amethyst_crab_meat_stick": {
+      "protein": 7.9200006
+    },
+    "butchery:raw_blue_axolotl_fillet": {
+      "protein": 1.8000001
+    },
+    "compatdelight:wither_meat_stick": {
+      "protein": 10.8
+    },
+    "butchery:cooked_pork_belly": {
+      "protein": 9.0
+    },
+    "compatdelight:fire_jem": {
+      "grain": 0.72,
+      "protein": 0.48000002,
+      "vegetable": 0.52,
+      "fruit": 0.24000001,
+      "sugar": 0.22000001,
+      "water": 1.0
+    },
+    "aquaculture:synodontis": {
+      "grain": 0.3,
+      "protein": 0.2,
+      "vegetable": 0.2,
+      "fruit": 0.1,
+      "sugar": 4.4,
+      "water": 1.0
+    },
+    "butchery:raw_lamb_rib": {
+      "protein": 3.6000001
+    },
+    "aquaculture:boulti": {
+      "grain": 0.3,
+      "protein": 0.2,
+      "vegetable": 0.2,
+      "fruit": 0.1,
+      "sugar": 4.4,
+      "water": 1.0
+    },
+    "compatdelight:chocolate_wafer_bar": {
+      "water": 1.1
+    },
+    "lendersdelight:cooked_leviathan": {
+      "grain": 8.64,
+      "protein": 5.76,
+      "vegetable": 6.2400002,
+      "fruit": 2.88,
+      "sugar": 2.64,
+      "water": 1.0
+    },
+    "vinery:lilitu_wine": {
+      "sugar": 2.4,
+      "water": 2.08
+    },
+    "butchery:cooked_enderman_steak": {
+      "protein": 10.8
+    },
+    "aquaculture:smallmouth_bass": {
+      "grain": 0.6,
+      "protein": 0.4,
+      "vegetable": 0.4,
+      "fruit": 0.2,
+      "sugar": 4.8,
+      "water": 1.0
+    },
+    "ars_nouveau:bastion_pod": {
+      "grain": 1.2,
+      "protein": 0.8,
+      "vegetable": 0.8,
+      "fruit": 0.4,
+      "sugar": 0.4,
+      "water": 1.0
+    },
+    "butchery:cooked_witch_meat": {
+      "protein": 11.700001
+    },
+    "compatdelight:piece_bamboo": {
+      "grain": 2.88,
+      "protein": 1.9200001,
+      "vegetable": 2.08,
+      "fruit": 0.96000004,
+      "sugar": 0.88000005,
+      "water": 1.0
+    },
+    "ars_nouveau:mendosteen_pod": {
+      "grain": 1.2,
+      "protein": 0.8,
+      "vegetable": 0.8,
+      "fruit": 0.4,
+      "sugar": 0.4,
+      "water": 1.0
+    },
+    "aquaculturedelight:jellyfish_jelly": {
+      "grain": 2.16,
+      "protein": 1.44,
+      "vegetable": 1.5600001,
+      "fruit": 0.72,
+      "sugar": 0.66,
+      "water": 1.0
+    },
+    "compatdelight:wither_rose_juice": {
+      "water": 1.6
+    },
+    "butchery:elder_guardian_eye": {
+      "grain": 2.4,
+      "protein": 2.4,
+      "vegetable": 1.6,
+      "fruit": 0.8,
+      "sugar": 0.8,
+      "water": 0.9
+    },
+    "butchery:magma_chunks": {
+      "grain": 2.4,
+      "protein": 2.4,
+      "vegetable": 1.6,
+      "fruit": 0.8,
+      "sugar": 0.8,
+      "water": 0.9
+    },
+    "compatdelight:roots_jem": {
+      "grain": 0.72,
+      "protein": 0.48000002,
+      "vegetable": 0.52,
+      "fruit": 0.24000001,
+      "sugar": 0.22000001,
+      "water": 1.0
+    },
+    "butchery:cooked_chuck_steak": {
+      "protein": 7.2000003
+    },
+    "butchery:raw_guardian_meat": {
+      "protein": 3.6000001
+    },
+    "regions_unexplored:salmonberry": {
+      "grain": 0.90000004,
+      "protein": 0.6,
+      "vegetable": 0.6,
+      "fruit": 0.3,
+      "sugar": 7.6000004,
+      "water": 1.0
+    },
+    "butchery:cooked_cod_fillet": {
+      "protein": 7.2000003
+    },
+    "lendersdelight:berserker_stick": {
+      "grain": 3.6000001,
+      "protein": 2.4,
+      "vegetable": 2.6,
+      "fruit": 1.2,
+      "sugar": 1.1,
+      "water": 1.0
+    },
+    "farmersdelight:cooked_mutton_chops": {
+      "protein": 2.34
+    },
+    "farmersdelight:cabbage": {
+      "vegetable": 4.2
+    },
+    "compatdelight:mendosteen_yougurt": {
+      "grain": 3.2400002,
+      "protein": 2.16,
+      "vegetable": 2.34,
+      "fruit": 1.08,
+      "sugar": 0.99000007,
+      "water": 1.0
+    },
+    "butchery:raw_pufferfish": {
+      "grain": 0.90000004,
+      "protein": 0.90000004,
+      "vegetable": 0.6,
+      "fruit": 0.3,
+      "sugar": 7.6000004,
+      "water": 0.9
+    },
+    "vinery:cristel_wine": {
+      "sugar": 2.4,
+      "water": 2.08
+    },
+    "lendersdelight:cooked_lionfish": {
+      "grain": 1.44,
+      "protein": 0.96000004,
+      "vegetable": 1.04,
+      "fruit": 0.48000002,
+      "sugar": 6.16,
+      "water": 1.0
+    },
+    "butchery:flesh": {
+      "grain": 1.5,
+      "protein": 1.5,
+      "vegetable": 1.0,
+      "fruit": 0.5,
+      "sugar": 0.5,
+      "water": 0.9
+    },
+    "butchery:cooked_hoglin_chunk": {
+      "grain": 4.5,
+      "protein": 4.5,
+      "vegetable": 3.0,
+      "fruit": 1.5,
+      "sugar": 1.5,
+      "water": 0.9
+    },
+    "compatdelight:void_ice_cream": {
+      "grain": 1.44,
+      "protein": 0.96000004,
+      "vegetable": 1.04,
+      "fruit": 0.48000002,
+      "sugar": 0.44000003,
+      "water": 1.0
+    },
+    "minecraft:carrot": {
+      "vegetable": 4.5
+    },
+    "butchery:cooked_bat_meat": {
+      "protein": 7.2000003
+    },
+    "compatdelight:bamboo_rice": {
+      "grain": 2.88
+    },
+    "compatdelight:coral_jelly": {
+      "grain": 3.6000001,
+      "protein": 2.4,
+      "vegetable": 2.6,
+      "fruit": 1.2,
+      "sugar": 1.1,
+      "water": 1.0
+    },
+    "aquaculture:blackfish": {
+      "grain": 0.6,
+      "protein": 0.4,
+      "vegetable": 0.4,
+      "fruit": 0.2,
+      "sugar": 4.8,
+      "water": 1.0
+    },
+    "minecraft:pufferfish": {
+      "grain": 0.3,
+      "protein": 0.2,
+      "vegetable": 0.2,
+      "fruit": 0.1,
+      "sugar": 4.4,
+      "water": 1.0
+    },
+    "butchery:cooked_chicken_leg": {
+      "protein": 6.3
+    },
+    "compatdelight:cherry_jem": {
+      "fruit": 4.8,
+      "sugar": 0.66
+    },
+    "butchery:cooked_polar_bear_meat": {
+      "protein": 14.400001
+    },
+    "compatdelight:bombegranate_yougurt": {
+      "grain": 3.2400002,
+      "protein": 2.16,
+      "vegetable": 2.34,
+      "fruit": 1.08,
+      "sugar": 0.99000007,
+      "water": 1.0
+    },
+    "butchery:rotten_heart": {
+      "grain": 0.90000004,
+      "protein": 0.90000004,
+      "vegetable": 0.6,
+      "fruit": 0.3,
+      "sugar": 7.6000004,
+      "water": 0.9
+    },
+    "lendersdelight:ignis": {
+      "grain": 3.2400002,
+      "protein": 2.16,
+      "vegetable": 2.34,
+      "fruit": 1.08,
+      "sugar": 0.99000007,
+      "water": 1.0
+    },
+    "butchery:cooked_ravager_meat": {
+      "protein": 12.6
+    },
+    "compatdelight:brain_coral_cookie": {
+      "grain": 2.76
+    },
+    "butchery:rotten_intestines": {
+      "grain": 0.6,
+      "protein": 0.6,
+      "vegetable": 0.4,
+      "fruit": 0.2,
+      "sugar": 5.6,
+      "water": 0.9
+    },
+    "compatdelight:glow_berry_lolipop": {
+      "fruit": 16.896002,
+      "sugar": 2.64
+    },
+    "compatdelight:cooked_eggplant_salad": {
+      "vegetable": 11.7
+    },
+    "butchery:cooked_turtle_meat": {
+      "protein": 7.2000003
+    },
+    "farmersdelight:apple_cider": {
+      "sugar": 2.2
+    },
+    "compatdelight:mendosteen_glaze": {
+      "grain": 1.08,
+      "protein": 0.72,
+      "vegetable": 0.78000003,
+      "fruit": 0.36,
+      "sugar": 8.360001,
+      "water": 1.0
+    },
+    "lendersdelight:maledictus_heart": {
+      "grain": 8.64,
+      "protein": 5.76,
+      "vegetable": 6.2400002,
+      "fruit": 2.88,
+      "sugar": 2.64,
+      "water": 1.0
+    },
+    "butchery:cooked_creeper_steak": {
+      "protein": 9.0
+    },
+    "alexsdelight:bunfungus_sandwich": {
+      "grain": 3.6000001,
+      "protein": 2.4,
+      "vegetable": 2.6,
+      "fruit": 1.2,
+      "sugar": 1.1,
+      "water": 1.0
+    },
+    "farmersdelight:cooked_chicken_cuts": {
+      "protein": 2.34
+    },
+    "compatdelight:magic_pie": {
+      "grain": 2.88,
+      "protein": 1.9200001,
+      "vegetable": 2.08,
+      "fruit": 0.96000004,
+      "sugar": 0.88000005,
+      "water": 1.0
+    },
+    "compatdelight:void_pie": {
+      "grain": 2.88,
+      "protein": 1.9200001,
+      "vegetable": 2.08,
+      "fruit": 0.96000004,
+      "sugar": 0.88000005,
+      "water": 1.0
+    },
+    "farmersdelight:pasta_with_mutton_chop": {
+      "protein": 9.36
+    },
+    "compatdelight:brain_jem": {
+      "grain": 0.72,
+      "protein": 0.48000002,
+      "vegetable": 0.52,
+      "fruit": 0.24000001,
+      "sugar": 0.22000001,
+      "water": 1.0
+    },
+    "compatdelight:cut_bastion_pod": {
+      "grain": 0.72,
+      "protein": 0.48000002,
+      "vegetable": 0.52,
+      "fruit": 0.24000001,
+      "sugar": 5.28,
+      "water": 1.0
+    },
+    "farmersdelight:salmon_roll": {
+      "protein": 5.46
+    },
+    "farmersdelight:chicken_sandwich": {
+      "protein": 7.7999997
+    },
+    "butchery:raw_elder_guardian_meat": {
+      "protein": 10.8
+    },
+    "lendersdelight:deepling_meat": {
+      "protein": 6.4800005
+    }
+  }
+}

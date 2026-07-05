@@ -1,0 +1,9 @@
+{
+	"mod": "create_rustic_structures",
+	"total_chest_tables": 3,
+	"loot_tables": [
+		"create_rustic_structures:chests/loot_1",
+		"create_rustic_structures:chests/loot_2",
+		"create_rustic_structures:chests/loot_3"
+	]
+}

@@ -1,0 +1,7 @@
+{
+	"mod": "supplementaries",
+	"total_chest_tables": 1,
+	"loot_tables": [
+		"supplementaries:loot/galleon/chest"
+	]
+}

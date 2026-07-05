@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "regions_unexplored:redwoods",
+    "regions_unexplored:sparse_redwoods",
+    "regions_unexplored:old_growth_boreal_taiga"
+  ]
+}

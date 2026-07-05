@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    "regions_unexplored:clover_plains",
+    "regions_unexplored:grassland",
+    "regions_unexplored:prairie",
+    "regions_unexplored:rainforest",
+    "regions_unexplored:sparse_rainforest",
+    "regions_unexplored:bayou",
+    "regions_unexplored:baobab_savanna",
+    "regions_unexplored:dry_bushland",
+    "regions_unexplored:steppe",
+    "regions_unexplored:windswept_maple_forest"
+  ]
+}
