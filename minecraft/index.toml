@@ -1761,8 +1761,8 @@ hash = "5c3b2fcb9762b53e2e18fe090180a2062bb5cbf65fa8a774d44b55af60705ebe"
 metafile = true
 
 [[files]]
-file = "mods/antique-atlas-4.pw.toml"
-hash = "72f9cf7ef1412b9384467782dd5444ec8adbd03b9f532d1238e5a166ffb25237"
+file = "mods/antique-atlas.pw.toml"
+hash = "d5048142116637b820bff30b6c5afbe83a293a71968483c6eb8c323390827e3d"
 metafile = true
 
 [[files]]
@@ -2221,11 +2221,6 @@ hash = "543b8a8ff5796648146f3102dea686e806f793052d329d0fa3efee8194d4df52"
 metafile = true
 
 [[files]]
-file = "mods/mcqoy.pw.toml"
-hash = "604b7674b96d10b2c9f03e47a91ec50b448e8193de56f36fca93b5ff0f3132f6"
-metafile = true
-
-[[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "73aba17132f267dd76ff682aa84abfb7c09d25a93b9220ee261a1e25337bebc7"
 metafile = true
@@ -2373,11 +2368,6 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "039a71011f455c24c9ccc7b38ef6f01561992a77a5d0c21f75dc01f70b42b1e2"
-metafile = true
-
-[[files]]
-file = "mods/surveyor.pw.toml"
-hash = "13848a9eb3c5fd091b52f78cfae4ace2c3cd0cb32a76d6f61c12435f47d82ed1"
 metafile = true
 
 [[files]]
