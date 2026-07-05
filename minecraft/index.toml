@@ -2262,7 +2262,7 @@ metafile = true
 
 [[files]]
 file = "mods/neo-origins.pw.toml"
-hash = "918df9f48757abd77b95044f02a4093cdc2537f9498c1fe0d7430bffe484f3ba"
+hash = "7b952595ee15ecd048fb123bf8879f1cab2dd8546f0b80c7ab6eb887d7076991"
 metafile = true
 
 [[files]]
