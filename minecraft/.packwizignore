@@ -55,6 +55,8 @@ command_history.txt
 usercache.json
 usernamecache.json
 launcher_profiles.json
+servers.dat
+servers.dat_old
 config/born_in_chaos.json5
 config/configured-client.properties
 config/xaerohud.txt

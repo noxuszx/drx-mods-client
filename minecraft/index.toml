@@ -3863,11 +3863,3 @@ hash = "71f3a30d3026516fcf3b8bf52215a929b2e1787ad6f3b1aeea5d1755f303662c"
 file = "resourcepacks/quark-delight-excalibur-support.pw.toml"
 hash = "a5dbb4ed894e7da00a5b18033e34e11893a3f640b1d5ed8acff3d166faf03913"
 metafile = true
-
-[[files]]
-file = "servers.dat"
-hash = "cf684c9639eadbc1009de28c2d381a57a6bce7ced00885f7e05fac1446dcedcb"
-
-[[files]]
-file = "servers.dat_old"
-hash = "74baea38f2d9c78396498b5a1de974c45803582a616990308b4485bf15fd9ecb"
