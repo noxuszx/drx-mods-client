@@ -1796,6 +1796,11 @@ hash = "e8650a690b56921039a7f984c71ebffc8a4e47d0c74e836eee64d964d76538fd"
 metafile = true
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "7d5659cf745f95eedf7a907184698eb950d5ef067d011da028b72a578642fe90"
+metafile = true
+
+[[files]]
 file = "mods/bellsandwhistles.pw.toml"
 hash = "e1f4a53e3e52b534add5dd018597fefd345d9bd6350b9c46ef0ec281fc62af8e"
 metafile = true
@@ -1858,6 +1863,11 @@ metafile = true
 [[files]]
 file = "mods/compat-delight.pw.toml"
 hash = "c2fa573c0956c12092a57877b9198290fb15ba1c8cf89a6e7268a69a85ff4bd3"
+metafile = true
+
+[[files]]
+file = "mods/cooking-for-blockheads.pw.toml"
+hash = "9edfcf5022b68ae0234b2d5c15b710fc3f27407d84aeeb917615dffbd42c8b92"
 metafile = true
 
 [[files]]
