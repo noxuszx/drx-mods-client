@@ -1578,7 +1578,7 @@ hash = "446714abc6b3dcdfc37c7719d377d45127e0fd13b375b7f425c386eb2d533164"
 
 [[files]]
 file = "drx-index.json"
-hash = "d7b8496f45ec8d3fa82432ce7506553a149c8eddca96cfb8ab09f64f47258899"
+hash = "946e746ea5f5d0483dca98dd265cfcac42077fe51a06cf6e348392904075b75e"
 
 [[files]]
 file = "icon.png"
@@ -1945,6 +1945,11 @@ hash = "1d91b46a5973bda84e2b314878693ef5df83475b95569a75b00de096edfe3df4"
 metafile = true
 
 [[files]]
+file = "mods/create-enchantment-industry.pw.toml"
+hash = "9632e3a695f69473d879e285e46007fd5037cb5abc8db02a8bec79689864d0fc"
+metafile = true
+
+[[files]]
 file = "mods/create-jetpack.pw.toml"
 hash = "4c0763d5351f0264d1d60c6fee012663f4855a9def0c31c309560779782945d1"
 metafile = true
@@ -1990,6 +1995,11 @@ hash = "350357b34feae2f0971d114ba856e4915e508efec110eea5ebdeac419d515e08"
 metafile = true
 
 [[files]]
+file = "mods/croptopia-delight.pw.toml"
+hash = "7337e191838e7563878f6ec1380c68a1c491fbdbe304b31e7c8438bf61910cef"
+metafile = true
+
+[[files]]
 file = "mods/cryonicconfig.pw.toml"
 hash = "eae581f5bad381846ee73f31f511b91188da20579f2d42f90d828cf8c43bd248"
 metafile = true
@@ -2007,6 +2017,11 @@ metafile = true
 [[files]]
 file = "mods/curios.pw.toml"
 hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
+metafile = true
+
+[[files]]
+file = "mods/curse-of-pandora.pw.toml"
+hash = "7f6cef74f275cfa09f4ab9f3b48f054e901ad9848ad972822bd76f2680e85139"
 metafile = true
 
 [[files]]
@@ -2076,7 +2091,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
-hash = "efc2c4fe9e2cc169aff61a6b7a41ea9bc7a22a90aadf0776b22de647ddf3cef6"
+hash = "9aab64fbec4cc794817026caf84e7d0dff14ba3892da94aa0e00d23c84560499"
 metafile = true
 
 [[files]]
@@ -2112,6 +2127,11 @@ metafile = true
 [[files]]
 file = "mods/ftb-ultimine-forge.pw.toml"
 hash = "3529bc9c3a7b54933869be1d1d84a948d091c3d6064bbb6b17874d7c153b4dca"
+metafile = true
+
+[[files]]
+file = "mods/fungal-infection-spore.pw.toml"
+hash = "824a383560cd997e0c2603f74843b42e9d44a84a09da732094e6edbfbb3f4a18"
 metafile = true
 
 [[files]]
@@ -2180,6 +2200,11 @@ hash = "e7e6b3effe3022cf1fdb900c857111fdcbfd6b385c2d5bd28c914efaed436ecb"
 metafile = true
 
 [[files]]
+file = "mods/jade.pw.toml"
+hash = "b6e0a61fea06f8d6d8e1672cf07b682625c4b74efd548d5093cd9c1fed167eec"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "bddad012395abb9a59b369b39837a04cf956320db9b778a4c922be2494607f46"
 metafile = true
@@ -2197,6 +2222,16 @@ metafile = true
 [[files]]
 file = "mods/kubejs.pw.toml"
 hash = "018fd970193f808f8c28f873d8b8c69ac9ba134712c7db27fc8d639cb226c9a6"
+metafile = true
+
+[[files]]
+file = "mods/l2-complements.pw.toml"
+hash = "9fc7c2eefc34c5aad250388688e55f539a0eb506d2971561bb1d27bef5ac1631"
+metafile = true
+
+[[files]]
+file = "mods/l2library.pw.toml"
+hash = "084c968377b79038daf8ce77bee9d86c3be4b2895ccab6f4a50915743d1533e9"
 metafile = true
 
 [[files]]
@@ -2400,6 +2435,11 @@ hash = "593fa7b30ab016aa45be07bd6bef3a9f160ed0f24689850d60bf84995d69b843"
 metafile = true
 
 [[files]]
+file = "mods/spore-inquisition.pw.toml"
+hash = "b0b2ba6731761d2e7d42e77bc28a9a8185272667ee87865871aaed9006dcd532"
+metafile = true
+
+[[files]]
 file = "mods/structure-essentials-forge-fabric.pw.toml"
 hash = "dcbf8b45454dc87262ef3660d21e7fb73f035e3a65aa8fb6c1c711c63cec335d"
 metafile = true
@@ -2417,6 +2457,11 @@ metafile = true
 [[files]]
 file = "mods/the-knocker.pw.toml"
 hash = "a96d14bcc58f21a1b1af5e0147543ea224342f7e636106c1a73c0818fd69eeb6"
+metafile = true
+
+[[files]]
+file = "mods/the-lost-cities.pw.toml"
+hash = "846d8a67b0c69ebc78ade5c37efb2f80e9e590555d70c97696946f9f1658b1ee"
 metafile = true
 
 [[files]]

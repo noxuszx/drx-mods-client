@@ -475,6 +475,14 @@
       "hash": "8eb18a280b265e598540306275b51a165836f4b14c6c703b6ced11fcac50bfab439e4deb69e222f62614a9f15fa0ef58e5bd84e20e37ae57755d9c2f8b134057"
     },
     {
+      "name": "Easy Anvils",
+      "fileName": "EasyAnvils-v21.1.0-1.21.1-NeoForge.jar",
+      "manifestPath": "mods/easy-anvils.pw.toml",
+      "side": "both",
+      "hashFormat": "sha512",
+      "hash": "366eed1f4831e4044566833e07e5f6201ef1d178d0b30938b8a8a34bcac08c904c95ca0afe87bd55ea06b87cce85ee70c95d0cddd0ae053b1302d288252fe98f"
+    },
+    {
       "name": "Easy Diet",
       "fileName": "tharidia_easydiet-0.1.2-alpha.jar",
       "manifestPath": "mods/easy-diet.pw.toml",
@@ -1097,6 +1105,14 @@
       "side": "both",
       "hashFormat": "sha512",
       "hash": "bb7119fc18ed36095daa8dc0caffd5c5c3357ff1bae0ffce4edbab965d8a57a0fb7c63b7e07c1c790ffa4477a4cfc7625b0b23214b9ec7c5cfa10b7f0caa89b7"
+    },
+    {
+      "name": "Visual Workbench",
+      "fileName": "VisualWorkbench-v21.1.1-1.21.1-NeoForge.jar",
+      "manifestPath": "mods/visual-workbench.pw.toml",
+      "side": "both",
+      "hashFormat": "sha512",
+      "hash": "8e8837d2ddf7d60d192597d0c53d0fe3cd10858bf1cd015b154bc87a05603c0b849acc966592671d927bdb421c83f3c95f80ce5ba63717825508ef1579437aac"
     },
     {
       "name": "YetAnotherConfigLib",
@@ -3085,6 +3101,11 @@
       "path": "defaultconfigs/champions-ranks.toml",
       "hashFormat": "sha256",
       "hash": "446714abc6b3dcdfc37c7719d377d45127e0fd13b375b7f425c386eb2d533164"
+    },
+    {
+      "path": "drx-index.json",
+      "hashFormat": "sha256",
+      "hash": "d7b8496f45ec8d3fa82432ce7506553a149c8eddca96cfb8ab09f64f47258899"
     },
     {
       "path": "icon.png",

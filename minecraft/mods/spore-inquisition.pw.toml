@@ -1,0 +1,13 @@
+name = "Spore inquisition"
+filename = "sporeinquisition-4.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/GJBRv9tX/versions/X9RQQYsH/sporeinquisition-4.1.jar"
+hash-format = "sha512"
+hash = "f6ef0f86657e5242f86bc3623e3a25a417b5ad7a01828a69a3264b12835a0585b40aa5a0ead2af550b19448172f999a7ae2d0c376b23cbee0bf6934efdec374c"
+
+[update]
+[update.modrinth]
+mod-id = "GJBRv9tX"
+version = "X9RQQYsH"
