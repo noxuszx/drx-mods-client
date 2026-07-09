@@ -2461,7 +2461,7 @@ metafile = true
 
 [[files]]
 file = "mods/the-lost-cities.pw.toml"
-hash = "846d8a67b0c69ebc78ade5c37efb2f80e9e590555d70c97696946f9f1658b1ee"
+hash = "8d26ce56b4ca4a559af01d5ae4fb1a8189ac428de513ef03cc305df68c748cf8"
 metafile = true
 
 [[files]]
