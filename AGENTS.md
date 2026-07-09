@@ -15,11 +15,21 @@ Current pack intent:
 
 - PrismLauncher should stay playable from this instance
 - GitHub-ready pack source lives under `minecraft/`
+- This repo is the canonical source for the external installer app deployed through Cloudflare Pages
+- The hosted app reads `minecraft/pack.toml` and `minecraft/index.toml` to decide what client instances should download
+- Do not install or commit mod jar files into this repo; keep only Packwiz metadata such as `minecraft/mods/*.pw.toml`
 - Do not index personal worlds, logs, screenshots, or local UI/history files
 
 Hosted pack URL:
 
 - `https://noxuszx.github.io/drx-mods-client/minecraft/pack.toml`
+
+Cloudflare Pages notes:
+
+- This is a static source deployment, not a Worker app
+- Use build command `npm run build`
+- Use build output directory `site`
+- Do not use `npx wrangler deploy` for this Pages project; that command expects a Worker/static-assets configuration
 
 Publishing/testing notes:
 

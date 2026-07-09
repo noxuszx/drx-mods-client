@@ -29,10 +29,7 @@ jobs:
         uses: actions/configure-pages@v5
 
       - name: Stage Packwiz site
-        run: |
-          mkdir -p site
-          cp -R minecraft site/minecraft
-          touch site/.nojekyll
+        run: npm run build
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
