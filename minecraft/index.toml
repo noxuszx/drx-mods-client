@@ -2171,11 +2171,6 @@ hash = "e7e6b3effe3022cf1fdb900c857111fdcbfd6b385c2d5bd28c914efaed436ecb"
 metafile = true
 
 [[files]]
-file = "mods/inventory-tweaks-refoxed.pw.toml"
-hash = "23a6d125c91c8f4257c4e73fe320ce81f0b2a0c1d6316664296edca6b41acb70"
-metafile = true
-
-[[files]]
 file = "mods/jei.pw.toml"
 hash = "bddad012395abb9a59b369b39837a04cf956320db9b778a4c922be2494607f46"
 metafile = true

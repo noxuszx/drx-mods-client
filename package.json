@@ -2,6 +2,7 @@
   "name": "drx-mods-client",
   "private": true,
   "scripts": {
-    "build": "node scripts/build-cloudflare-pages.mjs"
+    "generate-index": "node scripts/generate-drx-index.mjs",
+    "build": "npm run generate-index && node scripts/build-cloudflare-pages.mjs"
   }
 }
