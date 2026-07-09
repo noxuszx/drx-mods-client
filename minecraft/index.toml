@@ -1577,6 +1577,10 @@ file = "defaultconfigs/champions-ranks.toml"
 hash = "446714abc6b3dcdfc37c7719d377d45127e0fd13b375b7f425c386eb2d533164"
 
 [[files]]
+file = "drx-index.json"
+hash = "d7b8496f45ec8d3fa82432ce7506553a149c8eddca96cfb8ab09f64f47258899"
+
+[[files]]
 file = "icon.png"
 hash = "0067fdef6e88899ca36b328ab020dce57878aadb2dc6b031d36f77ac3b24bf7c"
 
@@ -2031,6 +2035,11 @@ hash = "ae6fd52d8bdcbeca5bbe6db840f22f92c1928fe0fda22017b19612b9b00a245a"
 metafile = true
 
 [[files]]
+file = "mods/easy-anvils.pw.toml"
+hash = "9f511e824978b45d8d90244e921dafcbb9bc01d1e4aced66afac71740ffa5ff6"
+metafile = true
+
+[[files]]
 file = "mods/easy-diet.pw.toml"
 hash = "ac4a0751cffe3e92ad71aa871ac73a4608cf3aac5eec8b87fc8f28472ff6b910"
 metafile = true
@@ -2418,6 +2427,11 @@ metafile = true
 [[files]]
 file = "mods/uranus.pw.toml"
 hash = "c16ee91eeb20999c83deedbf93ce3787bb9bfefad56abd242d90a94dc0534ca0"
+metafile = true
+
+[[files]]
+file = "mods/visual-workbench.pw.toml"
+hash = "baba208274c2694de645628138244a4316942cfbf9cf67b8c8dd656013fcbc54"
 metafile = true
 
 [[files]]
