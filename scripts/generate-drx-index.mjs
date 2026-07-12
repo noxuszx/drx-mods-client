@@ -143,6 +143,7 @@ for (const [filePath, entry] of indexedByPath) {
 for (const [filePath, entry] of indexedByPath) {
   if (filePath.startsWith('mods/')) continue;
   if (entry.metafile) continue;
+  if (filePath === 'drx-index.json') continue;
   otherFiles.push({
     path: filePath,
     hashFormat: indexHashFormat,

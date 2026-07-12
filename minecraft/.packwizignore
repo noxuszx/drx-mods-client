@@ -83,3 +83,4 @@ packwiz-installer-bootstrap.jar
 packwiz-installer.jar
 packwiz.json
 run-packwiz-installer.bat
+/drx-index.json

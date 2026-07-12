@@ -51,6 +51,22 @@
       "hash": "61fdc2384975445faacc548076f597e40315b773"
     },
     {
+      "name": "Apothic Attributes",
+      "fileName": "ApothicAttributes-1.21.1-2.9.1.jar",
+      "manifestPath": "mods/apothic-attributes.pw.toml",
+      "side": "both",
+      "hashFormat": "sha512",
+      "hash": "e8e40e2f5c7f400b31050e08cae444b9133808208d1455fa9cf864677953232922688d2587d9c7b4cd538197d50457d50711890634900ebf3310b94076ef7993"
+    },
+    {
+      "name": "Apothic-Enchanting",
+      "fileName": "ApothicEnchanting-1.21.1-1.5.3.jar",
+      "manifestPath": "mods/apothic-enchanting.pw.toml",
+      "side": "both",
+      "hashFormat": "sha512",
+      "hash": "e7d4f17d816657319b7c27d511e2cad5ed80b0588dd9ed57b204f41aeca6399030e42fde38640a7d285d2b18dc4f602009caa9ac3aad803c8515d0bd8fd29d29"
+    },
+    {
       "name": "Aquaculture Delight",
       "fileName": "aquaculturedelight-1.2.0-neoforge-1.21.1.jar",
       "manifestPath": "mods/aquaculture-delight.pw.toml",
@@ -331,6 +347,14 @@
       "hash": "69c340c6ef729d41e3ecb71de5d7d8db53a32dd08780458bb8828a960cd54d5d53dc19ad2aa948a0e7328013fef49dc5276edb6641eec33a52fe5f6ba373c75c"
     },
     {
+      "name": "Create: Enchantment Industry",
+      "fileName": "create-enchantment-industry-2.4.2.jar",
+      "manifestPath": "mods/create-enchantment-industry.pw.toml",
+      "side": "both",
+      "hashFormat": "sha512",
+      "hash": "16bd3dcd82159d6793bd9cc24dcb911b90e838c67f781581afea8c6af21f53106ac54de7f2dffe1a8576cf8908e68658538a1c76d3c44691109a24bc60460436"
+    },
+    {
       "name": "Create Jetpack",
       "fileName": "create_jetpack-forge-5.1.2.jar",
       "manifestPath": "mods/create-jetpack.pw.toml",
@@ -403,6 +427,22 @@
       "hash": "e3a31eefb15d37bd1a2ba9012d0c00ec92f7c9e57b7a35c993676ea0cc85ba4f35a055a9f98d57636f24a0562d6da18b4e90713f4f46d47959666a097a6a5cea"
     },
     {
+      "name": "Croptopia Delight",
+      "fileName": "croptopiadelight-1.0.1.jar",
+      "manifestPath": "mods/croptopia-delight.pw.toml",
+      "side": "both",
+      "hashFormat": "sha512",
+      "hash": "96f2b8a3b12cb0dc40441df44a04fd5a95f7cdc7ec021ac37b411be0cb6ec41fe11001741054bd8200e2dd18a6da54c2183fbd4bf4301660000cdd6ec0798fb7"
+    },
+    {
+      "name": "Croptopia",
+      "fileName": "croptopia-neoforge-1.21.1-4.2.4.jar",
+      "manifestPath": "mods/croptopia.pw.toml",
+      "side": "both",
+      "hashFormat": "sha1",
+      "hash": "2f03480a38c5d9113d22ae2012c69b165079c0e0"
+    },
+    {
       "name": "Cryonic Config",
       "fileName": "cryonicconfig-neoforge-1.0.0+mc1.21.11.jar",
       "manifestPath": "mods/cryonicconfig.pw.toml",
@@ -433,6 +473,14 @@
       "side": "both",
       "hashFormat": "sha512",
       "hash": "5981a267686b744e7e3c227f78cbcd5267c14ac6979a28e814695f4589273998563147207fef4a5cdb7cdbdc39797cd95d9e4abadb55869f18e02a38d0654ae5"
+    },
+    {
+      "name": "Curse of Pandora",
+      "fileName": "curseofpandora-3.0.7.jar",
+      "manifestPath": "mods/curse-of-pandora.pw.toml",
+      "side": "both",
+      "hashFormat": "sha512",
+      "hash": "9ceddd87d224a9193cf8e079b42f7592297e68884e7ee34ad3d768906886881c3787911536fa13ad475653abb334588ec80deaa1e359f2d94010b99ccb7bab24"
     },
     {
       "name": "Decocraft",
@@ -515,20 +563,20 @@
       "hash": "5d3012ecebbde78c59fdb1f3ade5217c7948d7db46318bf98b9a05bb21d2841518f1ffd8a7155d18ce4d127f4a791afcca839a2374d62823742fd9e732d4f5d8"
     },
     {
-      "name": "Enhanced Enchanting & Enchantments",
-      "fileName": "enhanced_enchanting-2.0.3.0-neoforge-1.21.1.jar",
-      "manifestPath": "mods/enhanced-enchanting.pw.toml",
-      "side": "both",
-      "hashFormat": "sha1",
-      "hash": "d950fa8f0db14e4950394aecab4ed45b59615040"
-    },
-    {
       "name": "Entity Culling",
       "fileName": "entityculling-neoforge-1.10.5-mc1.21.1.jar",
       "manifestPath": "mods/entityculling.pw.toml",
       "side": "client",
       "hashFormat": "sha512",
       "hash": "0c22502b84b13d8ac6daffe14ac77e7306b5b7a48f5cd9b3950d9e1d60b3786104aa035fbfdb208b1c9a75ad0e356301a774da32edc3f71cb3a53e2d28fd39e6"
+    },
+    {
+      "name": "EpheroLib",
+      "fileName": "EpheroLib-1.21.1-NEO-FORGE-1.2.0.jar",
+      "manifestPath": "mods/epherolib.pw.toml",
+      "side": "both",
+      "hashFormat": "sha1",
+      "hash": "0ee19acd03b6f03b568b2682b7e662bfd8af73ef"
     },
     {
       "name": "Fantasy Armor (Medieval Series)",
@@ -543,8 +591,8 @@
       "fileName": "FarmersDelight-1.21.1-1.3.2.jar",
       "manifestPath": "mods/farmers-delight.pw.toml",
       "side": "both",
-      "hashFormat": "sha1",
-      "hash": "bf7e7dede99e832de20e191b1f6c11f7a9b9a622"
+      "hashFormat": "sha512",
+      "hash": "da5a4236427df8010d75992201c8723ac84a8fa71efa55670551d333cac94a90ae8e8c536da63ae07a67f4d00dc2774ae4151030f41d26886e508f4a037c8694"
     },
     {
       "name": "FastFurnace",
@@ -601,6 +649,14 @@
       "side": "both",
       "hashFormat": "sha1",
       "hash": "c96a7cc0b52bf919660ea61c1536cebd9d5773b3"
+    },
+    {
+      "name": "Fungal Infection: Spore",
+      "fileName": "spore_1.21.1_2.2.0j_neo.jar",
+      "manifestPath": "mods/fungal-infection-spore.pw.toml",
+      "side": "both",
+      "hashFormat": "sha1",
+      "hash": "43b07f98a760328a6d092f8a8c502e6ea81989e5"
     },
     {
       "name": "Fusion (Connected Textures)",
@@ -707,6 +763,14 @@
       "hash": "68b0d915e41fb0ce9d12a8c580d688a604770ded2b21e963058aa6d80cbc5661c481416d051a541395b5c79f461edcb658046e53cfcfb405179a450662ed01b5"
     },
     {
+      "name": "Jade 🔍",
+      "fileName": "Jade-1.21.1-NeoForge-15.10.5.jar",
+      "manifestPath": "mods/jade.pw.toml",
+      "side": "both",
+      "hashFormat": "sha512",
+      "hash": "678b998677a3d73f98f82dac4093893bfc8a3c2335ec627b4147811c381a040475decdb8db31cc3cbe600abb5a7a6dedcd356eed0ba471af0becdcf49bf5b137"
+    },
+    {
       "name": "Just Enough Items (JEI)",
       "fileName": "jei-1.21.1-neoforge-19.27.0.343.jar",
       "manifestPath": "mods/jei.pw.toml",
@@ -753,6 +817,22 @@
       "side": "both",
       "hashFormat": "sha512",
       "hash": "609cc017f4c2050c263f2bc0574902a233997e60e84a5a1376e7299a169bb86102011351ef79536762711abe9eecde69ce764c9d0eb9c9a84845e3da09919397"
+    },
+    {
+      "name": "L2 Complements",
+      "fileName": "l2complements-3.1.3.jar",
+      "manifestPath": "mods/l2-complements.pw.toml",
+      "side": "both",
+      "hashFormat": "sha512",
+      "hash": "fa8f15d6ada670cf26ad9e2b9a3cea6ba34064017f9b421089357e206016be3e1491694f2d6140b41866d447249f8744b94eeab44abaa61f248fa255bfa7cd72"
+    },
+    {
+      "name": "L2 Library",
+      "fileName": "l2library-3.0.8.jar",
+      "manifestPath": "mods/l2library.pw.toml",
+      "side": "both",
+      "hashFormat": "sha512",
+      "hash": "fcae5931448a60ec2fedca5b04a6e9b489090b1b4b251be8aae216fbda4add9155bb6b1045c7171ef7c99cad979c4e88ed0acfa9ea10ac7fe4452d81f1a861cf"
     },
     {
       "name": "Legendary Survival Overhaul",
@@ -1059,6 +1139,22 @@
       "hash": "f86ce34f2759c69df82578c397ff55b666c84626229a98f598458b960c21b38c95d6bfef4772af7f963c4f4868e5e2d9aef6b99c1d51bab55bf45e0e6e6b5ed4"
     },
     {
+      "name": "Spore inquisition",
+      "fileName": "sporeinquisition-4.1.jar",
+      "manifestPath": "mods/spore-inquisition.pw.toml",
+      "side": "both",
+      "hashFormat": "sha512",
+      "hash": "f6ef0f86657e5242f86bc3623e3a25a417b5ad7a01828a69a3264b12835a0585b40aa5a0ead2af550b19448172f999a7ae2d0c376b23cbee0bf6934efdec374c"
+    },
+    {
+      "name": "Storage Drawers",
+      "fileName": "StorageDrawers-neoforge-1.21.1-13.11.4.jar",
+      "manifestPath": "mods/storagedrawers.pw.toml",
+      "side": "both",
+      "hashFormat": "sha512",
+      "hash": "df97b8b5053a902264a236a71e7585b78d9d48a0bce585033aa8b169896d775f6fda462cfc77431af79cc596ab356eb9642e0c69a205a46b02d4d6f7ab3e74e9"
+    },
+    {
       "name": "Structure Essentials",
       "fileName": "structureessentials-1.21.1-5.0.jar",
       "manifestPath": "mods/structure-essentials-forge-fabric.pw.toml",
@@ -1089,6 +1185,14 @@
       "side": "both",
       "hashFormat": "sha512",
       "hash": "074df56e2158a39e9c5e1ae91f5809e50495ec8864e74b0f15a834b82c0bcf294da4b689f8fa1f5378a92c85ad5d3bead52aa30359c17a12c26b77ad806252bd"
+    },
+    {
+      "name": "The Lost Cities",
+      "fileName": "lostcities-1.21-8.3.10.jar",
+      "manifestPath": "mods/the-lost-cities.pw.toml",
+      "side": "both",
+      "hashFormat": "sha512",
+      "hash": "f202f0cf97719fb1a16c84fa5952c6889e27e0f69d97c31afb7fa9ab7c4ada474a4ba81053d6784d660ae2e68a7e86a7cd0eec83d58e426a6e0f7e6da63d1a63"
     },
     {
       "name": "UnionLib",
@@ -3101,11 +3205,6 @@
       "path": "defaultconfigs/champions-ranks.toml",
       "hashFormat": "sha256",
       "hash": "446714abc6b3dcdfc37c7719d377d45127e0fd13b375b7f425c386eb2d533164"
-    },
-    {
-      "path": "drx-index.json",
-      "hashFormat": "sha256",
-      "hash": "d7b8496f45ec8d3fa82432ce7506553a149c8eddca96cfb8ab09f64f47258899"
     },
     {
       "path": "icon.png",
