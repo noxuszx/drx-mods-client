@@ -1770,6 +1770,16 @@ hash = "d5048142116637b820bff30b6c5afbe83a293a71968483c6eb8c323390827e3d"
 metafile = true
 
 [[files]]
+file = "mods/apothic-attributes.pw.toml"
+hash = "2a9d96fe08eef2570e703eace50ec5d5d35323bf6d480404c0fc490d7a75e3b4"
+metafile = true
+
+[[files]]
+file = "mods/apothic-enchanting.pw.toml"
+hash = "c3d636a31314ef7faef5822f9f7d90f2026a319626415b51b6af78b9ecec24f1"
+metafile = true
+
+[[files]]
 file = "mods/aquaculture-delight.pw.toml"
 hash = "aa3a2b60567657cf093c5ec9d384df99c8ba94f7907305c18d8f50c784957a90"
 metafile = true
@@ -2077,11 +2087,6 @@ metafile = true
 [[files]]
 file = "mods/enhanced-block-entities-neoforged.pw.toml"
 hash = "ba19e88c2de56b0dbfc1731333e983dfaf0abb900fe36d1893e0cf70077e6ef5"
-metafile = true
-
-[[files]]
-file = "mods/enhanced-enchanting.pw.toml"
-hash = "99714911497bc39941980507df55ba57fe212dc0ebc4ce1d383e173ab0b680c0"
 metafile = true
 
 [[files]]
@@ -2447,6 +2452,11 @@ metafile = true
 [[files]]
 file = "mods/spore-inquisition.pw.toml"
 hash = "b0b2ba6731761d2e7d42e77bc28a9a8185272667ee87865871aaed9006dcd532"
+metafile = true
+
+[[files]]
+file = "mods/storagedrawers.pw.toml"
+hash = "1d277d4c4d8f3abc49176d3b029584b70d92dcb9b89cf2cf6094e674fe9885c8"
 metafile = true
 
 [[files]]
