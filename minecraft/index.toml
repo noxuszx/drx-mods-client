@@ -1577,10 +1577,6 @@ file = "defaultconfigs/champions-ranks.toml"
 hash = "446714abc6b3dcdfc37c7719d377d45127e0fd13b375b7f425c386eb2d533164"
 
 [[files]]
-file = "drx-index.json"
-hash = "946e746ea5f5d0483dca98dd265cfcac42077fe51a06cf6e348392904075b75e"
-
-[[files]]
 file = "icon.png"
 hash = "0067fdef6e88899ca36b328ab020dce57878aadb2dc6b031d36f77ac3b24bf7c"
 
@@ -1745,6 +1741,11 @@ file = "kubejs/startup_scripts/main.js"
 hash = "124ce8394a286775262df6908641de63ce4a0e8fb5943563f0615f97985e6776"
 
 [[files]]
+file = "mods/ae2.pw.toml"
+hash = "ed45c352a49b65c7221e57d979d0c6935522dfef4968aa5b7421f4d3e670ce40"
+metafile = true
+
+[[files]]
 file = "mods/alexs-delight.pw.toml"
 hash = "516e0ce480882c6a73773d685dfc00b2228e1be6f2108488a614063d0dca261e"
 metafile = true
@@ -1797,6 +1798,11 @@ metafile = true
 [[files]]
 file = "mods/armor-of-the-ages.pw.toml"
 hash = "2a9dc78e509807224bd0be9a044b099ed59ec849286e5834e34cb8c655e5b83d"
+metafile = true
+
+[[files]]
+file = "mods/ars-nouveau-crafting-terminal-improvements.pw.toml"
+hash = "0ea0061a292ff316e1d331fdd40b02991ef9ca907c0a7bb3ee08173d238dd098"
 metafile = true
 
 [[files]]
@@ -2005,6 +2011,16 @@ hash = "350357b34feae2f0971d114ba856e4915e508efec110eea5ebdeac419d515e08"
 metafile = true
 
 [[files]]
+file = "mods/cristel-lib.pw.toml"
+hash = "08a334ae5565e122d26b819cba16ce784776a10fe100ab2b22de72a5a2bac653"
+metafile = true
+
+[[files]]
+file = "mods/critters-and-companions.pw.toml"
+hash = "c7b0ee75d0465c80bf03955ebd27be8a7124f7ff8c1f922d3e5bc1af5b1ba002"
+metafile = true
+
+[[files]]
 file = "mods/croptopia-delight.pw.toml"
 hash = "7337e191838e7563878f6ec1380c68a1c491fbdbe304b31e7c8438bf61910cef"
 metafile = true
@@ -2167,6 +2183,11 @@ metafile = true
 [[files]]
 file = "mods/glitchcore.pw.toml"
 hash = "e53646f88aeb6bd54c38db50da972abdac91e83c145a8f974107b0ca103b15bc"
+metafile = true
+
+[[files]]
+file = "mods/guideme.pw.toml"
+hash = "f7448243d61c3e7c5941896816afb91dd069cef492a2d93ceba9f48e391cdf44"
 metafile = true
 
 [[files]]
@@ -2410,6 +2431,11 @@ hash = "860d3b3e2c407980ece69e51896fb5e2e1ffcdb63b6956d440f331cf73777c83"
 metafile = true
 
 [[files]]
+file = "mods/simply-bows.pw.toml"
+hash = "8521566f4650d8b0bcf2ff31103655636028538c00540d99fa28839e4e1ef2b8"
+metafile = true
+
+[[files]]
 file = "mods/simply-swords.pw.toml"
 hash = "1d37ac39109aa15d03a3a7ddf6402d63f72277acafca53f61830046acfe6edb0"
 metafile = true
@@ -2497,6 +2523,11 @@ metafile = true
 [[files]]
 file = "mods/visual-workbench.pw.toml"
 hash = "baba208274c2694de645628138244a4316942cfbf9cf67b8c8dd656013fcbc54"
+metafile = true
+
+[[files]]
+file = "mods/wwoo.pw.toml"
+hash = "68b74b23a76eaf8a5ed82524b581a69caed0a0139176f01c437c9b3fb0dc094e"
 metafile = true
 
 [[files]]

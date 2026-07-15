@@ -1,0 +1,13 @@
+name = "Critters and Companions"
+filename = "crittersandcompanions-neoforge-2.6.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Yd4wb5wZ/versions/3ouvVSn2/crittersandcompanions-neoforge-2.6.0.jar"
+hash-format = "sha512"
+hash = "a834d5747140b46973b25988e071996382fa63dcda5fe91716f8b15db9e7cc0b23921171140b32a485cdbebb58cbde93d9572bbc0f8aa54a0ae9d671c5583319"
+
+[update]
+[update.modrinth]
+mod-id = "Yd4wb5wZ"
+version = "3ouvVSn2"
