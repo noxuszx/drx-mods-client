@@ -1826,6 +1826,11 @@ hash = "f54cf71372645810ce22b0ba68e706139565437150e4cfd22bde4c14606099c4"
 metafile = true
 
 [[files]]
+file = "mods/attributefix.pw.toml"
+hash = "a445471ac6843bcf9fb76eabb4357de0357dfa7782be536a7827a26764fe45c1"
+metafile = true
+
+[[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "e8650a690b56921039a7f984c71ebffc8a4e47d0c74e836eee64d964d76538fd"
 metafile = true
@@ -1848,6 +1853,11 @@ metafile = true
 [[files]]
 file = "mods/better-than-mending.pw.toml"
 hash = "12b0b7e34d631a5f2b6a544bb0a549d48201671feac81a9ce0766db091adbd6e"
+metafile = true
+
+[[files]]
+file = "mods/bookshelf-lib.pw.toml"
+hash = "68d6016fa3707c434b3aca5db041c7518c70feb53d0183faa2502cc6efd4c827"
 metafile = true
 
 [[files]]
@@ -1958,6 +1968,11 @@ metafile = true
 [[files]]
 file = "mods/create-easy-structures.pw.toml"
 hash = "1d91b46a5973bda84e2b314878693ef5df83475b95569a75b00de096edfe3df4"
+metafile = true
+
+[[files]]
+file = "mods/create-encased.pw.toml"
+hash = "d6caec9fa4c1fdb3b27d6f68ff4197760fef9ae87eaa8bd57cd08e011af3b06e"
 metafile = true
 
 [[files]]
@@ -2088,6 +2103,11 @@ metafile = true
 [[files]]
 file = "mods/easy-diet.pw.toml"
 hash = "ac4a0751cffe3e92ad71aa871ac73a4608cf3aac5eec8b87fc8f28472ff6b910"
+metafile = true
+
+[[files]]
+file = "mods/easy-shulker-boxes.pw.toml"
+hash = "9f96f136c61af30a45a3c85588d8906ae8031b58316ae70d16930c01fd211ed6"
 metafile = true
 
 [[files]]
@@ -2378,6 +2398,11 @@ metafile = true
 [[files]]
 file = "mods/polymorph.pw.toml"
 hash = "152769b5dfbb92a836634e315898b23b6a555c60b6f05ddf38c00085f2b784f6"
+metafile = true
+
+[[files]]
+file = "mods/prickle.pw.toml"
+hash = "eab2f56ff9135b3b7253ea5a73deae2f887e2876f5f0432936044a6e926937b4"
 metafile = true
 
 [[files]]
